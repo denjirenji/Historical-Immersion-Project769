@@ -1,0 +1,12 @@
+# -*- ck2.history.titles -*-
+
+# Duchy of Småland
+760.1.1 = {
+	holder = 194005
+}
+860.1.1 = {
+	holder = 41266 # Fictional local chief
+}
+875.1.1 = {
+	holder = 0
+}

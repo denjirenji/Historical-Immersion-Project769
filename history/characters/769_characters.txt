@@ -218,7 +218,7 @@
 
 #Norse
 2100000 = {
-	name="Sigbjörn"
+	name=Sigbjörn
 	dynasty=818
 	religion="norse_pagan"
 	culture="norse"
@@ -230,7 +230,7 @@
 	}
 }
 2100001 = {
-	name="Guðmundr"
+	name=Guðmundr
 	dynasty=1000053381
 	religion="norse_pagan"
 	culture="norse"
@@ -238,6 +238,234 @@
 		birth = yes
 	}
 	803.1.1={
+		death = yes
+	}
+}
+2100002 = {
+	name="Oskitlel"
+	dynasty=1000053389
+	religion="norse_pagan"
+	culture="norse"
+	738.1.1={
+		birth = yes
+	}
+	810.1.1={
+		death = yes
+	}
+}
+2100005 = {
+	name="Þordr"
+	dynasty=824 # Njudunge
+	religion="norse_pagan"
+	culture="norse"
+	735.1.1={
+		birth = yes
+	}
+	803.1.1={
+		death = yes
+	}
+}
+2100008 = {
+	name=Eskild
+	dynasty=1000100910
+	religion="norse_pagan"
+	culture="norse"
+	735.1.1={
+		birth = yes
+	}
+	803.1.1={
+		death = yes
+	}
+}
+
+#Fantasy
+163109 = {
+	name="Ragnarr" # Lodbrok
+	dynasty=1000100905 # Loðbróking
+	father = 194004 # Sigurd Ring
+	mother = 194056 # Alfhild of Alfheim
+	religion="norse_pagan"
+	culture="norse"
+	martial=7
+	stewardship=7
+	diplomacy=5
+	intrigue=5
+	learning=3
+	trait=wroth
+	trait=hunter
+	trait=strong
+	trait=brave
+	trait=viking
+	trait=skilled_tactician
+	
+	800.1.1={
+		birth="800.1.1"
+	}
+	818.1.1={
+		add_spouse=6836
+		give_nickname = nick_lodbrok
+	}
+	
+	860.1.1={
+		death = {
+			death_reason = death_execution
+			killer = 163103 # Aella of Northumberland
+		}
+	}
+}
+
+194004 = {
+	name = Sigurdr  # Sigurd Ring
+	dynasty = 502
+	father = 194028
+	religion = norse_pagan
+	culture = norse
+	trait = quick
+	trait = brave
+	trait = skilled_tactician
+	730.12.12 = {
+		birth = yes
+	}
+	750.1.1 = {
+		give_nickname = nick_ring
+	}
+	766.1.1 = {
+		add_spouse = 194056 # Alfhild
+	}
+	800.2.5 = {
+		death = yes
+	}
+}
+
+194056 = {
+	name = "Alfhildr"
+	female = yes
+	dynasty = 1045022
+	religion = norse_pagan
+	culture = norse
+	father = 194009
+	mother = 194057
+	750.1.1 = {
+		birth = yes
+	}
+	810.1.1 = {
+		death = yes
+	}
+}
+
+194028 = {
+	name = "Randver"
+	dynasty = 502
+	religion = norse_pagan
+	culture = norse
+	father = 194029
+	700.1.1 = {
+		birth = yes
+	}
+	761.1.1 = {
+		death = yes
+	}
+}
+
+194029 = {
+	name = "Valdar"
+	dynasty = 502
+	religion = norse_pagan
+	culture = norse
+	father = 194030
+	668.1.1 = {
+		birth = yes
+	}
+	729.1.1 = {
+		death = yes
+	}
+}
+
+194030 = {
+	name = "Olafr"
+	dynasty = 502
+	religion = norse_pagan
+	culture = norse
+	father = 194031
+	640.1.1 = {
+		birth = yes
+	}
+	700.1.1 = {
+		death = yes
+	}
+}
+
+194031 = {
+	name = "Ingjald"
+	dynasty = 502
+	religion = norse_pagan
+	culture = norse
+	father = 194032
+	620.1.1 = {
+		birth = yes
+	}
+	680.1.1 = {
+		death = yes
+	}
+}
+
+194032 = {
+	name = "Anundr"
+	dynasty = 502
+	religion = norse_pagan
+	culture = norse
+	570.1.1 = {
+		birth = yes
+	}
+	650.1.1 = {
+		death = yes
+	}
+}
+
+194033 = {
+	name = "Ingild"
+	dynasty = 502
+	religion = norse_pagan
+	culture = norse
+	female = yes
+	father = 194029
+	700.1.1 = {
+		birth = yes
+	}
+	720.1.1 = {
+		add_spouse = 194003
+	}
+	776.1.1 = {
+		death = yes
+	}
+}
+
+194009 = {
+	name = "Alfr"
+	dynasty = 1045022
+	religion = norse_pagan
+	culture = norse
+	730.1.1 = {
+		birth = yes
+	}
+	749.1.1 = {
+		add_spouse = 194057
+		capital = c_viken
+	}
+	790.1.1 = {
+		death = yes
+	}
+}
+
+194057 = {
+	name = "Rögnfrið"
+	female = yes
+	religion = norse_pagan
+	culture = norse
+	730.1.1 = {
+		birth = yes
+	}
+	780.1.1 = {
 		death = yes
 	}
 }
