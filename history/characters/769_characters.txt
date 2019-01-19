@@ -253,6 +253,31 @@
 		death = yes
 	}
 }
+2100003 = {
+	name=Húndólf
+	dynasty=1000053397
+	religion="norse_pagan"
+	culture="norse"
+	745.1.1={
+		birth = yes
+	}
+	820.1.1={
+		death = yes
+	}
+}
+2100004 = { 
+	name="Guttorm"
+        dynasty=1043303
+	religion="norse_pagan"
+	culture=norse
+	father=2100004
+	745.1.1={
+		birth = yes
+	}
+	820.1.1={
+		death = yes
+	}
+}
 2100005 = {
 	name="Þordr"
 	dynasty=824 # Njudunge
@@ -262,6 +287,31 @@
 		birth = yes
 	}
 	803.1.1={
+		death = yes
+	}
+}
+2100006 = {
+	name=Gunnarr
+	dynasty=1000053397
+	religion="norse_pagan"
+	culture="norse"
+	732.1.1={
+		birth = yes
+	}
+	815.1.1={
+		death = yes
+	}
+}
+2100007 = {
+	name=Ingemar
+	dynasty=1000053397
+	religion="norse_pagan"
+	culture="norse"
+	father=2100006
+	800.1.1={
+		birth = yes
+	}
+	865.1.1={
 		death = yes
 	}
 }
@@ -278,7 +328,7 @@
 	}
 }
 
-#Fantasy
+#Fantasy Norse
 163109 = {
 	name="Ragnarr" # Lodbrok
 	dynasty=1000100905 # Loðbróking
@@ -466,6 +516,72 @@
 		birth = yes
 	}
 	780.1.1 = {
+		death = yes
+	}
+}
+
+1228015 = { 
+	name="Audbjörn" # Audbjorn king of Foerde
+        dynasty=1000100901
+	religion="norse_pagan"
+	culture=norse
+	father=2100007
+	835.1.1={
+		birth = yes
+	}
+	878.1.1={
+		death=yes #fell at the second battle of Solskjell
+	}
+}
+
+1228021 = { 
+	name="Húndólf" # Húndólf jarl of gaular(in Foerde)
+        dynasty=1000053397
+	religion="norse_pagan"
+	culture=norse
+	father = 2100003
+	800.1.1={
+		birth = yes
+	}
+	860.1.1={
+		death = yes
+	}
+}
+1228019 = { 
+	name="Guttorm" # Eystein Glumra king or jarl of Oppland
+        dynasty=1043303
+	religion="norse_pagan"
+	culture=norse
+	father=2100004
+	810.1.1={
+		birth = yes
+	}
+	865.1.1={
+		death = yes
+	}
+}
+#Lapish
+194025 = {
+	name = "Sárra"
+	dynasty = 1045006
+	religion = finnish_pagan
+	culture = lappish
+	735.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+194026 = {
+	name = "Áilu"
+	dynasty = 1045004
+	religion = finnish_pagan
+	culture = lappish
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
 		death = yes
 	}
 }
