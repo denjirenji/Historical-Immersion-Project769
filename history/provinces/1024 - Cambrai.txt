@@ -1,0 +1,25 @@
+# 1024 - Cambrai
+
+# County Title
+title = c_cambrai
+
+# Settlements
+max_settlements = 3
+
+b_cambrai = temple
+b_esnes = castle
+
+#b_le_cateau_cambresis = city 
+
+#b_honnecourt = temple 
+#b_oisy = castle 
+#b_crevecoeur = castle 
+#b_vaucelles = temple 
+
+# Misc
+culture = old_french
+religion = catholic
+
+# History
+790.1.1 = { culture = frankish }
+1001.1.1= { b_le_cateau_cambresis = city } 

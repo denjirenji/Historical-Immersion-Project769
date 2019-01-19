@@ -1,0 +1,68 @@
+# -*- ck2.history.titles -*-
+
+430.1.1 = {
+	holder = 7255 # Niall Noigiallach
+}
+450.1.1 = {
+	holder = 7257 # Eogan son of Conal Gulban
+}
+465.1.1 = {
+	holder = 7259 # Muiredach son of Eogan
+}
+489.1.1 = {
+	holder = 7261 # Muirchertach son of Muiredach
+}
+534.1.1 = {
+	holder = 7263 # Donall son of Muirchertach
+}
+566.1.1 = {
+	holder = 7265 # Aed Uaridnach son of Donall
+}
+612.1.1 = {
+	holder = 7267 # Máel Fithrich son of Aed
+}
+630.1.1 = {
+	holder = 7269 # Máel Duin son of Máel Fithrich
+}
+681.1.1 = {
+	holder = 7271 # Fergal son of Máel Duin
+}
+722.12.11 = {
+	holder = 7273 # Niall Frossach
+}
+778.1.1 = {
+	holder = 7275 # Aed Oirdnide
+}
+819.1.1 = {
+	holder = 945 # Niall Caille
+}
+846.1.1 = {
+	holder = 944 # Aed Findliath son of Niall Caille
+}
+850.1.1 = {
+	holder = 83794 # Congalach mac Finnachta
+}
+882.1.1 = {
+	holder = 1226412 # "Maol Craiobh"
+}
+917.1.1 = {
+	holder = 1226413 # "Fogarthach"
+}
+947.1.1 = {
+	holder = 1226414 # "Donnacan"
+}
+970.1.1 = {
+	holder = 1226415 # "Mac Eiccnigh"
+}
+998.1.1 = {
+	holder = 1226416 # "Mac Leiginn"
+}
+1022.1.1 = {
+	holder = 1226417 # "Cathalan"
+}
+1027.1.1 = {
+	holder = 1226418 # "Gilla Coluim"
+}
+1048.1.1 = {
+	holder = 1226419 # "Leathlobair"
+}

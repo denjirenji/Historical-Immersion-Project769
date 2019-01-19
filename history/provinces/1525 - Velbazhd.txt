@@ -1,0 +1,25 @@
+# -*- ck2.history.provinces -*-
+
+# 1525 - Velbazhd
+
+# County Title
+title = c_velbazhd
+
+# Settlements
+max_settlements = 3
+
+b_pernik = tribal
+#b_velbazhd = castle
+#b_zletovo = temple
+#b_zemen = temple
+#b_osogovo = temple
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_pernik = castle }
+867.1.1 = { b_velbazhd = castle }
+867.1.1 = { culture = bulgarian }

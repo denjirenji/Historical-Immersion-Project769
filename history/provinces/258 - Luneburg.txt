@@ -1,0 +1,30 @@
+# 258 - Lüneburg
+
+# County Title
+title = c_luneburg
+
+# Settlements
+max_settlements = 6
+
+b_luneburg = tribal
+b_st_michael_lunbeburg = temple 
+b_bardowick = city
+b_celle = city
+#b_lauenrode = castle
+#b_hannover = city
+#b_ahlden = castle
+#b_depenau = castle
+
+# Misc
+culture = old_saxon
+religion = norse_pagan
+
+# History
+790.1.1 = { 
+	culture = low_saxon
+	b_luneburg = castle 
+}
+956.1.1 = { b_st_michael_lunbeburg = temple  }
+985.1.1 = { b_celle = city }
+1100.1.1 = { culture = low_german }
+1241.1.1 = { b_hannover = city }

@@ -1,0 +1,30 @@
+# -*- ck2.history.provinces -*-
+
+# 1522 - Vrhbosna
+# County Title
+title = c_vrhbosna
+
+# Settlements
+max_settlements = 5
+
+b_bobovac = tribal
+b_visoki = city
+b_mile = temple
+#b_olovac = city
+#b_mostre = temple #Theological university 1175
+
+ 
+
+
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_bobovac = castle }
+867.1.1 = { culture = croatian }
+867.1.1 = { religion = catholic }
+1232.1.1= { culture = bosnian } 
+1232.1.1= { religion = bogomilist } 

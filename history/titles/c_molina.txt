@@ -1,0 +1,78 @@
+# -*- ck2.history.titles -*-
+
+756.3.16={
+	holder=73679 # Abd al-Rahman I Umayyad
+	liege=k_andalusia
+}
+788.10.7={
+	holder=73680 # Hisham I Umayyad
+}
+796.6.12={
+	holder=200020 # Abd-al-Rahman, changed for demesne limit reasons
+}
+822.5.21={
+	holder=73682 # Abd al-Rahman II Umayyad
+}
+850.1.1 = {
+	liege = d_toledo
+	holder = 73938
+}
+1013.1.1 = {
+	holder = 1235025
+}
+1027.1.1 = {
+	holder = 1235026
+}
+1032.1.1 = {
+	holder = 3922
+}
+1043.1.1 = {
+	holder = 3924
+}
+1075.1.1 = {
+	holder = 3926
+}
+1080.1.1 = {
+	holder = 3902
+}
+1081.1.1 = {
+	holder = 3926
+}
+1085.5.25 = {
+	holder = 108500
+}
+1097.1.1 = {
+	liege = k_maghreb
+	holder = 464010
+}
+1119.1.1 = {
+	holder = 224023
+}
+1129.1.1 = {
+	liege = d_toledo
+	holder = 207539
+}
+1130.10.16 = {
+	holder = 207541
+}
+1164.7.9 = {
+	holder = 207540
+}
+1202.1.1 = {
+	holder = 207544
+}
+1238.4.6 = {
+	holder = 71427
+}
+1244.9.1 = {
+	holder = 457660
+}
+1272.1.6 = {
+	holder = 71429
+}
+1292.12.5 = {
+	holder = 457666
+}
+1321.1.1 = {
+	holder = 457500
+}

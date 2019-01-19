@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 195 - Caceres
+
+# County Title
+title = c_caceres
+
+# Settlements
+max_settlements = 3
+
+b_talavera = castle
+#b_alia = city
+#b_oropesa = castle
+
+
+# Misc
+culture = iberian
+religion = catholic
+
+# History
+947.1.1 = { 
+	culture = andalusian_arabic
+	religion = sunni
+}
+1244.4.23 = { culture = castillan }
+1244.4.23 = { religion = catholic }

@@ -1,0 +1,25 @@
+# -*- ck2.history.provinces -*-
+
+# 1361 - Sala
+
+# County Title
+title = c_sala
+
+# Settlements
+max_settlements = 2
+
+b_sale = castle
+b_albasra = temple
+
+# Misc
+culture = zanata
+religion = kharijite
+
+# History
+867.1.1 = {
+	religion = sunni
+}
+#987.1.1 = { b_sale = tribal }
+#1059.1.1 = { b_sale = castle }
+1300.1.1 = { remove_settlement = b_albasra }
+

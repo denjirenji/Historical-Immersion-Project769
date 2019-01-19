@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 965 - Travunija
+
+# County Title
+title = c_travunija
+
+# Settlements
+max_settlements = 3
+
+b_medun = tribal
+b_trebinje = temple
+b_onogost = city
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_medun = castle }
+867.1.1 = { culture = serbian }
+1100.1.1 = { religion = orthodox }
+

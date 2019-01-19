@@ -1,0 +1,23 @@
+# 223 - Viviers
+
+# County Title
+title = c_viviers
+
+# Settlements
+max_settlements = 4
+
+b_viviers = temple
+b_aubenas = castle
+b_largentiere = city
+#b_chalancon = castle
+#b_privas = city
+#b_le_monastier_sur_gazeill = temple
+#b_vogue = castle
+
+
+#Misc
+religion = catholic
+culture = occitan
+
+# History
+1179.1.1 = { b_chalancon = castle }

@@ -1,0 +1,32 @@
+# -*- ck2.history.provinces -*-
+
+# 466 - Zachlumia
+
+# County Title
+title = c_zachlumia
+
+# Settlements
+max_settlements = 5
+
+
+b_blagaj = tribal
+#b_gacko = city
+#b_kljuc = castle
+#b_zaborani = castle
+b_biskup = temple
+#b_stolac = castle
+
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_blagaj = castle }
+867.1.1 = { b_kljuc = castle }
+867.1.1 = { culture = serbian }
+880.1.1 = { religion = orthodox }
+
+
+ 

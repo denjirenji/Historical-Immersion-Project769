@@ -1,0 +1,16 @@
+# -*- ck2.history.titles -*-
+
+767.1.1 = {
+	liege = k_hungary
+	holder = 2000000
+}
+776.1.1 = {
+	holder = 0
+}
+860.1.1 = {
+	liege = k_bulgaria
+	holder = 168290
+}
+895.1.1 = {
+	holder = 0
+}

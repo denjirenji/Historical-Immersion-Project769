@@ -1,0 +1,16 @@
+# -*- ck2.history.titles -*-
+
+760.1.1 = {
+	liege = k_lotharingia
+	holder = 91482 # FREDERIC, count of Transjuranie
+}
+855.1.1 = {
+	liege = d_upper_burgundy
+}
+1032.9.5 = {
+	liege = e_hre
+}
+1033.1.1 = {
+	liege = d_savoie
+}
+

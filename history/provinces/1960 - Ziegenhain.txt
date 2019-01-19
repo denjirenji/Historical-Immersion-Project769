@@ -1,0 +1,30 @@
+#  1960 - Ziegenhain
+
+# County Title
+title = c_ziegenhain
+
+# Settlements
+max_settlements = 4
+
+b_ziegenhain = tribal
+b_fritzlar = city
+
+#b_haina = temple
+#b_waldeck = castle 
+
+#b_wittgenstein = castle 
+#b_itter = castle 
+#b_treysa = city 
+ 
+# Misc
+culture = old_saxon
+religion = norse_pagan
+
+# History
+790.1.1 = { 
+	culture = franconian
+	b_ziegenhain = castle
+}
+1120.1.1 = { b_waldeck = castle }
+1144.1.1 = { b_haina = temple }
+1170.1.1 = { culture = german }

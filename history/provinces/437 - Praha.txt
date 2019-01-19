@@ -1,0 +1,38 @@
+# 437 - Praha
+
+# County Title
+title = c_praha
+
+# Settlements
+max_settlements = 7
+b_levyhradec = tribal
+b_praha = tribal
+b_stare_mesto = city
+b_brevnov = temple
+
+#b_boleslav = castle
+#b_slany = city 
+#b_sternbergprague = castle 
+#b_sazava = temple 
+
+# Misc
+# Misc
+culture = proto_west_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { culture = bohemian }
+religion = slavic_pagan
+
+# History
+867.1.1 = { culture = bohemian }
+768.1.1 = { capital = b_levyhradec }
+883.1.1 = { religion = catholic }
+883.1.1 = { capital = b_praha }
+900.1.1 = {
+      remove_settlement = b_levyhradec
+      }
+910.1.1 = { b_boleslav = castle }
+1032.1.1 = { b_sazava = temple }
+1241.1.1 = { b_sternbergprague = castle }
+1305.1.1 = { b_slany = city }

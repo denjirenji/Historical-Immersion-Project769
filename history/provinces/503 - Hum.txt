@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 503 - Hum
+
+# County Title
+title = c_hum
+
+# Settlements
+max_settlements = 3
+
+b_borac = tribal 
+#b_vlasenica = city
+#b_rogatica = castle
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_borac = castle }
+867.1.1 = { b_rogatica = castle }
+867.1.1 = { culture = serbian }
+880.1.1 = { religion = orthodox }
+
+
+
+ 

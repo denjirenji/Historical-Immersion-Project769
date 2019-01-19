@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 525 - Orava
+
+# County Title
+title = c_orava
+
+# Settlements
+max_settlements = 3
+
+b_arva = tribal
+#b_rozsahegy = city
+#b_nameszto = castle
+#b_liptoszentmiklos
+#b_nemetlipcse = temple
+#b_alsokubin = city
+#b_turdossin = temple
+
+# Misc
+culture = proto_west_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { culture = moravian }
+867.1.1 = { religion = catholic }
+867.1.1 = { b_arva = castle }

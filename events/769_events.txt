@@ -1,0 +1,67 @@
+# -*- ck2.events -*-
+
+
+###########################################
+#										 #
+# Charlemagne culture conversion events   #
+#										 #
+# ID OC.1-OC.499						  #
+#										 #
+###########################################
+
+# Written by Edwa Goodwin
+
+namespace = CMO
+
+###########################################
+# Province conversions					#
+###########################################
+
+# Old French province converts to French
+province_event = {
+	id = CMO.1
+	desc = EVTDESC_CM_5
+	picture = GFX_evt_stone_church
+
+	trigger = {
+		year = 776
+		culture = old_french
+		owner = {
+			OR = {
+				culture_group = latin
+				culture = old_frankish
+			}
+		}
+		any_province_holding = {
+			NOT = { holding_type = nomad }
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 1200
+		modifier = {
+			factor = 0.5
+			owner = {
+				culture_group = latin
+			}
+		}
+		modifier = {
+			factor = 0.3
+			OR = {
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots
+				}
+				has_game_rule = {
+					name = culture_conversion
+					value = faster_melting_pots_and_slower_normal
+				}
+			}
+		}
+	}
+
+	option = {
+		name = EVTOPTA_CM_5
+		culture = frankish
+	}
+}

@@ -1,0 +1,94 @@
+# -*- ck2.history.titles -*-
+
+741.1.1={
+	liege=d_spoleto
+}
+741.1.1={
+	holder = 190283 #Tachiperto
+}
+760.1.1={
+	holder = 190284 #Lupo
+}
+834.1.1 = {
+	liege = d_spoleto
+	holder = 71906
+}
+836.12.30 = {
+	holder = 71905
+}
+860.1.1 = {
+	holder = 71908
+}
+1000.1.1 = {
+	liege = e_hre
+	holder = 1061570
+}
+1026.3.31 = {
+    liege = k_italy
+}
+1031.1.1 = {
+	holder = 1061571
+}
+1039.6.4 = {
+    liege=e_hre
+}
+1046.12.25 = {
+   liege=k_italy
+}
+1056.10.5 = {
+	liege=e_hre
+}
+1064.1.1 = {
+	holder = 1061572
+}
+1080.1.1 = {
+   liege=k_italy
+}
+1093.1.1 = {
+	liege=d_spoleto # #Werner I von Lenzburg-Baden made duke of spoleto and markgrave of Ancona
+}
+1100.1.1 = {
+	holder = 1061573
+}
+1133.1.1 = {
+	holder = 1061574
+}
+1152.1.1 = {
+    liege = e_hre
+}
+1154.12.1 = {
+    liege= k_italy
+}
+1166.1.1 = {
+	holder = 1061575
+}
+1167.4.7 = {
+    liege=e_hre
+}
+1172.1.1 = {
+liege=d_spoleto
+}
+1197.9.28 = {
+        liege=d_ravenna
+}
+1213.1.1 = {
+	holder = 1061576
+}
+1235.1.1 = {
+	holder = 1061578
+}
+1249.1.1 = {
+	liege = k_papal_state
+}
+1292.1.1 = {
+	liege = 0
+}
+1294.1.1 = {
+	holder = 1061581
+}
+1327.1.1 = {
+	holder = 1061582
+}
+1374.1.1 = {
+	holder = 0
+}

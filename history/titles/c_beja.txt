@@ -1,0 +1,105 @@
+# -*- ck2.history.titles -*-
+
+766.1.1 = {
+	liege = k_andalusia
+	holder = 200222 # Marwan Qashid
+}
+799.1.1 = {
+	holder = 73681 # al-Hakam I Umayyad
+}
+822.5.21 = {
+	holder = 73682 # Abd al-Rahman II Umayyad
+}
+852.9.22 = {
+	holder = 73683 # Muhammad I Umayyad
+}
+867.1.1 = {
+	liege = d_badajoz
+	holder = 73957
+}
+889.1.1 = {
+	holder = 1235074
+}
+889.3.1 = {
+	holder = 1235075
+}
+923.1.1 = {
+	holder = 1235076
+}
+1013.1.1 = {
+	holder = 1235022
+}
+1022.4.8 = {
+	liege = d_beja
+	holder = 1235023
+}
+1030.1.1 = {
+	holder = 1235024
+}
+1034.1.1 = {
+	liege = d_badajoz
+	holder = 45007
+}
+1045.1.1 = {
+	holder = 3900
+}
+########
+1051.1.1 = {
+	liege = d_sevilla
+	holder = 3212
+}
+1069.1.15 = {
+	holder = 3214
+}
+1082.1.1 = {
+	holder = 73215
+}
+1091.1.1 = {
+	liege = k_maghreb
+	holder = 73223
+}
+1117.1.1 = {
+	holder = 73225
+}
+1135.1.1 = {
+	holder = 73208
+}
+1149.1.1 = {
+	holder = 224009
+}
+1172.1.1 = {
+	holder = 224021
+}
+1199.1.1 = {
+	holder = 73609
+}
+1213.1.1 = {
+	holder = 73610
+}
+1228.1.1 = {
+	liege = d_murcia
+	holder = 73625
+}
+1238.1.1 = {
+	liege = 0
+	holder = 73632
+}
+1249.1.1 = {
+	liege = k_portugal
+	holder = 143071
+}
+1250.1.1 = {
+	holder = 142217
+}
+1285.3.15 = {
+	holder = 142219
+}
+1311.1.1 = {
+	holder = 142154
+}
+1328.1.1 = {
+	holder = 459531
+}
+1330.1.31 = {
+	holder = 459532
+}

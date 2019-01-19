@@ -1,0 +1,32 @@
+# -*- ck2.history.provinces -*-
+
+# 203 - Lleida
+
+# County Title
+title = c_lleida
+
+# Settlements
+max_settlements = 4
+b_aitona = castle
+b_lleida = temple
+b_cervera = city
+#b_bell_lloch = castle
+#b_prades = castle
+#b_granyena = castle
+
+# Misc
+culture = iberian
+religion = catholic
+
+# History
+
+867.1.1 = { 
+	b_aitona = ca_keep_1
+	b_aitona = ca_wall_1
+}
+947.1.1 = { 
+	culture = andalusian_arabic
+	religion = sunni
+}
+1131.1.1 = { culture = catalan }
+1131.1.1 = { religion = catholic }

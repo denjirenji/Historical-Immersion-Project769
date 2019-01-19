@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 1527 - Kopsis
+
+# County Title
+title = c_kopsis
+
+# Settlements
+max_settlements = 3
+
+b_kopsis = tribal
+b_beroe = temple
+b_ihtiman = city
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_kopsis = castle }
+867.1.1 = { culture = bulgarian }
+875.1.1 = { religion = paulician }
+1100.1.1 = { religion = bogomilist }

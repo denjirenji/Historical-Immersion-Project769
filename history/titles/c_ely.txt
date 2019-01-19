@@ -1,0 +1,14 @@
+# -*- ck2.history.titles -*-
+
+761.1.1 = {
+	liege = d_norfolk
+}
+855.1.1 = {
+	liege = d_hereford
+}
+918.1.1 = {
+	liege = d_somerset
+}
+927.7.12 = {
+	liege = k_england
+}

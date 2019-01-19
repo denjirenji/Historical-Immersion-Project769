@@ -1,0 +1,545 @@
+# -*- ck2.landed_titles -*-
+
+e_britannia = {
+	k_scotland = { # Alba
+		pictish = "Fortriu"
+		d_galloway = { # Galloway
+			pictish = "Gall Ghaidheal"
+			c_galloway = { # Galloway (50)
+				pictish = "Gall Ghaidheal"
+				b_threave = {
+					pictish = "Threave"
+				}
+				b_kirkcudbright = {
+					pictish = "Cille Chuithbeirt"
+				}
+				b_whithorn = {
+					pictish = "Taigh Mhàrtainn"
+				}
+				b_dunragit = {
+					pictish = "Dùn Reicheit"
+				}
+				b_glenluce = {
+					pictish = "Clachan Ghlinn Lus"
+				}
+				b_wigtown = {
+					pictish = "Baile na h-Ùige"
+				}
+			} # end c_galloway
+			c_carrick = { # Carrick (49)
+				pictish = "A' Charraig"
+				b_turnberry = {
+					pictish = "Turnberry"
+				}
+				b_maybole = {
+					pictish = "Am Magh Baoghail"
+				}
+				b_crossraguel = {
+					pictish = "Crossraguel"
+				}
+			} # end c_carrick
+		} # end d_galloway
+		d_lothian = { # Lothian
+			pictish = "Lleuddiniawn"
+			anglonorse = "Lothian"
+			c_lothian = { # Lothian (48)
+				pictish = "Lleuddiniawn"
+				b_dunbar = {
+					pictish = "Dùn Bàrr"
+				}
+				b_edinburgh = {
+					pictish = "Din Eidyn"
+				}
+				b_abercorn = {
+					pictish = "Obar Chùirnidh"
+				}
+				b_whitekirk = {
+					pictish = "Whitekirk"
+				}
+				b_thilerstane = {
+					pictish = "Thilerstane"
+				}
+				b_leith = {
+					pictish = "Lìte"
+				}
+			} # end c_lothian
+			c_dunbar = { # Dunbar (51)
+				pictish = "Caerferwig"
+				b_berwick = {
+					pictish = "Caerferwig"
+				}
+				b_coldingham = {
+					pictish = "Coldingham"
+				}
+				b_gordon = {
+					pictish = "Gordon"
+				}
+			} # end c_dunbar
+			c_teviotdale = { # Teviotdale (38)
+				pictish = "Rosbroch"
+				b_jedburgh = {
+					pictish = "Jeddart"
+				}
+				b_roxburgh = {
+					pictish = "Rosbroch"
+				}
+				b_melrose = {
+					pictish = "Maol Ros"
+				}
+				b_kelso = {
+					pictish = "Cealsaidh"
+				}
+			} # end c_teviotdale
+			c_tweedale = { # Tweedale (1479)
+				b_selkirk = {
+					pictish = "Salcraig"
+				}
+				b_neidpath = {
+					pictish = "Neidpath"
+				}
+				b_peebles = {
+					pictish = "Na Pùballan"
+				}
+				b_stobo = {
+					pictish = "Stobo"
+				}
+				b_stow_of_wedale = {
+					pictish = "Stow of Wedale"
+				}
+			} # end c_tweedale
+		} # end d_lothian
+		d_albany = { # Albany
+			pictish = "Fotla"
+			c_gowrie = { # Gowrie (43)
+				pictish = "Gobharaidh"
+				b_scone = {
+					pictish = "Scoine"
+				}
+				b_dunkeld = {
+					pictish = "Dùn Chailleann"
+				}
+				b_perth = {
+					pictish = "Peairt"
+				}
+				b_dundee = {
+					pictish = "Dùn Dè"
+				}
+				b_forteviot = {
+					pictish = "Forteviot"
+				}
+				b_clunie = {
+					pictish = "Clunie"
+				}
+			} # end c_gowrie
+			c_fife = { # Fife (46)
+				pictish = "Fìobha"
+				b_cupar = {
+					pictish = "Cùbar"
+				}
+				b_st_andrews = {
+					pictish = "Cill Rìmhinn"
+				}
+				b_dunfermline = {
+					pictish = "Dùn Phàrlain"
+				}
+				b_kinross = {
+					pictish = "Ceann Rois"
+				}
+				b_leuchars = {
+					pictish = "Luachar"
+				}
+			} # end c_fife
+			c_strathearn = { # Strathearn (42)
+				pictish = "Srath Èireann"
+				b_crieff = {
+					pictish = "Craoibh"
+				}
+				b_dunblane = {
+					pictish = "Dùn Bhlàthain"
+				}
+				b_auchterarder = {
+					pictish = "Uachdar Àrdair"
+				}
+				b_madderty = {
+					pictish = "Madderty"
+				}
+			} # end c_strathearn
+			c_atholl = { # Atholl (44)
+				pictish = "Fotla"
+				b_blair_atholl = {
+					pictish = "Blàr Athall"
+				}
+				b_pitlochry = {
+					pictish = "Baile Chloichridh"
+				}
+				b_fortingall = {
+					pictish = "Fortingall"
+				}
+				b_grandtully = {
+					pictish = "Grandtully"
+				}
+			} # end c_atholl
+		} # end d_albany
+		d_moray = { # Moray
+			pictish = "Fortriu"
+			c_moray = { # Moray (40)
+				pictish = "Fortriu"
+				b_forres = {
+					pictish = "Farrais"
+				}
+				b_elgin = {
+					pictish = "Eilginn"
+				}
+				b_kinloss = {
+					pictish = "Cinn Lois"
+				}
+				b_lochindorb = {
+					pictish = "Loch nan Doirb"
+				}
+				b_cawdor = {
+					pictish = "Cawdor"
+				}
+			} # end c_moray
+			c_ross = { # Ross (39)
+				pictish = "Ros"
+				b_tain = {
+					pictish = "Baile Dhubhthaich"
+				}
+				b_rosemarkie = {
+					pictish = "Ros Mhaircnidh"
+				}
+				b_dingwall = {
+					pictish = "Inbhir Pheofharain"
+				}
+				b_fortrose = {
+					pictish = "A' Chananaich"
+				}
+			} # end c_ross
+			c_inbhirnis = { # Inbhir Nis (1425)
+				pictish = "Inbhir Nis"
+				b_eilean_donan = {
+					pictish = "Eilean Donan"
+				}
+				b_inverness = {
+					pictish = "Inbhir Nis"
+				}
+				b_invergarry = {
+					pictish = "Inbhir Garadh"
+				}
+				b_urquhart = {
+					pictish = "Airchartdan"
+				}
+			} # end c_inbhirnis
+		} # end d_moray
+		d_aberdeen = { # Aberdeen
+			pictish = "Ce"
+			c_buchan = { # Buchan (41)
+				pictish = "Bhanbh"
+				b_banff = {
+					pictish = "Bhanbh"
+				}
+				b_mortlach = {
+					pictish = "Mortlach"
+				}
+				b_gamrie = {
+					pictish = "Gameryn"
+				}
+				b_keith = {
+					pictish = "Baile Chèith"
+				}
+			} # end c_buchan
+			c_obardheathain = { # Obar Dheathain (1423)
+				pictish = "Ce"
+				b_aiberdeen = {
+					pictish = "Ce"
+				}
+				b_ellon = {
+					pictish = "Eilean"
+				}
+				b_st_machar = {
+					pictish = "St. Machar"
+				}
+				b_inverurie = {
+					pictish = "Inbhir Uraidh"
+				}
+				b_fyvie = {
+					pictish = "Fyvie"
+				}
+			} # end c_obardheathain
+			c_cinnchardainn = { # Cinn Chardainn (1424)
+				pictish = "Circinn"
+				b_dunnottar = {
+					pictish = "Dùn Fhoithear"
+				}
+				b_stonehaven = {
+					pictish = "Stanehyve"
+				}
+				b_ecclesgreig = {
+					pictish = "Ecclesgreig"
+				}
+				b_inverbervie = {
+					pictish = "Inbhir Biorbhaidh"
+				}
+			} # end c_cinnchardainn
+		} # end d_aberdeen
+		d_sutherland = { # Sutherland
+			pictish = "Cait"
+			c_sutherland = { # Cataibh (1431) # Sutherland
+				pictish = "Cait"
+				b_dornoch = {
+					pictish = "Dòrnach"
+				}
+				b_durness = {
+					pictish = "Diùranais"
+				}
+				b_dunrobin = {
+					pictish = "Dunrobin"
+				}
+				b_golspie = {
+					pictish = "Goillspidh"
+				}
+			} # end c_sutherland
+			c_caithness = { # Katanes (37)
+				pictish = "Gallaibh"
+				b_thurso = {
+					pictish = "Inbhir Theòrsa"
+				}
+				b_wick = {
+					pictish = "Inbhir Ùige"
+				}
+				b_dunbeath = {
+					pictish = "Dùn Beithe"
+				}
+			} # end c_caithness
+		} # end d_sutherland
+		d_strathclyde = { # Strathclyde
+			pictish = "Ystrad Clut"
+			c_dunbreatainn = { # Dun Breatainn (1488)
+				pictish = "Alt Clut"
+				b_dumbarton = {
+					pictish = "Alt Clut"
+				}
+				b_old_kilpatrick = {
+					pictish = "Cille Phàdraig"
+				}
+				b_arrochar = {
+					pictish = "An t-Àrchar"
+				}
+			} # end c_dunbreatainn
+			c_rinnfriu = { # Rinn Friu (1484)
+				pictish = "Strathclyde"
+				b_cadzow = {
+					pictish = "Cadzow"
+				}
+				b_glasgow = {
+					pictish = "Glaschu"
+				}
+				b_st_kentigern = {
+					pictish = "Cyndeyrn"
+				}
+				b_lanark = {
+					pictish = "Lannraig"
+				}
+				b_bothwell = {
+					pictish = "Bothwell"
+				}
+			} # end c_rinnfriu
+			c_clydesdale = { # Clydesdale (47)
+				pictish = "Clydesdale"
+				b_kilmaurs = {
+					pictish = "Cille Mhàra"
+				}
+				b_paisley = {
+					pictish = "Paisley"
+				}
+				b_renfrew = {
+					pictish = "Rinn Friù"
+				}
+				b_dunure = {
+					pictish = "Dùn Iùbhair"
+				}
+			} # end c_clydesdale
+			c_dunphris = { # Srath Anann (1470) # Annandale
+				pictish = "Srath Anann"
+				b_annan = {
+					pictish = "Inbhir Anainn"
+				}
+				b_lochmaben = {
+					pictish = "Lochmaben"
+				}
+				b_dumfries = {
+					pictish = "Dùn Phris"
+				}
+				b_caerlaverock = {
+					pictish = "Caerlaverock"
+				}
+			} # end c_dunphris
+		} # end d_strathclyde
+		d_fidach = { # Fidach
+			color = { 40 227 250 }
+			color2 = { 255 255 255 }
+			pictish = "Fidach"
+			allow = { title_duke_basic_allow = yes }
+		}
+		d_circinn = { # Circinn
+			color = { 142 158 58 }
+			color2 = { 255 255 255 }
+			pictish = "Circinn"
+			allow = { title_duke_basic_allow = yes }
+		}
+	} # end k_scotland
+	k_ellan_vannin = { # Man
+		pictish = "Dál Riata"
+		d_ellan_vannin = { # Man
+			pictish = "Manau"
+			c_isle_of_man = { # Isle of Man (54)
+				pictish = "Manau"
+				b_rushen = {
+					pictish = "Cashtal Rosien"
+				}
+				b_peel = {
+					pictish = "Purt ny h Inshey"
+				}
+				b_douglas = {
+					pictish = "Doolish"
+				}
+				b_maughold = {
+					pictish = "Maughold"
+				}
+			} # end c_isle_of_man
+		} # end d_ellan_vannin
+		d_hebrides = { # Inner Hebrides
+			pictish = "Airer Ghaidheal"
+			c_argyll = { # Argyll (45)
+				pictish = "Earra Ghaidheal"
+				b_inveraray = {
+					pictish = "Inbhir Aora"
+				}
+				b_oban = {
+					pictish = "An t-Òban"
+				}
+				b_ardchattan = {
+					pictish = "Ardchattan"
+				}
+				b_kilmartin = {
+					pictish = "Cille Mhàrtainn"
+				}
+			} # end c_argyll
+			c_muile = { # Muile (1419)
+				pictish = "Muile"
+				b_duart = {
+					pictish = "Caisteal Dhubhairt"
+				}
+				b_iona = {
+					pictish = "Ì Chaluim Chille"
+				}
+				b_salen = {
+					pictish = "An t-Sàilean"
+				}
+			} # end c_muile
+			c_ile = { # Ile (1420)
+				pictish = "Ìle"
+				b_finlaggan = {
+					pictish = "Finlaggan"
+				}
+				b_kildalton = {
+					pictish = "Cill Daltain"
+				}
+				b_colonsay = {
+					pictish = "Colbhasa"
+				}
+			} # end c_ile
+			c_kintyre = { # Kintyre (1421)
+				pictish = "Cinn Tìre"
+				b_kinlochkilkerran = {
+					pictish = "Ceann Locha"
+				}
+				b_saddell = {
+					pictish = "Saghadal"
+				}
+			}
+			c_bod = { # Bod (1422)
+				pictish = "Eilean Bhòid"
+				b_kingarth = {
+					pictish = "Cenn Garad"
+				}
+				b_aileach_bod = {
+					pictish = "Aileach"
+				}
+			}
+		} # end d_hebrides
+		d_orkney = { # Orkney
+			pictish = "Arcaibh"
+			c_shetland = { # Hjaltland (34)
+				pictish = "Insee Cait"
+				b_scalloway = {}
+				b_cunningsburgh = {}
+				b_muness = {}
+				b_tingwall = {}
+				b_sumburgh = {}
+				b_northmavine = {}
+				b_sound = {}
+				#b_yell = {}
+			}
+			c_orkney = { # Orkneyar (36)
+				pictish = "Insee Arcaibh"
+				b_kirkwall = {}
+				b_birsay = {}
+				b_orphir = {}
+				b_westray = {}
+				b_wyre = {}
+				b_egilsay = {}
+				b_sanday = {}
+				#b_ronaldsay = {}
+			}
+		} # end d_orkney
+		d_western_isles = { # Outer Hebrides
+			irish = "Dál Riata"
+			pictish = "Innse Gall"
+			c_innse_gall = { # Suðreyar (35)
+				pictish = "Sgitheanach"
+				b_dunvegan = {
+					pictish = "Dunvegan"
+				}
+				b_trotternish = {
+					pictish = "Tròndairnis"
+				}
+				b_baghnahuamh = {
+					pictish = "Rùm"
+				}
+			} # end c_innse_gall
+			c_leodhas = { # Leodhas (1426)
+				pictish = "Leodhas"
+				b_dun_carloway = {
+					pictish = "Dùn Chàrlabhaigh"
+				}
+				b_stornoway = {
+					pictish = "Steòrnabhagh"
+				}
+				b_st_moluag = {
+					pictish = "Teampall Mholuaidh"
+				}
+			} # end c_leodhas
+			c_uibhist = { # Uibhist (1427)
+				pictish = "Uibhist"
+				b_bornais = {
+					pictish = "Bornais"
+				}
+				b_cille_pheadair = {
+					pictish = "Cille Pheadair"
+				}
+			}
+		} # end d_western_isles
+	} # end k_ellan_vannin
+} # end e_britannia
+
+k_hungary = {
+	avar = "Avariya"
+}
+
+d_ungvar = { # Ungvar
+	serbian = "Bijeli Hrvati"
+	croatian = "Bijeli Hrvati"
+	bosnian = "Bijeli Hrvati"
+	proto_south_slavic = "Bijeli Hrvati"
+}

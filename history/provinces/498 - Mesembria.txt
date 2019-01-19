@@ -1,0 +1,29 @@
+# -*- ck2.history.provinces -*-
+
+# 498 - Mesembria # Zagore
+
+# County Title
+title = c_mesembria
+
+# Settlements
+max_settlements = 5
+
+b_yambol = tribal
+b_mesembria = temple
+b_pomorie = city
+#b_aetos_bulgaria = castle
+#b_rusokastro = castle
+#b_debelt = city
+#b_sozopol = temple
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1= { b_yambol = castle }
+867.1.1= { b_aetos_bulgaria = castle }
+867.1.1 = { culture = bulgarian }
+1216.1.1 = { trade_post = b_doria }
+ 

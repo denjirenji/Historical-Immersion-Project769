@@ -1,0 +1,25 @@
+# 1049 - Vaud
+
+# County Title
+title = c_vaud
+
+# Settlements
+max_settlements = 4
+
+b_lausanne = temple
+b_orbe = city
+#b_cossany = castle
+#b_aubonne = castle
+#b_villarzel = city
+#b_lutry = temple
+#b_romainmotier = temple
+
+
+# Misc
+culture = old_french
+religion = catholic
+
+# History
+790.1.1 = { culture = arpitan }
+1096.1.1 = { b_cossany = castle }
+1177.1.1 = { b_aubonne = castle }

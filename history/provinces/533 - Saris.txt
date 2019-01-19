@@ -1,0 +1,37 @@
+# -*- ck2.history.provinces -*-
+
+
+#Borsod
+# 533 - Saris
+
+# County Title
+title = c_saris
+
+# Settlements
+max_settlements = 4
+
+b_borsodvar = tribal
+b_gomor = city
+b_belapatfalva = temple
+
+#b_jaszo = temple
+#b_miskolc = castle
+#b_szendrovar = castle
+#b_vadna = city
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { culture = croatian # White Croats }
+867.1.1 = { religion = catholic }
+867.1.1 = { b_borsodvar = castle }
+895.1.1 = { 
+	culture = hungarian
+	religion = tengri_pagan
+}
+1000.1.1 = { religion = catholic }
+1139.1.1 = { culture = pecheneg }
+1300.1.1 = { culture = hungarian }
+

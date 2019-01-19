@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 1295 - Korcula
+
+# County Title
+title = c_korcula
+
+# Settlements
+max_settlements = 3
+
+b_korcula = tribal
+b_blato = city
+#b_lastovo = city
+
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1= { b_korcula = castle }
+867.1.1= { culture = croatian } 
+867.1.1= { religion = catholic }

@@ -1,0 +1,33 @@
+# -*- ck2.history.titles -*-
+
+850.1.1 = {
+	holder = 83794 # Congalach mac Finnachta
+	law = agnatic_succession
+	law = succ_elective_gavelkind
+	law = investiture_law_1
+	set_tribute_suzerain = { who = k_ireland_titular percentage = 0.40 }
+}
+882.1.1 = {
+	holder = 1226412 # "Maol Craiobh"
+}
+917.1.1 = {
+	holder = 1226413 # "Fogarthach"
+}
+947.1.1 = {
+	holder = 1226414 # "Donnacan"
+}
+970.1.1 = {
+	holder = 1226415 # "Mac Eiccnigh"
+}
+998.1.1 = {
+	holder = 1226416 # "Mac Leiginn"
+}
+1022.1.1 = {
+	holder = 1226417 # "Cathalan"
+}
+1027.1.1 = {
+	holder = 1226418 # "Gilla Coluim"
+}
+1048.1.1 = {
+	holder = 1226419 # "Leathlobair"
+}

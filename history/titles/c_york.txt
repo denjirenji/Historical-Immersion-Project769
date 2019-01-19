@@ -1,0 +1,87 @@
+# -*- ck2.history.titles -*-
+
+# West ridding of Yorkshire. Barony of Pontefract used for most of the title post 1066.
+765.1.1={
+	liege=d_northumberland
+	holder = 205244
+}
+866.11.1 = {
+	liege = d_york
+	holder = 163112
+}
+954.1.1 = {
+	liege = k_england
+	holder = 1226243
+}
+966.1.1 = {
+	holder = 1226249 # Oslac
+}
+975.1.1 = {
+	holder = 0 # Oslac exiled
+}
+979.1.1 = {
+	holder = 1226248 # Thored
+}
+994.1.1 = {
+	holder = 1226209 # Alfhelm, brother of Wulfric Spot
+}
+1006.1.1 = {
+	holder = 188 # Uhtred the Bold
+}
+1016.1.1 = {
+	holder = 0
+}
+1017.1.1 = {
+	holder = 1228057 # Eric of Hlathir
+}
+1023.1.1 = {
+	holder = 196 # Sigeweard Grossus
+}
+1041.1.1 = {
+	liege = d_northumberland
+}
+1055.1.1 = {
+	holder = 124 # Tostig Godwinson
+}
+1066.1.1 = {
+	holder = 5660 # Morcar
+}
+1066.10.14 = {
+	holder = 1227361 # Hugh de Lacy, seignur of Lassy
+}
+1076.1.1 = {
+	liege = k_england
+}
+1085.3.27 = {
+	holder = 129083 # Ilber de Lacy first lord of Pontefract and 2nd lord of Bowland
+}
+1093.1.1 = {
+	holder = 129084 # Robert de Lacy 2nd lord of Pontefract and 3d lord of Bowland
+}
+1112.11.1 = {
+	holder = 1227362 # Ilbert de Lacy II 3d lord of Pontefract and 4th lord of Bowland
+}
+1141.2.2 = {
+	holder = 1227364 # Henry de Lacy 4th lord of Pontefract and 5th lord of Bowland
+}
+1177.9.25 = {
+	holder = 1227365 # Robert de Lacy 5th lord of Pontefract and 6th lord of Bowland
+}
+1193.8.21 = {
+	holder = 129090 # Roger de Lacy 6th lord of Pontefract and 7th lord of Bowland
+}
+1211.1.1 = {
+	holder = 454045 # John de Lacy 2nd Earl of Lincoln, 7th lord of Pontefract and 8th lord of Bowland
+}
+1240.1.1 = {
+	holder = 454043 # Edmund de Lacy 8th lord of Pontefract and 9th lord of Bowland
+}
+1257.1.1 = {
+	holder = 454040 # Henry de Lacy 3d Earl of Lincoln, 9th lord of Pontefract and 10th lord of Bowland
+}
+1311.1.1 = {
+	holder = 454510 # Edward II of England
+}
+1327.2.1 = {
+	holder = 454500 # Edward III
+}

@@ -1,0 +1,128 @@
+# -*- ck2.history.titles -*-
+
+760.1.1 = {
+	liege = k_andalusia
+	holder = 200230 # Abd al-Malik Djazairid
+}
+781.1.1 = {
+	holder = 200232 # Ya'qub Djazairid
+}
+816.1.1 = {
+	holder = 73681 # al-Hakam I Umayyad
+}
+822.5.21 = {
+	holder = 73682 # Abd al-Rahman II Umayyad
+}
+848.1.1 = {
+	holder = 73943 # Nayih Nayihid
+}
+850.9.22 = {
+	liege = k_andalusia
+	holder = 73802
+}
+870.1.1 = {
+	holder = 73805
+}
+910.1.1 = {
+	holder = 73685 # Abdallah Umayyad
+}
+912.10.15 = {
+	holder = 3200 # Abd al-Rahman III Umayyad
+}
+961.10.15 = {
+	holder = 3202 # al-Hakam II Umayyad
+}
+976.10.16 = {
+	holder = 3204 # Hisham II Umayyad
+}
+1009.2.15 = {
+	holder = 73671 # Muhammad II Umayyad
+}
+1009.11.1 = {
+	holder = 73675 # Suleyman Umayyad
+}
+1010.5.10 = {
+	holder = 73671 # Muhammad II Umayyad
+}
+1010.7.23 = {
+	holder = 3204 # Hisham II Umayyad
+}
+1013.4.19 = {
+	holder = 73675 # Suleyman Umayyad
+}
+1016.7.1 = {
+	holder = 73687 # Ali Hammudid
+}
+1018.3.22 = {
+	holder = 73689 # al-Qasim Hammudid
+}
+1021.1.1 = {
+	holder = 73690 # Yahya Hammudid
+}
+1023.2.1 = {
+	liege = d_tangiers
+}
+1035.1.1 = {
+	holder = 159490 # Muhammad Hammudid
+}
+1048.1.1 = {
+	holder = 159492 # al-Qasim Hammudid
+}
+1057.1.1 = {
+	liege = d_granada
+	holder = 45016
+}
+1073.1.1 = {
+	liege = 0
+	holder = 32951
+}
+1090.1.1 = {
+	#liege = d_granada
+	liege = k_maghreb
+	holder = 224017
+}
+1118.1.1 = {
+	holder = 73261
+}
+1144.1.1 = {
+	holder = 73260
+}
+1145.1.1 = {
+	liege = 0
+}
+1153.1.1 = {
+	liege = k_maghreb
+	holder = 224015
+}
+#1172.1.1 = {
+#	liege = d_granada
+#}
+1178.1.1 = {
+	holder = 224016
+}
+1200.1.1 = {
+	holder = 73617
+}
+1228.1.1 = {
+	liege = 0
+	holder = 73636
+}
+1238.1.1 = {
+	liege = d_granada
+	holder = 73651
+}
+1273.1.1 = {
+	holder = 73654
+}
+1274.1.1 = {
+	holder = 73642
+}
+1300.1.1 = {
+	holder = 73641
+}
+1325.1.1 = {
+	holder = 487001
+}
+1333.1.1 = {
+	holder = 487000
+}

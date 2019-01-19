@@ -1,0 +1,31 @@
+# 446 - Znojmo
+
+# County Title
+title = c_znojmo
+
+# Settlements
+max_settlements = 4
+
+b_znojmo = tribal
+b_jihlava = city
+
+#b_trebic = temple 
+#b_bitov = castle
+
+#b_kunstat = castle #Kunstadt
+#b_breclav = castle #Lundenburg 
+#b_moravsky_krumlov = city #Mährisch Kromau 
+
+# Misc
+culture = proto_west_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { culture = moravian }
+867.1.1 = { religion = catholic }
+867.1.1 = { b_znojmo = castle }
+1061.1.1 = { b_bitov = castle }
+1101.1.1 = { b_trebic = temple }
+#german colonization of southern parts
+#1160.1.1 = { culture = german } only parts settled
+#1233.1.1 = { b_jihlava = city }

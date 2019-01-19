@@ -1,0 +1,7 @@
+760.1.1 = {
+	liege = k_scotland
+	holder = 166614
+}
+858.1.1 = {
+	holder = 0
+}

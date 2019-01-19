@@ -1,0 +1,28 @@
+# -*- ck2.history.provinces -*-
+
+# 183 - Aracena
+
+# County Title
+title = c_aracena
+
+# Settlements
+max_settlements = 4
+b_merida = castle
+b_llerena = temple
+b_azuaga = city
+#b_medellin = castle
+#b_almendralejo = city
+#b_zalamea = temple
+#b_monesterio = temple
+
+# Misc
+culture = iberian
+religion = catholic
+
+# History
+947.1.1 = { 
+	culture = andalusian_arabic
+	religion = sunni
+}
+1246.1.1 = { religion = catholic }
+1255.1.1 = { culture = castillan }

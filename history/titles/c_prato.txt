@@ -1,0 +1,192 @@
+# -*- ck2.history.titles -*-
+
+565.1.1 = {
+	holder = 190124 # Alboin
+}
+572.1.1 = {
+	holder = 190168 # Cleph
+}
+574.1.1 = {
+	holder = 190169 # Authari
+}
+590.1.1 = {
+	holder = 190170 # Agilulf
+}
+616.1.1 = {
+	holder = 190173 # Adaloald
+}
+626.1.1 = {
+	holder = 190174 # Arioald
+}
+636.1.1 = {
+	holder = 190176 # Rothari
+}
+652.1.1 = {
+	holder = 190177 # Rodoald
+}
+653.1.1 = {
+	holder = 190181 # Aripert I
+}
+661.1.1 = {
+	holder = 190182 # Godepert
+}
+662.1.1 = {
+	holder = 190185 # Pectarit
+}
+662.6.1 = {
+	holder = 190133 # Grimoald
+}
+671.1.1 = {
+	holder = 190136 # Garibald
+}
+671.6.1 = {
+	holder = 190185 # Pectarit
+}
+688.1.1 = {
+	holder = 190188 # Cunipert
+}
+689.1.1 = {
+	holder = 190354 # Alahis
+}
+689.6.1 = {
+	holder = 190188 # Cunipert
+}
+700.1.1 = {
+	holder = 190189 # Liutpert
+}
+701.1.1 = {
+	holder = 190183 # Raginpert
+}
+701.6.1 = {
+	holder = 190189 # Liutpert
+}
+702.1.1 = {
+	holder = 190184 # Aripert II
+}
+712.1.1 = {
+	holder = 190193 # Ansprand
+}
+712.6.1 = {
+	holder = 190196 # Liutprand
+}
+744.1.1 = {
+	holder = 190198 # Hildeprand
+}
+744.6.1 = {
+	holder = 190343 # Rathchis
+}
+749.1.1 = {
+	holder = 190331 # Aistulf
+}
+756.1.1 = {
+	holder = 190347 # Desiderius
+}
+812.1.1 = {
+	holder = 167896
+}
+823.10.5 = {
+	holder = 167897
+}
+838.1.1 = {
+	holder = 163070
+}
+846.1.1 = {
+	liege = d_toscana
+}
+812.1.1 = {
+	holder = 167896
+}
+823.10.5 = {
+	holder = 167897
+}
+838.1.1 = {
+	holder = 163070
+}
+846.1.1 = {
+	liege = d_toscana
+}
+886.1.1 = {
+	holder = 167902
+}
+915.9.10 = {
+	holder = 167905
+}
+931.1.1 = {
+	liege = d_toscana
+}
+#####
+#di Alberti
+950.1.1 = {
+	holder = 1061130 #Ildebrando I
+}
+1002.1.1 = {
+	holder = 1061131 # Ildebrando II
+}
+1027.1.1 = {
+	holder = 1061132 # Ildebrando II
+}
+1065.1.1 = {
+	holder = 1061133 # Alberto I
+}
+1077.1.1 = {
+	holder = 1061136 # Alberto II
+}
+1107.1.1 = {
+	liege = e_hre
+}
+1115.1.1 = {
+		liege = d_toscana
+}
+1125.1.1 = {
+	holder = 1061142 # Tancredi Nontigiova
+}
+1141.1.1 = {
+	holder = 1061143 # Alberto IV
+}
+1195.1.1 = {
+	holder = 1061144 # Guido
+}
+1197.9.28 = {
+	liege = e_hre
+}
+1197.11.11 = {
+	liege=k_tuscan_league
+}
+1202.1.1 = {
+	liege = d_firenze_republic
+}
+1209.1.1 = {
+	holder = 1061150 # Alberto V
+}
+1250.1.1 = {
+	holder = 1061153 # Alessandro
+}
+1259.1.1 = {
+	holder = 1061151 # Napoleone
+}
+1284.1.1 = {
+	holder = 1061152 # Orso
+}
+1285.1.1 = {
+	holder = 1061154 # Alberto VI
+}
+#Castruccio
+1316.11.4 = { 
+    liege=d_lucca_republic
+
+}
+1325.1.1 = {
+	holder = 1061200 # Castruccio Castracani Antelminelli
+}
+1327.11.17 = {
+	liege=d_lucca # Castruccio raised to duke of Lucca
+}
+1328.9.3 = {
+	holder = 1061201 # Enrico II/Arrigo Antelminelli
+}
+1329.5.10 = {   
+    liege=d_firenze_republic
+	holder = 1061155 # Margherita Alberti
+}
+#Margherita sells the counties in 1332, Bardi family gains them in 1335.
+#Bardi members to be added later.

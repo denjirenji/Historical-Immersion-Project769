@@ -1,0 +1,30 @@
+# -*- ck2.history.provinces -*-
+
+# 1003 - Primorje
+
+# County Title
+title = c_primorje
+
+# Settlements
+max_settlements = 4
+
+b_kraljic_krajina = tribal
+b_bar = temple
+#b_ulcinj = castle
+#b_budva = city
+b_kotor = city
+
+
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_kraljic_krajina = castle }
+867.1.1 = { culture = serbian }
+980.1.1 = { religion = orthodox }
+1066.1.1 = { b_ulcinj = castle}
+1066.1.1 = { capital = b_ulcinj }
+1066.1.1 = { remove_settlement = b_kraljic_krajina } # Old Dukjlan court abadoned

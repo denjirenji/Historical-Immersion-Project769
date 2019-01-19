@@ -1,0 +1,29 @@
+# 242 - Aargau
+
+# County Title
+title = c_aargau
+
+# Settlements
+max_settlements = 4
+
+b_habsburg = castle
+
+#b_luzern = city
+#b_lenzburg = castle
+#b_muri = temple
+
+#b_laufenburg = city
+#b_einsiedeln = temple 
+#b_tegerfelden = castle 
+
+# Misc
+culture = suebi
+religion = catholic
+
+# History
+790.1.1 = { culture = swabian }
+#934.1.1= { b_einsiedeln = temple } 
+1027.1.1= { b_muri = temple } 
+1036.1.1= { b_lenzburg = castle } 
+1170.1.1 = { culture = german }
+1180.1.1= { b_luzern = city } 

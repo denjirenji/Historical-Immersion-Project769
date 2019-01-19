@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 445 - Pressburg
+
+# County Title
+title = c_pressburg
+
+# Settlements
+max_settlements = 5
+b_pressburg = tribal
+b_mariavolgy = city
+b_nagyszombat = temple
+
+b_modor = castle
+#b_feherko = castle
+#b_szakolca = city
+#b_deveny = castle
+#b_bazin= castle
+
+# Misc
+culture = proto_west_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { culture = moravian }
+867.1.1 = { b_pressburg = castle }
+867.1.1 = { religion = catholic }

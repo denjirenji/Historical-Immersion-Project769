@@ -1,0 +1,41 @@
+# -*- ck2.history.titles -*-
+
+767.1.1 = {
+	holder = 2100000
+}
+852.1.1 = {
+	holder = 6866 # Hårik II
+}
+865.1.1 = {
+	holder = 163113 # Bagsec
+}
+871.1.1 = {
+	holder = 0
+}
+961.1.1 = {
+	liege = k_denmark
+}
+1018.1.1 = {
+	holder = 101535 # Ulfr the Earl
+}
+1021.1.1 = {
+	holder = 168641 # Thorkill the Tall
+}
+1024.1.1 = {
+	holder = 101535 # Ulfr the Earl
+}
+1026.12.31 = {
+	holder = 1228167 # Eilafr, brother of Ulfr the Earl
+}
+1035.11.12 = {
+	holder = 101515 # Svend Estridsen
+}
+1047.10.25 = {
+	holder = 101541 # Ulf Galica
+}
+1062.1.1 = {
+	holder = 101542 # Thrugot Ulfssøn
+}
+1070.4.28 = {
+	holder = 0
+}

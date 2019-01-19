@@ -1,0 +1,36 @@
+# -*- ck2.history.provinces -*-
+
+# 959 - Vodica
+
+# County Title
+title = c_vodica
+
+# Settlements
+max_settlements = 5
+b_vodicevo_una = tribal
+#b_blagaj_japra = castle
+b_bosanska_krupa = city
+b_dubica = temple
+#b_zrin = castle
+#b_stenicnjak = city
+
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1= { b_vodicevo_una = castle }
+867.1.1= { b_blagaj_japra = castle }
+867.1.1= { culture = croatian } 
+867.1.1= { religion = catholic }
+1200.1.1= { b_zrin = castle } 
+1232.1.1= { religion = bogomilist } 
+
+
+ 
+
+ 
+
+ 

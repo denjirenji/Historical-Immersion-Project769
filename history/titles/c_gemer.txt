@@ -1,0 +1,92 @@
+# -*- ck2.history.titles -*-
+
+731.1.1 = {
+	liege = d_esztergom
+	holder = 146137
+}
+770.1.1 = {
+	holder = 146138
+}
+780.1.1 = {
+	holder = 146139
+}
+785.1.1 = {
+	holder = 146140
+}
+804.1.1 = {
+	liege = d_pecs
+}
+814.1.1 = {
+	holder = 146141
+}
+829.1.1 = {
+	holder = 146142
+}
+835.1.1 = {
+	holder = 90107 # Louis II the German
+}
+839.1.1 = {
+	holder = 187011
+}
+861.1.1 = {
+	holder = 187012
+}
+867.1.1 = {
+	liege = k_moravia
+	holder = 187004
+}
+894.1.1 = {
+	holder = 187006
+}
+907.7.4 = {
+	holder = 0
+}
+945.1.1 = {
+	liege = k_magyar
+}
+955.1.1 = {
+	holder = 1233332
+}
+972.1.1 = {
+	holder = 1233333
+}
+1000.12.25 = {
+	liege = k_hungary
+}
+1009.1.1 = {
+	holder = 1233334
+}
+1039.1.1 = {
+	holder = 20356
+}
+1083.1.1 = {
+	holder = 4431
+}
+1111.1.1 = {
+	liege = d_nyitra
+	holder = 480
+}
+1116.2.3 = {
+	holder = 93678
+}
+1150.1.1 = {
+	holder = 93679
+}
+1170.1.1 = {
+	holder = 93715
+}
+1210.1.1 = {
+	holder = 93716
+}
+1236.1.1 = {
+	holder = 93720
+}
+1297.1.1 = {
+	holder = 93721
+}
+1300.1.1 = {
+	holder = 93723
+}
+1335.1.1 = {
+	holder = 93726
+}

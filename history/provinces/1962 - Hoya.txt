@@ -1,0 +1,30 @@
+# 1962 - Hoya
+
+# County Title
+title = c_hoya
+
+# Settlements
+max_settlements = 4
+
+b_stumpenhusen = tribal
+b_hoya = castle
+b_bucken = temple
+
+#b_nienburg = city
+
+#b_wolpe = castle
+#b_bruchhausen = castle 
+#b_hodenberg = castle #Altenbücken
+
+# Misc
+culture = old_saxon
+religion = norse_pagan
+
+# History
+790.1.1 = { 
+	culture = low_saxon
+	b_stumpenhusen = castle 
+}
+1100.1.1 = { culture = low_german }
+#1151.1.1 = { b_wolpe = castle }
+1225.1.1 = { b_nienburg = city }

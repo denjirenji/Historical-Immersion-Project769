@@ -1,0 +1,29 @@
+# 1057 - Limburg
+
+# County Title
+title = c_limburg
+
+# Settlements
+max_settlements = 5
+
+b_limburg = castle
+b_maastricht = city
+
+#b_rolduc = temple 
+#b_heinsberg = castle 
+#b_valkenburg = castle 
+
+#b_wittem = castle 
+#b_dalhem = castle 
+
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History
+790.1.1 = { culture = low_frankish }
+1041.1.1 = { b_valkenburg = castle }
+1085.1.1 = { b_heinsberg = castle }
+1104.1.1 = { b_rolduc = temple }
+1150.1.1 = { culture = dutch }

@@ -1,0 +1,115 @@
+# -*- ck2.history.titles -*-
+
+548.1.1 = {
+	holder = 190178 # Garibald I
+}
+591.1.1 = {
+	holder = 190179 # Tassilo I
+}
+610.1.1 = {
+	holder = 190336 # Garibald II
+}
+630.1.1 = {
+	holder = 190337 # Theodo I
+}
+680.1.1 = {
+	holder = 190338 # Lantpert
+}
+680.6.1 = {
+	holder = 190339 # Theodo II
+}
+716.1.1 = {
+	holder = 190334 # Theodbert I
+}
+719.1.1 = {
+	holder = 190370 # Theobald I
+}
+719.4.1 = {
+	holder = 190371 # Tassilo II
+}
+719.8.1 = {
+	holder = 190372 # Grimoald
+}
+725.1.1 = {
+	holder = 190226 # Hugbert
+}
+736.1.1 = {
+	holder = 190227 # Odilo
+}
+748.1.1 = {
+	holder = 144989 # Grifo
+}
+748.6.1 = {
+	holder = 190228 # Tassilo III
+}
+814.1.28 = {
+	holder = 90095 # Louis I
+}
+840.1.21 = {
+	holder = 90107 # Ludwig I
+}
+865.1.1 = {
+	liege = d_franconia
+	holder = 42019 # Ludwig II
+}
+876.8.23 = {
+	liege = k_germany
+}
+882.1.20 = {
+	holder = 90105 # Karl
+}
+888.1.13 = {
+	holder = 7945 # Arnulf
+}
+899.12.8 = {
+	holder = 7949 # Lothair
+}
+973.1.1 = {
+	liege = d_nordgau
+	holder = 10098 # Berthold von Schweinfürt
+}
+980.1.15 = {
+	holder = 1434 # Heinrich von Schweinfürt
+}
+1017.9.18 = {
+	holder = 11061 # Heinrich von Schweinfürt, Graf von Pegnitz
+}
+1043.1.1 = {
+	holder = 31528 # Kuno von Lechsgemünd
+}
+1080.1.1 = {
+	holder = 1228491 # Ernst von Grögling-Ottenburg
+}
+1097.11.12 = {
+	holder = 1228492 # Altmann von Grögling
+}
+1130.10.2 = {
+	holder = 1228493 # Hartwig von Grögling
+}
+1139.1.1 = {
+	holder = 1228496 # Gerhard von Grögling
+}
+1170.1.1 = {
+	holder = 1228498 # Gebhard von Grögling
+}
+1232.1.1 = {
+	holder = 1228503 # Gebhard von Grögling
+}
+1245.1.1 = {
+	holder = 1228505 # Gebhard von Grögling
+}
+1259.1.1 = {
+	liege = d_bavaria # Incorporated by the Wittelsbachs into the rest of Bavaria
+}
+1275.2.27 = {
+	holder = 1228506 # Gerhard von Grögling
+}
+1278.3.2 = {
+	holder = 1228507 # Gebhard von Grögling
+}
+1305.3.4 = {
+	holder = 462736
+}
+1317.1.1 = {
+	holder = 462740
+}

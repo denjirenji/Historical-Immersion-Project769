@@ -1,0 +1,82 @@
+# -*- ck2.history.titles -*-
+
+866.1.1 = {
+	liege = d_diyareast
+	holder = 1500061
+}
+877.1.1 = {
+	holder = 0
+}
+980.1.1 = {
+	liege = d_amida
+}
+983.1.1 = {
+	holder = 159143
+}
+990.1.1 = {
+	holder = 159145
+}
+997.1.1 = {
+	holder = 159146
+}
+1011.1.1 = {
+	holder = 159147
+}
+1061.1.1 = {
+	holder = 20738
+}
+1079.1.1 = {
+	holder = 93419
+}
+1091.1.1 = {
+	holder = 144067
+}
+1104.1.1 = {
+	holder = 144066
+}
+1122.1.1 = {
+	holder = 34249
+}
+1125.1.1 = {
+	holder = 34250
+}
+1176.1.1 = {
+	holder = 34251
+}
+1183.1.1 = {
+	liege = k_egypt
+}
+1184.1.1 = {
+	holder = 34252
+}
+1203.1.1 = {
+	holder = 34253
+}
+1239.1.1 = {
+	holder = 34254
+}
+1258.1.1 = {
+	set_tribute_suzerain = {
+		who = e_china_west_governor
+		type = offmap
+	}
+}
+1259.8.11 = {
+	clear_tribute_suzerain = e_china_west_governor
+	liege = e_il-khanate
+}
+1260.1.1 = {
+	holder = 34255
+}
+1288.1.1={
+	holder = 248132 # brother of Sa'ad al-Dawla
+}
+1292.1.1 = {
+	holder = 34256
+}
+1312.1.1 = {
+	holder = 34258
+}
+1336.4.10 = {
+	liege = 0
+}

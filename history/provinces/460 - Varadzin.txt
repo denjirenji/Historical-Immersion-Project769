@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 460 - Varadzin # Zagorje
+
+# County Title
+title = c_varadzin
+
+# Settlements
+max_settlements = 4
+
+b_kraprina = tribal
+b_varazdin = city
+#b_vitrovica = city
+b_krizevci = city
+
+
+
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1= { b_kraprina = castle }
+867.1.1= { culture = croatian } 
+867.1.1= { religion = catholic }

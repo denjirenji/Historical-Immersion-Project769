@@ -1,0 +1,85 @@
+# -*- ck2.history.titles -*-
+
+693.1.1={
+	holder = 190335 #Gotfrid
+}
+709.1.1={
+	holder = 190230 #Lantfrid
+}
+730.1.1={
+	holder = 190232 #Theobald
+}
+745.1.1={
+	holder = 190231 #Lantfrid II
+}
+751.1.1={
+	liege = k_lotharingia
+	holder = 190234 #Hnabi
+}
+788.1.1={
+	holder = 190238 #Erbio
+}
+794.1.1={
+	holder = 190239 #Udo
+}
+810.1.1={
+	holder = 0
+}
+843.1.1 = {
+	liege = k_germany
+	holder = 168191
+}
+861.1.1 = {
+	holder = 168192
+}
+865.1.1 = {
+	liege = d_swabia
+}
+876.1.29 = {
+	liege = k_germany
+}
+1018.1.1 = {
+	liege = d_swabia
+	holder = 33520 # Egino I von Dettingen
+}
+1052.1.1 = {
+	holder = 33519 # Egino II von Schwiggertal
+}
+1105.11.5 = {
+	holder = 33518 # Egino III von Urach
+}
+1160.7.25 = {
+	holder = 7645 # Egino IV von Urach
+}
+# dukes of Teck (von Zähringen)
+1189.5.1 = {
+	liege = d_teck
+	holder = 33529
+}
+1195.1.1 = {
+	holder = 33530
+}
+1219.9.19 = {
+	holder = 33532
+}
+1249.1.1 = {
+	holder = 33535
+}
+1283.12.24 = {
+	holder = 33536
+}
+1292.5.1 = {
+	holder = 33541
+}
+1313.12.20 = {
+	holder = 33544
+}
+1316.3.5 = {
+	holder = 33545
+}
+1329.7.4 = {
+	holder = 33546
+}
+1334.1.28 = {
+	holder = 33549
+}

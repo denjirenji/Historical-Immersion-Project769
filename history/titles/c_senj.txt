@@ -1,0 +1,68 @@
+# -*- ck2.history.titles -*-
+
+745.1.1={
+	liege = "d_croatia"
+	holder=146005
+}
+780.1.1={
+	holder=146004
+}
+802.1.1={
+	holder=146003
+}
+821.1.1={
+	holder=146001
+}
+835.1.1={
+	holder=146000
+}
+845.1.1={
+	holder=8602
+}
+864.1.1 = {
+	liege = d_croatia
+	holder = 167855
+}
+1000.1.1 = {
+	holder = 8616
+}
+1030.1.1 = {
+	holder = 8620
+}
+1031.1.1 = {
+	holder = 1229233 # Lapcanu placeholder
+}
+1055.1.1 = {
+	holder = 1229200 # Vinihi Lapcanu
+}
+1110.1.1 = {
+	holder = 93542
+}
+# Frankopan dynasty
+1131.4.2 = {
+	holder = 219990
+}
+1163.1.1 = {
+	holder = 219991
+}
+1198.1.1 = {
+	holder = 219992
+}
+1209.1.1 = {
+	holder = 32631
+}
+1232.1.1 = {
+	holder = 32634
+}
+1260.1.1 = {
+	holder = 32635
+}
+1262.1.1 = {
+	holder = 32636
+}
+1316.1.1 = {
+	holder = 470020
+}
+1322.1.1 = {
+	holder = 470021
+}

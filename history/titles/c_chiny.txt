@@ -1,0 +1,54 @@
+# -*- ck2.history.titles -*-
+
+740.1.1={
+	holder = 131717 #Agnerald de Chaumontis
+	liege = k_france
+}
+790.1.1={
+	holder = 131716
+}
+855.1.1 = {
+	liege = k_lotharingia
+}
+858.1.1 = {
+	holder = 163050
+}
+903.1.1 = {
+	liege = d_lower_lorraine
+}
+1025.1.1 = {
+	holder = 900025
+}
+1066.1.1 = {
+	holder = 900024
+}
+1105.1.1 = {
+	holder = 33207
+}
+1131.1.1 = {
+	holder = 900020
+}
+1162.1.1 = {
+	holder = 900021
+}
+1189.8.12 = {
+	holder = 900022
+}
+1190.8.21 = {
+	liege = e_hre
+}
+1226.1.1 = {
+	holder = 900023
+}
+1268.1.1 = {
+	holder = 33082
+}
+1299.1.1 = {
+	holder = 33089
+}
+1327.8.22 = {
+	holder = 33092
+}
+1336.4.22 = {
+	holder = 462162
+}

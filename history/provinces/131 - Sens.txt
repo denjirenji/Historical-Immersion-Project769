@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 131 - Sens
+
+# County Title
+title = c_sens
+
+# Settlements
+max_settlements = 3
+b_sens = castle
+b_nogentsurseine = city
+
+#b_joigny = castle
+#b_villeneuveleroi = castle
+
+
+# Misc
+culture = old_french
+religion = catholic
+
+# History
+790.1.1 = { culture = frankish }

@@ -1,0 +1,83 @@
+# -*- ck2.history.titles -*-
+
+768.1.1={
+	holder=200216 # Yahya Fezzi
+	liege=k_andalusia
+}
+800.1.1={
+	holder=200034 # Jalid Aslamid
+	liege=d_beja
+}
+820.1.1={
+	holder=200033 # Hashim Aslamid
+}
+840.1.1={
+	holder=73968 # Abd al-Aziz Aslamid
+}
+843.1.1 = {
+	liege = d_badajoz
+	holder = 73956
+}
+867.1.1 = {
+	holder = 73957
+}
+912.1.1 = {
+	holder = 73959
+}
+1013.1.1 = {
+	holder = 1235022
+}
+1022.4.8 = {
+	holder = 45007
+}
+1045.1.1 = {
+	holder = 3900
+}
+1067.1.1 = {
+	holder = 3901
+}
+1079.1.1 = {
+	holder = 3902
+}
+1094.1.1 = {
+	liege = k_maghreb
+	holder = 73205
+}
+1116.1.1 = {
+	holder = 73207
+}
+1142.1.1 = {
+	holder = 73203
+}
+1145.1.1 = {
+	liege = d_badajoz
+}
+1146.1.1 = {
+	holder = 224008
+}
+1150.1.1 = {
+	liege = k_maghreb
+	holder = 224022
+}
+1169.1.1 = {
+	holder = 224010
+}
+1188.1.1 = {
+	holder = 73613
+}
+1205.1.1 = {
+	holder = 73614
+}
+1230.3.19 = {
+	liege = d_badajoz
+	holder = 457650
+}
+1230.9.24 = {
+	holder = 457620
+}
+1252.5.30 = {
+	holder = 457540
+}
+1284.4.4 = {
+	holder = 457630
+}

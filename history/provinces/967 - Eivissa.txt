@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 967 - Eivissa
+
+# County Title
+title = c_eivissa
+
+# Settlements
+max_settlements = 2
+
+b_eivissa = castle
+#b_formentera = castle
+
+# Misc
+culture = iberian
+religion = orthodox
+terrain = mountain
+
+# History
+902.1.1 = { culture = andalusian_arabic }
+902.1.1 = { religion = sunni }
+1245.1.1 = { culture = catalan }
+1245.1.1 = { religion = catholic }

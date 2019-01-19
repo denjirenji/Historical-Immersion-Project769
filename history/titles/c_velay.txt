@@ -1,0 +1,50 @@
+# -*- ck2.history.titles -*-
+
+743.1.1={
+	liege=k_lotharingia
+}
+770.1.1={
+	holder = 190507 #Hugh
+}
+800.1.1 = {
+	liege = k_aquitaine
+}
+819.1.1={
+	holder = 190508 #Hugh (II)
+}
+863.1.1={
+	holder = 190509 #Stephan (II)
+}
+998.1.1 = {
+	holder = 1093051
+}
+1000.1.1 = {
+	liege = d_aquitaine
+}
+1016.1.1 = {
+	holder = 1093049
+}
+1031.1.1 = {
+	holder = 1093034
+}
+1053.1.1 = {
+	holder = 1093033
+}
+1073.1.1 = {
+	holder = 1093037
+}
+1098.8.1 = {
+	holder = 1093038
+}
+1112.1.24 = {
+	holder = 1093039
+}
+1128.4.20 = {
+	holder = 0
+}
+1213.1.1 = {
+	liege = k_france
+}
+1337.1.1 = {
+	liege = d_auvergne
+}

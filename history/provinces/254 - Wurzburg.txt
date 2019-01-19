@@ -1,0 +1,29 @@
+# 254 - Würzburg
+
+# County Title
+title = c_wurzburg
+
+# Settlements
+max_settlements = 5
+
+b_karlsburg = castle
+b_wurzburg = temple
+b_ochsenfurt = city
+b_schluchtern = temple 
+
+#b_rieneck = castle 
+
+#b_trimburg = castle 
+#b_hammelburg = city
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History
+790.1.1 = { culture = franconian }
+995.1.1 = {
+	capital = b_wurzburg
+}
+1150.1.1 = { b_rieneck = castle }
+1170.1.1 = { culture = german }

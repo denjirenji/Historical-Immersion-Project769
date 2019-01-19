@@ -1,0 +1,30 @@
+# -*- ck2.history.provinces -*-
+
+# 539 - Marmaros # Szatmar
+
+# County Title
+title = c_marmaros
+
+# Settlements
+max_settlements = 5
+
+b_szatmarvar = tribal
+b_doboka = city
+#b_desvar = castle
+#b_kerles = castle
+#b_zilah = city
+#b_nagykaroly = castle
+
+# Misc
+culture = romanian
+religion = orthodox
+
+# History
+985.1.1 = { b_szatmarvar = castle }
+985.1.1 = { b_doboka = castle }
+985.1.1 = { b_zilah = city }
+1043.1.1 = { religion = catholic }
+1100.1.1 = { b_kerles = castle }
+1200.1.1 = { b_desvar = castle }
+1246.1.1 = { remove_settlement = b_doboka} #razed by Mongols
+1246.1.1 = { b_nagykaroly = castle }

@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 1312 - Modrus
+
+# County Title
+title = c_modrus
+
+# Settlements
+max_settlements = 4
+
+b_modrus_castle = tribal
+#b_trsat = castle
+b_rijeka = city
+#b_grobnik_vinodol = castle
+
+# Misc
+culture = proto_south_slavic
+religion = catholic
+
+# History
+867.1.1 = { b_modrus_castle = castle }
+867.1.1 = { b_trsat = castle }
+867.1.1= { culture = croatian } 

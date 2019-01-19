@@ -1,0 +1,142 @@
+# -*- ck2.history.titles -*-
+
+# Eastanglia
+571.1.1 = {
+	holder = 205001 # Wuffa
+}
+578.1.1 = {
+	holder = 205002 # Tytila
+}
+616.1.1 = {
+	holder = 205003 # Rædwald
+}
+627.1.1 = {
+	holder = 205004 # Eorpwald
+}
+630.1.1 = {
+	holder = 205005 # Sigeberht, abdicated
+}
+634.1.1 = {
+	holder = 205010 # Æthelric/Ecgric joint king with Sigeberht
+}
+641.1.1 = {
+	holder = 205007 # Anna
+}
+653.1.1 = {
+	holder = 205008 # Æthelhere, killed in battle
+}
+655.11.15 = {
+	holder = 205009 # Æthelwald, brother of Anna famed king
+}
+663.1.1 = {
+	holder = 205011 # Ealdwulf
+}
+713.1.1 = {
+	holder = 205012 # Ælfwald
+}
+749.1.1 = {
+	holder = 205013 # Beonna, seems to have been Mercian plant
+}
+760.1.1 = {
+	holder = 205014 # Athelbert I, appears to have been sub-king under Beonna
+}
+761.1.1 = {
+	holder = 205015 # Æthelræd
+}
+779.1.1 = {
+	holder = 205016 # Athelberht II
+}
+794.5.20 = {
+	holder = 205072 # Offa of Mercia takes direct control
+}
+796.7.29 = {
+	holder = 1226225 # Eadwald somehow takes power after Offa's death
+}
+798.1.1 = {
+	holder = 1226391 # Coenwulf king of Mercia reinstates Mercian rule.
+}
+821.1.1 = {
+	holder = 1226392 # Ceolwulf I king of Mercia
+}
+823.10.18 = {
+	holder = 1226396 # Beornwulf king of Mercia
+}
+855.1.8 = {
+	liege = d_hereford
+	holder = 1226386
+}
+879.1.1 = {
+	holder = 168650
+}
+927.7.12 = {
+	liege = k_england
+}
+928.1.8 = {
+	liege = d_norfolk
+}
+940.1.1 = {
+	holder = 1226357 # Ælfric Cild
+}
+983.1.1 = {
+	liege = d_hereford
+}
+985.1.1 = {
+	liege = d_norfolk
+	holder = 1226361 # Ælfwine son of Ælfric Cild
+}
+991.1.1 = {
+	holder = 1226362 # Godwine son of Ælfirc Cild, Ealdorman of Lindsey
+}
+1018.10.18 = {
+	holder = 0
+}
+1042.6.9 = {
+	holder = 114 # Eadward the Confessor
+	liege = k_england
+}
+1066.1.1 = {
+	holder = 132 # Gyrth Godwinson
+}
+1066.10.14 = {
+	liege = k_england
+	holder = 140
+}
+1068.1.1 = {
+	holder = 5652 # Radulf 'de Guader'
+}
+1074.1.1 = {
+	holder = 140 # William the Conqueror
+}
+1087.9.9 = {
+	holder = 146 # William II Rufus
+}
+1100.8.3 = {
+	holder = 202992 # Henry I
+}
+1135.12.1 = {
+	holder = 205851 # Stephen
+}
+1141.1.1 = {
+	holder = 204735 # Hugh de Bigod
+}
+1177.1.1 = {
+	holder = 204730 # Roger de Bigod
+}
+1221.1.1 = {
+	holder = 204731 # Hugh de Bigod
+}
+1225.1.1 = {
+	holder = 7457 # Roger de Bigod
+}
+1270.1.1 = {
+	holder = 7454 # Roger de Bigod
+}
+1306.12.6 = {
+	holder = 454520 # Edward I Longshanks
+}
+1307.7.7 = {
+	holder = 454510 # Edward II of England
+}
+1312.1.1 = {
+	holder = 454550 # Thomas of Brotherton
+}

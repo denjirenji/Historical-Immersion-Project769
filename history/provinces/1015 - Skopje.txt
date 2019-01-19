@@ -1,0 +1,29 @@
+# -*- ck2.history.provinces -*-
+
+# 1015 - Skopje
+
+# County Title
+title = c_skopje
+
+# Settlements
+max_settlements = 5
+
+b_prilep = tribal
+b_skopje = city
+#b_debar = castle
+#b_kicevo = castle
+#b_trescavac = temple
+#b_staro_nagoricane_monestary = temple
+b_veles = temple
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_prilep = castle }
+867.1.1 = { b_kicevo = castle }
+867.1.1 = { culture = bulgarian }
+900.1.1 = { religion = orthodox }
+
+

@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 1001 - Zavrsje
+
+# County Title
+title = c_zavrsje
+
+# Settlements
+max_settlements = 3
+
+b_glamoc = tribal
+b_livna = city
+b_duvno = temple
+#b_humac = temple
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_glamoc = castle }
+867.1.1 = { culture = croatian }
+867.1.1 = { religion = catholic }
+1232.1.1= { culture = bosnian } 

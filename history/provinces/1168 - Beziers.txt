@@ -1,0 +1,25 @@
+# -*- ck2.history.provinces -*-
+
+# 1168 - Béziers
+
+# County Title
+title = c_beziers
+
+# Settlements
+max_settlements = 5
+b_beziers = castle
+b_pezenas = city
+b_agde = temple
+b_castelnaudeguers = castle
+
+#b_minerve = castle
+#b_puisserguier = city
+#b_faugeres = castle
+
+
+#Misc
+religion = catholic
+culture = iberian
+
+# History
+790.1.1 = { culture = occitan }

@@ -1,0 +1,30 @@
+# -*- ck2.history.provinces -*-
+
+# 45 - Argyll
+
+# County Title
+title = c_argyll
+
+# Settlements
+max_settlements = 3
+b_inveraray = tribal
+#b_ardchattan = temple
+#b_oban = city
+#b_kilmartin = castle
+
+
+# Misc
+culture = irish
+religion = catholic
+terrain = hills
+
+# History
+860.1.1 = { 
+	culture = pictish
+	religion = norse_pagan
+}
+990.1.1 = { culture = scottish }
+1266.1.1 = {
+	b_inveraray = castle
+}
+1015.1.1 = { religion = catholic }

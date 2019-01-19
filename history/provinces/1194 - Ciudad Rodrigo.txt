@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 1194 - Ciudad Rodrigo
+
+# County Title
+title = c_ciudad_rodrigo
+
+# Settlements
+max_settlements = 3
+b_ciudadrodrigo = castle
+#b_ledesma = city
+#b_sanctispiritus = temple
+
+
+# Misc
+culture = iberian
+religion = catholic
+
+# History
+867.1.1 = { 
+	b_ciudadrodrigo = ca_keep_1
+	b_ciudadrodrigo = ca_wall_1
+}
+947.1.1 = { culture = leonese }

@@ -1,0 +1,80 @@
+# -*- ck2.history.titles -*-
+
+769.1.1 = {
+	liege = d_toledo
+	holder = 200020 # Suleyman Umayyad
+}
+785.1.1 = {
+	holder = 73799 # Amrus Amrusid
+}
+802.1.1 = {
+	holder = 73800 # Yusuf Amrusid
+}
+838.1.1 = {
+	holder = 73801 # Umar Amrusid
+}
+840.1.1 = {
+	liege = k_andalusia
+	holder = 73682 # Abd al-Rahman II Umayyad
+}
+852.9.22 = {
+	holder = 73683 # Muhammad I Umayyad
+}
+867.1.1 = {
+	liege = d_toledo
+	holder = 73928
+}
+1017.2.5 = {
+	liege = d_castilla
+	holder = 70286 # García Sánchez de Lara
+}
+1029.5.13 = {
+	holder = 107510 # Fernando Sánchez Jimena
+}
+1037.9.4 = {
+	liege = k_leon
+	holder = 107510 # Fernando I Jimena
+}
+1065.12.27 = {
+	liege = k_castille
+	holder = 107500 # Sancho II Jimena
+}
+1072.10.7 = {
+	holder = 108500
+}
+1073.1.1 = {
+	holder = 107570
+}
+1105.12.12 = {
+	holder = 207539
+}
+1130.10.16 = {
+	holder = 207545
+}
+1177.6.1 = {
+	holder = 207548
+}
+1217.1.1 = {
+	holder = 72516
+}
+1230.1.1 = {
+	holder = 72517
+}
+1240.7.24 = {
+	holder = 72541
+}
+1275.5.1 = {
+	holder = 72544
+}
+#1276.1.1 = {
+#	holder = 72545
+#}
+#1287.1.1 = {
+#	holder = 457681
+#}
+1294.1.1 = {
+	holder = 72546
+}
+1315.9.16 = {
+	holder = 457581
+}

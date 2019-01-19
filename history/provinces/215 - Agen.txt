@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 215 - Agen
+
+# County Title
+title = c_agen
+
+# Settlements
+max_settlements = 4
+b_agen = temple
+b_penne = castle
+b_casseneuil = city
+#b_moissac = temple
+#b_luzech = castle
+#b_abbayedeysses = temple
+
+
+
+
+#Misc
+religion = catholic
+culture = occitan
+
+# History
+864.1.1 = {
+	capital = b_penne
+}

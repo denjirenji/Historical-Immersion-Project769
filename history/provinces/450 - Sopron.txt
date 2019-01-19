@@ -1,0 +1,46 @@
+# -*- ck2.history.provinces -*-
+
+# 450 - Sopron
+
+# County Title
+title = c_sopron
+
+# Settlements
+max_settlements = 5
+
+b_ikervar = tribal
+b_sopron = city
+b_vasvar = city
+#b_celldomolk = temple
+#b_kapuvar = city
+#b_nemetujvar = castle
+#b_csorna = temple
+#b_szarvko = temple
+#b_lekahungary = city
+#b_lanzser = city
+#b_kabold = city
+#b_frakno = castle
+#b_ruszt = castle
+#b_karako = castle 
+#b_rohonc = temple
+#b_monyorokerek = temple
+
+
+# Misc
+culture = proto_west_slavic
+religion = slavic_pagan 
+
+# History
+
+867.1.1 = { b_ikervar = castle }
+867.1.1 = { religion = catholic }
+867.1.1 = { culture = karantanci }
+950.1.1 = { 
+	culture = hungarian 
+	religion = tengri_pagan 
+}
+995.1.1 = { 
+	religion = catholic
+}
+
+

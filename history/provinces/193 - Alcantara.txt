@@ -1,0 +1,28 @@
+# -*- ck2.history.provinces -*-
+
+# 193 - Alcantara
+
+# County Title
+title = c_alcantara
+
+# Settlements
+max_settlements = 4
+
+b_coria = castle
+b_caceres = city
+
+#b_alcantara = castle
+#b_valenciadealcantara = city
+
+
+# Misc
+culture = iberian
+religion = catholic
+
+# History
+947.1.1 = { 
+	culture = andalusian_arabic
+	religion = sunni
+}
+1236.1.1 = { culture = castillan }
+1236.1.1 = { religion = catholic }

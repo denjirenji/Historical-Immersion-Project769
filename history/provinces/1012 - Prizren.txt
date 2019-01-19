@@ -1,0 +1,28 @@
+# -*- ck2.history.provinces -*-
+
+# 1012 - Prizren
+
+# County Title
+title = c_prizren
+
+# Settlements
+max_settlements = 5
+
+b_zvecan = tribal
+b_pristina = city
+b_prizren = temple
+#b_pec_hvosno = temple
+#b_strpce = castle
+
+
+
+# Misc
+culture = arberian
+religion = orthodox
+
+# History
+867.1.1 = { b_zvecan = castle }
+867.1.1 = { culture = serbian }
+880.1.1 = { religion = orthodox }
+
+1266.1.1 = { b_pec_hvosno = temple }

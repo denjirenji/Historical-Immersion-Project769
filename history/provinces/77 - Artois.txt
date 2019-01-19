@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 77 - Artois
+
+# County Title
+title = c_artois
+
+# Settlements
+max_settlements = 5
+b_bethune = castle
+b_arras = city
+b_therouanne = temple
+
+#b_abbeydeachin = temple
+#b_loos = city
+#b_montmonrency = castle
+#b_olhain = castle
+#b_lens = city
+#b_bapaume = castle
+#b_saintvaast = temple
+
+# Misc
+culture = old_french
+religion = catholic
+
+# History
+790.1.1 = { culture = frankish }

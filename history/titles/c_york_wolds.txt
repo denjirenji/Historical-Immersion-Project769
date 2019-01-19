@@ -1,0 +1,105 @@
+# -*- ck2.history.titles -*-
+
+# East York Ridding
+765.1.1={
+	liege=d_northumberland
+	holder = 205244
+}
+866.11.1 = {
+	liege = d_york
+	holder = 163112
+}
+878.6.6 = {
+	holder = 0
+}
+954.1.1 = {
+	liege = k_england
+	holder = 1226243
+}
+966.1.1 = {
+	holder = 1226249 # Oslac
+}
+975.1.1 = {
+	holder = 0 # Oslac exiled
+}
+979.1.1 = {
+	holder = 1226248 # Thored
+}
+994.1.1 = {
+	holder = 1226209 # Alfhelm, brother of Wulfric Spot
+}
+1006.1.1 = {
+	holder = 188 # Uhtred the Bold
+}
+1016.1.1 = {
+	holder = 0
+}
+1017.1.1 = {
+	holder = 1228057 # Eric of Hlathir
+}
+1023.1.1 = {
+	holder = 196 # Sigeweard Grossus
+}
+1040.1.1 = {
+	holder = 1226223 # Gamel thegn of Cottingham ?-1066
+}
+1041.1.1 = {
+	liege = d_northumberland
+}
+### then to Hugh FitzBaldrick and afterwards to de Stuteville
+1066.10.14 = {
+	liege = k_england
+	holder = 140 # William the Conqueror
+}
+1070.1.1 = {
+	liege = d_northumberland
+	holder = 356 # Alain 'Rufus' de Penthièvre
+}
+1076.1.1 = {
+	liege = k_england
+}
+1089.1.1 = {
+	holder = 10047 # Alain Niger
+}
+1093.1.1 = {
+	holder = 205744 # Étienne I de Penthièvre
+}
+1093.8.24 = {
+	holder = 146 # William II Rufus
+}
+1100.8.3 = {
+	holder = 202992 # Henry I
+}
+1135.12.1 = {
+	holder = 205851 # Stephen
+}
+1136.4.21 = {
+	holder = 205751 # Alain de Penthièvre
+}
+1146.1.1 = {
+	holder = 205851 # Stephen
+}
+1154.10.25 = {
+	holder = 204500 # Henry II
+}
+1189.7.6 = {
+	holder = 204510 # Richard I Lionheart
+}
+1199.1.1 = {
+	holder = 204694 # William de Ferrers
+}
+1241.1.1 = {
+	holder = 70909 # Pierre of Savoy
+}
+1263.1.1 = {
+	holder = 454522 # Henry III
+}
+1272.11.16 = {
+	holder = 454520 # Edward I Longshanks
+}
+1307.7.7 = {
+	holder = 454510 # Edward II of England
+}
+1327.2.1 = {
+	holder = 454500 # Edward III
+}

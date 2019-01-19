@@ -1,0 +1,21 @@
+# -*- ck2.history.titles -*-
+
+555.1.1 = {
+	holder = 166542
+}
+580.1.1 = {
+	holder = 166553
+}
+627.1.1 = {
+	holder = 166554
+}
+668.1.1 = {
+	holder = 0
+}
+760.1.1 = {
+	liege = k_scotland
+	holder = 166618
+}
+848.1.1 = {
+	holder = 0
+}

@@ -1,0 +1,31 @@
+# -*- ck2.history.provinces -*-
+
+# 1209 - Caspe
+
+# County Title
+title = c_caspe
+
+# Settlements
+max_settlements = 4
+b_caspe = castle
+b_chiprana = city
+b_fabara = temple
+#b_alcanyiz = castle
+#b_calanda = castle
+
+
+# Misc
+culture = iberian
+religion = catholic
+
+# History
+867.1.1 = { 
+	b_caspe = ca_keep_1
+	b_caspe = ca_wall_1
+}
+947.1.1 = { 
+	culture = andalusian_arabic
+	religion = sunni
+}
+1131.1.1 = { culture = aragonese }
+1131.1.1 = { religion = catholic }

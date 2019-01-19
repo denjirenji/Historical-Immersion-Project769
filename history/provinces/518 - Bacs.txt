@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 518 - Bacs
+
+# County Title
+title = c_bacs
+
+# Settlements
+max_settlements = 5
+
+b_bacs = tribal
+#b_bodrog = castle
+#b_bajahungary = temple
+b_titel = temple
+#b_obecse = castle
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+950.1.1 = { culture = hungarian }
+1000.1.1 = { b_bodrog = castle }
+1000.1.1 = { b_bacs = castle }
+1025.1.1 = { religion = catholic }
+1060.1.1 = { b_obecse = castle }

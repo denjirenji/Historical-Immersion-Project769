@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 507 - Nikopolis # Kran
+
+# County Title
+title = c_nikopolis
+
+# Settlements
+max_settlements = 3
+
+b_kran = tribal
+b_silven = city
+#b_tryavna = temple
+#b_kteina = castle
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_kran = castle }
+867.1.1 = { culture = bulgarian }

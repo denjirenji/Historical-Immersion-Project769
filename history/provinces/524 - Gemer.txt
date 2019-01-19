@@ -1,0 +1,38 @@
+# -*- ck2.history.provinces -*-
+
+# 524 - Gemer
+
+# County Title
+title = c_gemer
+
+# Settlements
+max_settlements = 4
+
+b_gyorvar = tribal
+b_szentmaratonhegy = temple
+b_moson = city
+#b_oroszvar = city
+#b_gyorszentmarton = castle
+#b_abda = temple
+#b_hebervar = castle
+#b_magyarovar = temple
+#b_kopcseny = city
+
+
+# Misc
+culture = proto_west_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { culture = moravian }
+867.1.1 = { b_gyorvar = castle }
+867.1.1 = { religion = catholic }
+950.1.1 = { 
+	culture = hungarian 
+	religion = tengri_pagan 
+}
+995.1.1 = { 
+	religion = catholic
+}
+
+

@@ -1,0 +1,120 @@
+# -*- ck2.history.titles -*-
+
+740.1.1={
+	holder=2000011
+}
+788.1.1 = {
+	liege = k_maghreb
+	holder = 159501
+}
+791.12.16 = {
+	holder = 159502
+}
+828.1.1 = {
+	holder = 210034
+}
+830.1.1 = {
+	holder = 159507
+}
+835.10.1 = {
+	holder = 159508
+}
+883.12.16 = {
+	holder = 159510
+}
+900.12.16 = {
+	holder = 159512
+}
+919.12.16 = {
+	holder = 0
+}
+948.12.16 = {
+	liege = 0
+	holder = 159517
+}
+954.12.16 = {
+	holder = 159518
+}
+958.1.1 = {
+	set_tribute_suzerain = {
+		who = k_egypt
+		type = permanent
+	}
+}
+974.3.19 = {
+	clear_tribute_suzerain = k_egypt
+	liege = d_tangiers
+	holder = 3202 # al-Hakam II Umayyad
+}
+976.10.16 = {
+	holder = 3204 # Hisham II Umayyad
+}
+1010.1.1 = { #sometime during Hammama's reign
+	liege = d_sala
+	holder = 1236320
+}
+1015.1.1 = {
+	holder = 1236321
+}
+1055.1.1 = {
+	holder = 1236323
+}
+1059.1.1 = {
+	liege = k_mauretania
+	holder = 32965
+}
+1061.1.1 = {
+	liege = d_marrakech
+}
+1075.1.1 = {
+	liege = k_mauretania
+	holder = 155033
+}
+1092.1.1 = {
+	holder = 155083
+}
+1106.12.6 = {
+	holder = 155075
+}
+1115.1.1 = {
+	holder = 155083
+}
+1152.1.1 = {
+	holder = 155088
+}
+1163.1.1 = {
+	holder = 155085
+}
+1191.1.1 = {
+	holder = 32983
+}
+1213.1.1 = {
+	holder = 32992
+}
+1223.1.1 = {
+	holder = 32987
+}
+1242.1.1 = {
+	holder = 32989
+}
+1248.1.1 = {
+	holder = 32996
+}
+1258.1.1 = {
+	holder = 32997
+}
+1286.3.20 = {
+	holder = 32998
+}
+1307.5.13 = {
+	holder = 33000
+}
+1308.7.28 = {
+	holder = 33001
+}
+1310.11.23 = {
+	holder = 33003
+}
+1316.1.1 = {
+	holder = 33004
+}

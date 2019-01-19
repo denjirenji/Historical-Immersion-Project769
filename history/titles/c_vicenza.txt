@@ -1,0 +1,98 @@
+# -*- ck2.history.titles -*-
+
+751.1.1 = {
+	liege = k_italy
+	holder = 190271 # Ademaro
+}
+768.1.1 = {
+	holder = 190272 # Ademaro
+}
+863.1.1 = {
+	liege = d_verona
+	holder = 163057
+}
+940.1.1 = {
+	holder = 1065807 # Manfredo II
+}
+960.1.1 = {
+	holder = 1065808 # Ighelfredo
+}
+980.1.1 = {
+	holder = 1065809 # Alberto
+}
+995.1.1 = {
+	holder = 1065814 # Maltraverso
+}
+1022.1.1 = {
+	holder = 1065816 # Gherardo
+}
+1028.1.1 = {
+	liege = d_carinthia
+	holder = 70626
+}
+1030.1.1 = {
+	holder = 1226759
+}
+1047.1.1 = {
+	liege = d_verona
+}
+1062.1.1 = {
+	holder = 1226760
+}
+1090.5.12 = {
+	liege = k_italy
+}
+1096.1.1 = {
+	holder = 1226761
+}
+1115.7.24 = {
+	liege = e_hre
+}
+1125.5.23 = {
+	liege=k_italy
+}
+1137.12.4 = {
+	liege = e_hre
+}
+1139.1.1 = {
+	holder = 1226763
+}
+1147.1.1 = {
+	liege= d_vicenza_republic
+}
+1154.1.1 = {
+	holder = 1226768
+}
+1211.1.1 = {
+	holder = 1226769
+}
+1227.1.1 = {
+	holder = 70664 # Alberico da Romano
+}
+1240.1.1 = {
+	holder = 1226726 # Ezzelino da Romano
+}
+1259.1.1 = {
+	holder = 1226731
+}
+1266.1.1 = {
+	holder = 70794
+}
+1277.10.17 = {
+	holder = 70798
+}
+1301.1.1 = {
+	holder = 70802
+}
+1304.1.1 = {
+	holder = 412070
+}
+1305.1.1 = {
+	liege = d_verona
+}
+1308.1.1 = {
+	holder = 70805
+}
+1329.1.1 = {
+	holder = 412072
+}

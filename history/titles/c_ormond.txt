@@ -1,0 +1,120 @@
+# -*- ck2.history.titles -*-
+
+370.1.1=
+{
+holder=83607 #Conall Corc
+}
+420.1.1=
+{
+holder=83608 #Nad Froich son of Conall
+}
+450.1.1=
+{
+holder=83609 #Óengus son of Nad Froich
+}
+492.1.1=
+{
+holder=83611 #Feidelmid son of Óengus son of Nad Froich
+}
+533.1.1=
+{
+holder=83612 #Bressal son of Óengus son of Nad Froich
+}
+544.1.1=
+{
+holder=83617 #Crimthann son of Feidelmid
+}
+560.1.1=
+{
+holder=83618 #Áed Dub son of Crimthann
+}
+600.1.1=
+{
+holder=83619 #Fíngen son of Áed Dub
+}
+619.1.1=
+{
+holder=83620 #Faílbe Fland son of Áed Dub
+}
+639.1.1=
+{
+holder=83621 #Máenach son of Fíngen
+}
+662.1.1=
+{
+holder=83628 #Colgú son of Faílbe Fland
+}
+678.1.1=
+{
+holder=83626 #Tnúthgal son of Fogartach
+}
+701.1.1=
+{
+holder=83624 #Cormac son of Ailill
+}
+713.1.1=
+{
+holder=83631 #Dub-dá-Crích son of Colmán
+}
+752.1.1=
+{
+holder=83640 #Indrechtach son of Flann
+liege = d_munster
+}
+795.1.1=
+{
+holder=83655 #Tnúthgal son of Donngus
+}
+820.1.1=
+{
+holder=83633 #Feidlimid mac Crimthainn, High-King of Ireland
+}
+847.1.1=
+{
+holder=83657 #Áilgenán son of Donngal
+}
+853.1.1 = {
+	liege = d_western_isles
+	holder = 40608 # Sigtrygg, viking of Waterford
+}
+979.1.1 = {
+	liege = 0
+	holder = 1237012 # Ivar of Waterford
+}
+1000.1.1 = {
+	holder = 1237014 # Ragnall of Waterford
+}
+1018.1.1 = {
+	holder = 1237015 # Sihtric of Waterford
+}
+1022.1.1 = {
+	holder = 1237016 # Ragnall of Waterford
+}
+1035.1.1 = {
+	liege = d_leinster
+	holder = 83368
+}
+1038.1.1 = {
+	holder = 1226424 # Wadter, viking of Waterford
+}
+1090.1.1 = {
+	holder = 1237017 # Ragnall of Waterford
+}
+1172.1.1 = {
+	holder = 204500 # Henry II
+}
+1185.1.1 = {
+	holder = 204514 # John
+}
+1216.10.18 = {
+	holder = 454522 # Henry III
+}
+1272.11.16 = {
+	holder = 454520 # Edward I Longshanks
+}
+1307.7.7 = {
+	holder = 454510 # Edward II of England
+}
+1327.2.1 = {
+	holder = 454500 # Edward III
+}

@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 1363 - Draa
+
+# County Title
+title = c_draa
+
+# Settlements
+max_settlements = 2
+
+b_tata = tribal
+#b_wadidraa = temple  # Wadi Draa
+
+# Misc
+culture = tagelmust
+religion = catholic
+
+# History
+
+867.1.1 = {
+	religion = ibadi
+}
+990.1.1 = { culture = zanata }
+1030.1.1 = { religion = sunni }
+#1060.1.1 = { b_wadidraa = temple }
+1100.1.1 = { culture = tagelmust }

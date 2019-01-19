@@ -1,0 +1,31 @@
+# -*- ck2.history.provinces -*-
+
+# 504 - Rama
+
+# County Title
+title = c_rama
+
+# Settlements
+max_settlements = 3
+
+b_prozor_rama = tribal
+#b_travnik = castle
+#b_bioski = city
+
+ 
+
+
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_prozor_rama = castle }
+867.1.1 = { b_travnik = castle }
+867.1.1 = { culture = croatian }
+867.1.1 = { religion = catholic }
+1232.1.1= { culture = bosnian } 
+1232.1.1= { religion = bogomilist } 
+1232.1.1= { b_fojnica = temple } 

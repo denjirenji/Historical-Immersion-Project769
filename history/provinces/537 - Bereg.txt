@@ -1,0 +1,36 @@
+# -*- ck2.history.provinces -*-
+
+# 537 - Bereg # Somogy
+
+# County Title
+title = c_bereg
+
+# Settlements
+max_settlements = 3
+
+b_somogyvar = tribal
+b_zselicszentjakab = city
+
+#b_csurgo = temple
+#b_babocsa = castle
+#b_csakany = castle
+#b_kaposvar = castle
+#b_szigetvar = castle
+#b_fonyod = castle
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_somogyvar = castle }
+867.1.1 = { religion = catholic }
+950.1.1 = { 
+	culture = hungarian 
+	religion = tengri_pagan 
+}
+1025.1.1 = { 
+	religion = catholic
+}
+
+

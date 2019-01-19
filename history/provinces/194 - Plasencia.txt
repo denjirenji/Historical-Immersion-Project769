@@ -1,0 +1,30 @@
+# -*- ck2.history.provinces -*-
+
+# 194 - Plasencia
+
+# County Title
+title = c_plasencia
+
+# Settlements
+max_settlements = 4
+
+b_plasencia = castle
+b_trujillo = castle
+
+#b_jaraizdelavera = city
+#b_montanchez = temple
+#b_navalmoraldelamata = city
+#b_hervas = temple
+#b_guadalupe = temple
+
+# Misc
+culture = iberian
+religion = catholic
+
+# History
+947.1.1 = { 
+	culture = andalusian_arabic
+	religion = sunni
+}
+1240.1.1 = { culture = castillan }
+1240.1.1 = { religion = catholic }

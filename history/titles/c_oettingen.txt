@@ -1,0 +1,92 @@
+# -*- ck2.history.titles -*-
+
+693.1.1={
+	holder = 190335 #Gotfrid
+}
+709.1.1={
+	holder = 190230 #Lantfrid
+}
+730.1.1={
+	holder = 190232 #Theobald
+}
+745.1.1={
+	holder = 190231 #Lantfrid II
+}
+751.1.1={
+	liege = k_lotharingia
+	holder = 190234 #Hnabi
+}
+788.1.1={
+	holder = 190238 #Erbio
+}
+794.1.1={
+	holder = 190239 #Udo
+}
+810.1.1={
+	holder = 0
+}
+843.1.1 = {
+	liege = k_germany
+	holder = 168191
+}
+861.1.1 = {
+	holder = 168192
+}
+865.1.1 = {
+	liege = d_swabia
+}
+876.1.29 = {
+	liege = k_germany
+}
+982.1.1 = {
+	liege = d_swabia
+	holder = 11064
+}
+997.8.20 = {
+	holder = 1384
+}
+1003.5.30 = {
+	holder = 7944
+}
+1012.4.1 = {
+	holder = 10083
+}
+1015.5.13 = {
+	holder = 7943
+}
+1030.9.17 = {
+	holder = 10085
+}
+1036.1.1 = {
+	holder = 40570 # Hupold von Dillingen
+}
+1075.3.5 = {
+	holder = 20286 # Hartmann von Dillingen
+}
+1120.4.16 = {
+	holder = 33613 # Hartmann von Dillingen
+}
+1134.11.21 = {
+	holder = 213160 # Adalbert von Dillingen
+}
+1151.9.12 = {
+	holder = 33618 # Hartmann von Dillingen
+}
+1180.8.31 = {
+	holder = 1236670 # Ludwig von Öttingen
+}
+1225.6.28 = {
+	holder = 1236671 # Konrad von Öttingen
+}
+1248.1.1 = {
+	holder = 1236672 # Ludwig von Öttingen
+}
+1268.10.29 = {
+	liege = e_hre
+}
+1279.4.24 = {
+	holder = 1236675 # Ludwig von Öttingen
+}
+1313.11.9 = {
+	holder = 1236681 # Friedrich von Öttingen
+}

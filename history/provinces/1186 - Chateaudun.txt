@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 1186 - Chateaudun
+
+# County Title
+title = c_chateaudun
+
+# Settlements
+max_settlements = 3
+
+b_chateaudun = castle
+b_bonneval = temple
+#b_beaugency = city 
+#b_meung = castle
+
+
+# Misc
+culture = old_french
+religion = catholic
+
+# History
+790.1.1 = { culture = frankish }
+

@@ -1,0 +1,23 @@
+# -*- ck2.history.provinces -*-
+
+# 95 - Amiens
+
+# County Title
+title = c_amiens
+
+# Settlements
+max_settlements = 4
+b_peronne = castle
+b_amiens = city
+
+#b_corbie = castle
+#b_montdidier = city
+#b_nesle = castle
+
+# Misc
+culture = old_french
+religion = catholic
+
+# History
+790.1.1 = { culture = frankish }
+

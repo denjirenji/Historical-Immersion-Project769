@@ -1,0 +1,30 @@
+# -*- ck2.history.provinces -*-
+
+# 1581 - Soli
+
+# County Title
+title = c_soli
+
+# Settlements
+max_settlements = 2
+
+b_srebenik = tribal
+b_soli = city
+
+
+
+
+
+
+ 
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_srebenik = castle }
+867.1.1 = { culture = croatian }
+867.1.1 = { religion = catholic }
+1232.1.1= { culture = bosnian } 
+1232.1.1= { religion = bogomilist } 

@@ -1,0 +1,243 @@
+# -*- ck2.history.characters -*-
+
+#Balkans
+2000000 = {
+	name="Paval"
+	#placeholder
+	dynasty=9579
+	religion="tengri_pagan"
+	culture="avar"
+	722.1.1 = {
+		birth = 722.1.1
+	}
+	776.1.1 = {
+		death = 776.1.1
+	}
+}
+2000001 = {
+	name="Ratomir"
+	dynasty=1000103005
+	religion="slavic_pagan"
+	culture="serbian"
+	731.1.1 = {
+		birth="731.1.1"
+	}
+	800.1.1 = {
+		death="800.1.1"
+	}
+}
+
+2000002 = {
+	name="Budimir"
+	dynasty=1000103005
+	religion="slavic_pagan"
+	culture="serbian"
+	760.1.1 = {
+		birth="731.1.1"
+	}
+	830.1.1 = {
+		death="800.1.1"
+	}
+}
+#West Africa
+2000003 = {
+	name="Oqasha ibn Ayub"
+	dynasty=1048008
+	religion=ibadi
+	culture=zanata
+	728.1.1 = {
+		birth="728.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000004 = {
+	name="Abd al-Wahid" # fictitious
+	dynasty=2000000055
+	religion=zaydi
+	culture=zanata
+	732.1.1 = {
+		birth="732.1.1"
+	}
+	788.1.1 = {
+		death="788.1.1"
+	}
+}
+2000005 = {
+	name="Hamad" # fictitious
+	dynasty=1048010
+	father=2000011
+	religion=ibadi
+	culture=zanata
+	735.1.1 = {
+		birth="735.1.1"
+	}
+	798.1.1 = {
+		death="798.1.1"
+	}
+}
+2000006 = {
+	name="Masmud" # fictitious
+	dynasty=2000000052
+	religion=nabawiyya
+	culture=masmuda
+	father=2000013
+	733.1.1 = {
+		birth="733.1.1"
+	}
+	793.1.1 = {
+		death="793.1.1"
+	}
+}
+2000007 = {
+	name="T'ar'iq" # fictitious
+	dynasty=1000054004
+	religion="west_african_pagan"
+	culture="tagelmust"
+	728.1.1 = {
+		birth="728.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000008 = {
+	name="Watt'as" # fictitious
+	dynasty=1000054002
+	religion="ibadi"
+	culture="tagelmust"
+	730.1.1 = {
+		birth="730.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000009 = {
+	name="Amaz'uz'" # fictitious
+	dynasty=1000054005 #Gazzúla
+	religion="sunni"
+	culture="tagelmust"
+	729.1.1 = {
+		birth="729.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000010 = {
+	name="Bátin" # fictitious
+	dynasty=1000054003 #Lamta
+	religion="zaydi"
+	culture="tagelmust"
+	729.1.1 = {
+		birth="729.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000011 = {
+	name="Khalid ibn Hamid"
+	dynasty=1048010
+	religion="kharijite"
+	culture="zanata"
+	715.1.1 = {
+		birth="729.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000012 = {
+	name="Abd al-Allah"
+	dynasty=2000000051
+	religion="ibadi"
+	culture="sanhaja"
+	715.1.1 = {
+		birth="729.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+	add_trait="sympathy_christendom"
+}
+2000013 = {
+	name="Issam"
+	dynasty=2000000052
+	father = 2000014
+	culture="masmuda"
+	religion="nabawiyya"
+	695.1.1 = {
+		birth=yes
+	}
+	744.1.1 = {
+		death=yes
+	}
+}
+2000014 = {
+	name="Silah"
+	dynasty=2000000052
+	culture="masmuda"
+	religion="nabawiyya"
+	655.1.1 = {
+		birth=yes
+	}
+	715.1.1 = {
+		death=yes
+	}
+}
+168275 = {
+	father = 2000014
+}
+2000015 = {
+	name="Abd al-Allah"
+	dynasty=2000000051
+	religion="ibadi"
+	culture="sanhaja"
+	715.1.1 = {
+		birth="729.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000016 = {
+	name="Segguen"
+	dynasty=2000000053
+	culture="masmuda"
+	religion="kharijite"
+	728.1.1 = {
+		birth="728.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+
+#Norse
+2100000 = {
+	name="Sigbjörn"
+	dynasty=818
+	religion="norse_pagan"
+	culture="norse"
+	741.1.1={
+		birth = yes
+	}
+	806.1.1={
+		death = yes
+	}
+}
+2100001 = {
+	name="Guðmundr"
+	dynasty=1000053381
+	religion="norse_pagan"
+	culture="norse"
+	735.1.1={
+		birth = yes
+	}
+	803.1.1={
+		death = yes
+	}
+}

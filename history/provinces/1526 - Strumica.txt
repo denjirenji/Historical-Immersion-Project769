@@ -1,0 +1,28 @@
+# -*- ck2.history.provinces -*-
+
+# 1526 - Strumica
+# County Title
+title = c_strumica
+
+# Settlements
+max_settlements = 5
+
+b_stip = tribal
+b_rila = temple
+b_strumica = city
+#b_prosek = castle
+#b_melnik_strumica = city
+#b_petrich = castle
+
+
+
+# Misc
+culture = proto_south_slavic
+religion = slavic_pagan
+
+# History
+867.1.1 = { b_stip = castle }
+867.1.1 = { culture = bulgarian }
+
+
+
