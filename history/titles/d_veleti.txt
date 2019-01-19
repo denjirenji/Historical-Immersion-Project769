@@ -1,0 +1,15 @@
+# -*- ck2.history.titles -*-
+
+767.1.1 = {
+	holder = 194065
+}
+800.1.1 = {
+        liege=k_lutici
+	holder = 1227114
+}
+816.1.1 = {
+	holder = 1227115
+}
+823.1.1 = {
+	holder = 1227116
+}
