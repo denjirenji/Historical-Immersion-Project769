@@ -1,0 +1,35 @@
+# -*- ck2.history.titles -*-
+
+767.1.1 = {
+    liege=k_oborites
+	holder = 2100101
+}
+855.1.1 = {
+        liege=k_oborites
+	holder = 1227082
+}
+899.1.1 = {
+	holder = 1227083
+}
+930.1.1 = {
+	holder = 1227084
+}
+975.1.1 = {
+	holder = 1227085
+}
+1000.1.1 = {
+	holder = 1227086
+}
+1040.1.1 = {
+	holder = 1227087
+}
+1070.1.1 = {
+	holder = 1227088
+}
+1100.1.1 = {
+	holder = 1227089
+}
+1147.1.1 = {
+	holder = 0
+        liege=0
+}

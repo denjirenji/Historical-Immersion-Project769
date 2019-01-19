@@ -1,4 +1,9 @@
 # -*- ck2.history.titles -*-
+
+767.1.1 = {
+    liege=d_drevani
+	holder = 2100102
+}
 853.1.1 = {
         liege=d_drevani
 	holder = 1227025
