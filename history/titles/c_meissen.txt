@@ -1,31 +1,8 @@
 # -*- ck2.history.titles -*-
 
-720.1.1={
-	liege = d_bohemians
-	holder = 168345
-}
-738.1.1={
-	holder = 146174
-}
-760.1.1={
-	holder = 146175
-}
-801.1.1={
-	holder = 168347
-}
-804.1.1={
-	holder = 168348
-}
-820.1.1={
-	holder = 168349
-}
-830.1.1={
-	liege=d_meissen
-	holder=0
-}
-
-857.1.1={
-	holder=184007
+765.1.1 = {
+    liege=d_milceni
+	holder = 2100105
 }
 865.1.1 = {
         liege=d_milceni

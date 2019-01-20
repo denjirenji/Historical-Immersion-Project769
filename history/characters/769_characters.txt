@@ -647,3 +647,99 @@
 		death = yes
 	}
 }
+2100105 = {
+	name="Zdislav"
+        dynasty=1000100423
+	religion="slavic_pagan"
+	culture="pommeranian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100106 = {
+	name="Boriwoj"
+        dynasty=1000100429
+	religion="slavic_pagan"
+	culture="pommeranian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100107 = {
+	name="Lucjan"
+        dynasty=1000100427
+	religion="slavic_pagan"
+	culture="pommeranian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100108 = {
+	name="Gawel"
+        dynasty=1000100427
+	religion="slavic_pagan"
+	culture="pommeranian"
+    729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100109 = {
+	name="Strasz"
+        dynasty=1000100431
+	religion="slavic_pagan"
+	culture="pommeranian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100110 = {
+	name="Miliduch" # §H§ prince of sorbs ca 806
+        dynasty=1000100428
+	religion="slavic_pagan"
+	culture="pommeranian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100111 = {
+	name="Siemil" # §H§ Siemil/Semela prince of the Glomaci 805
+        dynasty=1000100422
+	religion="slavic_pagan"
+	culture="pommeranian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100112 = {
+	name="Udalrich"
+        dynasty=1000100401
+	religion="slavic_pagan"
+	culture="pommeranian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}

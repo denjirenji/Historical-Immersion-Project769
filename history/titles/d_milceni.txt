@@ -1,0 +1,23 @@
+# -*- ck2.history.titles -*-
+
+765.1.1 = {
+        liege=k_sorbs
+	holder = 2100105
+}
+865.1.1 = {
+        liege=k_sorbs
+	holder = 1227109
+}
+895.1.1 = {
+	holder = 1227110
+}
+940.1.1 = {
+	holder = 1227111
+}
+975.1.1 = {
+	holder = 1227112
+}
+990.1.1 = {
+        liege=0
+	holder = 0
+}
