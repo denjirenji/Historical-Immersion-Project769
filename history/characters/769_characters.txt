@@ -743,3 +743,101 @@
 		death = yes
 	}
 }
+
+#Baltic
+2100200 = {
+	name="Gymme"
+        dynasty=1000054335 #  Pomedi
+	religion="baltic_pagan"
+	culture="prussian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100201 = {
+	name="Nermok"
+        dynasty=1000054342 # Paugudi
+	religion = baltic_pagan
+	culture="prussian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+} 
+2100202 = {
+	name="Garbote"
+        dynasty=1000054334 # Varmi
+	religion="baltic_pagan"
+	culture="prussian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100203 = {
+	name="Kunkite"
+        dynasty=1000054355  
+	religion= baltic_pagan
+	culture="prussian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100204 = {
+	name="Luban"
+        dynasty=1000054300 # Galindai
+	religion="baltic_pagan"
+	culture="lithuanian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100205 = {
+	name="Kortie"
+        dynasty=1000054344 # Barthi
+	religion = baltic_pagan
+	culture="prussian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100206 = {
+	name="Runkim"
+    dynasty=1000054348 # Nadrawa
+	religion = baltic_pagan
+	culture="prussian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100207 = {
+	name="Tlokote"
+        dynasty=1000054351 
+	religion = baltic_pagan
+	culture="prussian"
+	850.1.1 = {
+		birth = yes
+	}
+	901.1.1 = {
+		death = yes
+	}
+} 

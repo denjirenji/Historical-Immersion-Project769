@@ -1,5 +1,13 @@
 # -*- ck2.landed_titles -*-
 
+e_hre = { # Heiliges Römisches Reich
+	k_bohemia = { # Czechy
+		d_moravia = { # Morawske
+			bohemian = "Morava"
+			moravian = "Morava"
+		}
+	}
+}
 e_britannia = {
 	k_scotland = { # Alba
 		pictish = "Fortriu"
