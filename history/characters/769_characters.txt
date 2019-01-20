@@ -834,10 +834,70 @@
         dynasty=1000054351 
 	religion = baltic_pagan
 	culture="prussian"
-	850.1.1 = {
+	729.1.1 = {
 		birth = yes
 	}
-	901.1.1 = {
+	800.1.1 = {
 		death = yes
 	}
-} 
+}
+2100208 = {
+	name="Kulewene"
+        dynasty=1000053362 # of Vanema
+	religion="baltic_pagan"
+	culture="livonian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100209 = {
+	name="Jorûnas"
+        dynasty=1000100752 # of Deltuva
+	religion="baltic_pagan"
+	culture="lithuanian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100210 = {
+	name="Jãnis"
+        dynasty=1000100750 # of Selija
+	religion="baltic_pagan"
+	culture="lettigallish"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100211 = {
+	name=Bikshe
+	dynasty=9531
+	religion=baltic_pagan
+	culture=lettigallish
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100212 = {
+	name="Brencis"
+        dynasty=1000100751 # of Tãlava
+	religion="baltic_pagan"
+	culture="lettigallish"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
