@@ -538,8 +538,8 @@ k_hungary = {
 }
 
 d_ungvar = { # Ungvar
-	serbian = "Bijeli Hrvati"
-	croatian = "Bijeli Hrvati"
-	bosnian = "Bijeli Hrvati"
-	proto_south_slavic = "Bijeli Hrvati"
+	serbian = "Horvatska"
+	croatian = "Horvatska"
+	bosnian = "Horvatska"
+	proto_south_slavic = "Horvatska"
 }

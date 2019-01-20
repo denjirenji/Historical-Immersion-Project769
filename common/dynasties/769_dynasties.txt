@@ -103,3 +103,8 @@ name="Voconti"
 	religion = kharijite
 	used_for_random = no
 }
+
+12284 = {
+	name= "Horvat"
+	culture ="croatian"
+}
