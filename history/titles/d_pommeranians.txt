@@ -1,0 +1,39 @@
+# -*- ck2.history.titles -*-
+
+767.1.1 = {
+        liege=k_pommeranians
+	holder = 194071
+}
+867.1.1 = {
+        liege=k_pommeranians
+	holder = 1226994
+}
+893.1.1 = {
+	holder = 1226995
+}
+934.1.1 = {
+	holder = 1226996
+}
+973.1.1 = {
+	holder = 1226997
+}
+1002.1.1 = {
+	holder = 1226998
+}
+1033.1.1 = {
+	holder = 30522 # Siemomysl
+	#law = agnatic_succession
+	#law = succ_seniority
+}
+1085.1.1 = {
+	holder = 1227000
+}
+1109.8.10 = {
+	holder = 221703 # Swietopelk I
+}
+1119.1.1 = {
+	holder = 221700 # Wartislaw I
+}
+1124.1.1 = {
+	holder = 0
+}
