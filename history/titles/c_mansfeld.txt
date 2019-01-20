@@ -1,0 +1,117 @@
+# -*- ck2.history.titles -*-
+
+49.1.1 = {
+	liege = d_thuringia
+}
+460.1.1 = {
+	holder = 190375 # Basinus
+}
+477.1.1 = {
+	holder = 190376 # Fisud
+}
+500.1.1 = {
+	holder = 190378 # Baderic
+}
+531.1.1 = {
+	liege = k_germany
+	holder = 190379 # Hermanfred
+}
+534.1.1 = {
+	holder = 190381 # Berthar
+}
+539.1.1 = {
+	holder = 190382 # Chamar
+}
+588.1.1 = {
+	holder = 190383 # Radulf
+}
+633.1.1 = {
+	holder = 190384 # Chamar
+}
+666.1.1 = {
+	holder = 190385 # Berthar
+}
+702.1.1 = {
+	holder = 190386 # Chamar
+}
+741.1.1 = {
+	holder = 168224 # Radulf
+}
+769.1.1 = {
+	liege = k_france
+}
+775.1.1 = {
+	holder = 168226 # Thankulf
+}
+815.1.1 = {
+	holder = 168227 # Hadulf
+}
+839.1.1 = {
+	liege = k_germany
+}
+849.1.1 = {
+	holder = 168228
+}
+873.8.1 = {
+	holder = 168229
+}
+880.1.1 = {
+	holder = 33428
+}
+882.1.1 = {
+	holder = 168231
+}
+886.1.1 = {
+	holder = 33428
+}
+892.1.1 = {
+	holder = 7951
+}
+906.2.27 = {
+	liege = k_germany
+}
+930.1.1 = {
+	holder = 144958
+}
+963.4.16 = {
+	holder = 7311
+}
+999.1.1 = {
+	holder = 144201 # Gebhard von Querfurt
+}
+1017.1.1 = {
+	holder = 144200 # Burchard von Querfurt
+}
+1024.7.3 = {
+	liege = e_hre
+}
+1060.1.1 = {
+	holder = 144198 # Gebhard von Querfurt
+}
+1112.1.1 = {
+	holder = 1236807 # Hoyer von Mansfeld
+}
+1115.2.11 = {
+	holder = 1236809 # Hoyer von Mansfeld
+}
+1157.8.3 = {
+	holder = 1236810 # Hoyer von Mansfeld
+}
+1183.6.2 = {
+	holder = 1236811 # Burchard von Mansfeld
+}
+1229.12.13 = {
+	holder = 1236814 # Burchard von Querfurt
+}
+1255.1.1 = {
+	holder = 1236815 # Burchard von Querfurt
+}
+1273.12.4 = {
+	holder = 1236817 # Gebhard von Querfurt
+}
+1282.1.1 = {
+	holder = 1236816 # Burchard von Querfurt
+}
+1310.10.2 = {
+	holder = 462132 # Burchard von Querfurt
+}

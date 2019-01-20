@@ -1,8 +1,5 @@
 # -*- ck2.history.titles -*-
 
-767.1.1 = {
-	holder = 1227052 #Witzlaus/Witzan
-}
 789.1.1 = { 
 	set_tribute_suzerain = {
 		who = k_germany

@@ -1,9 +1,5 @@
 # -*- ck2.history.titles -*-
 
-767.1.1 = {
-    liege=k_oborites
-	holder = 2100101
-}
 855.1.1 = {
         liege=k_oborites
 	holder = 1227082

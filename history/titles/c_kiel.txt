@@ -1,10 +1,8 @@
 # -*- ck2.history.titles -*-
 
-761.1.1 = {
-	liege = d_holstein
-}
-761.1.1={
-	holder = 190474 #Hesso
+767.1.1 = {
+    liege=d_oborites
+	holder = 2100104
 }
 782.1.1={
 	holder = 0

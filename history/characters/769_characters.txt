@@ -589,7 +589,7 @@
 #Wendish
 2100100 = {
 	name="Boriwoj"
-        dynasty=1000100418
+    dynasty=1000100418
 	religion="slavic_pagan"
 	culture="pommeranian"
 	729.1.1 = {
@@ -601,7 +601,7 @@
 }
 2100101 = {
 	name="Lucjan"
-        dynasty=1000100408
+    dynasty=1000100408
 	religion="slavic_pagan"
 	culture="pommeranian"
 	729.1.1 = {
@@ -613,7 +613,7 @@
 }
 2100102 = {
 	name="Strasz"
-        dynasty=1000100416
+    dynasty=1000100416
 	religion="slavic_pagan"
 	culture="pommeranian"
 	729.1.1 = {
@@ -625,10 +625,22 @@
 }
 2100103 = {
 	name="Lucjan"
-         dynasty=1000100415	
+    dynasty=1000100415	
 	religion="slavic_pagan"
 	culture="pommeranian"	
 	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100104 = {
+	name="Gawel"
+    dynasty=1000100420
+	religion="slavic_pagan"
+	culture="pommeranian"
+    729.1.1 = {
 		birth = yes
 	}
 	800.1.1 = {

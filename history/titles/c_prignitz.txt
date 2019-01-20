@@ -1,8 +1,8 @@
 # -*- ck2.history.titles -*-
 
 767.1.1 = {
-    liege=d_lunkini
-	holder = 2100102
+    liege=d_oborites
+	holder = 2100103
 }
 861.1.1 = {
         liege=d_lunkini
