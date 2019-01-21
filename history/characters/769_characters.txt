@@ -901,3 +901,41 @@
 		death = yes
 	}
 }
+
+#Russian
+2100300 = {
+	name="Ctibor" # fictional
+        dynasty=100613
+	religion="slavic_pagan"
+	culture="russian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100302 = {
+	name="Mal" # fictional
+        dynasty=1045032
+	religion="slavic_pagan"
+	culture="russian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
+2100301 = {
+	name="Vseslav" # fictional
+        dynasty=1045031
+	religion="slavic_pagan"
+	culture="russian"
+	729.1.1 = {
+		birth = yes
+	}
+	800.1.1 = {
+		death = yes
+	}
+}
