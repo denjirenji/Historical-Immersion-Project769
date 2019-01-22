@@ -4,9 +4,11 @@
 	liege = d_epirus
 }
 764.1.1={
-	holder=145800
+	holder=146011
+	liege = 0
 }
 866.1.1 = {
+	liege = d_epirus
 	holder = 145184
 }
 1006.1.1 = {

@@ -3,11 +3,13 @@
 330.1.1 = {
 	liege = d_epirus
 }
-766.1.1={
-	holder=145799
+764.1.1={
+	holder=146011
+	liege = 0
 }
 865.1.1 = {
 	holder = 1232144
+	liege = d_epirus
 }
 1006.1.1 = {
 	holder = 1232166

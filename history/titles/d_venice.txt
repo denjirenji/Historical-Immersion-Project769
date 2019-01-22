@@ -8,7 +8,6 @@
 # b_orsoleo - also in k_venice
 # b_participazio - also in k_venice
 726.1.1 = {
-	liege = e_byzantium
 	holder = 145910 # Orso Orseolo
 	law = succ_patrician_elective
 }

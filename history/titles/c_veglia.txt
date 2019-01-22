@@ -1,10 +1,7 @@
 # -*- ck2.history.titles -*-
 
-536.7.1={
-	liege="d_dalmatia"
-}
 750.1.1={
-	holder=145849
+	holder=146005
 }
 864.1.1 = {
 	liege = d_dalmatia
