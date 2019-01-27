@@ -1,4 +1,26 @@
 Need to add: 
-Thracian Cultural Melting pot
-Melting Pots in general
-Chalcedonean Christianity??????
+-General:
+--Chalcedonian Christianity
+
+-British Isles:
+--Melting pots
+--Maybe druidic pagan for HF
+
+-Iberian Peninsula:
+
+-France:
+--localization
+--Melting pots for gallo?
+
+-HRE:
+--Wendish Tribes and Culture
+
+-Balkans:
+--General Culture Setup
+--Slavic territory in Arcadia
+--proper melting pots for cultures
+
+-Italian Penisula:
+
+-Steppes:
+--Magyar Tribes

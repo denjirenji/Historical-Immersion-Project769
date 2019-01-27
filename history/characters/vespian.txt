@@ -1,0 +1,104 @@
+# -*- ck2.history.characters -*-
+
+6828 = {
+	name="Miemo"
+	religion="finnish_pagan"
+	culture="vepsian"
+	dynasty=1029143
+	father = 194130
+	add_trait=content
+	837.1.1={
+		birth = yes
+	}
+	885.1.1={
+		death = yes
+	}
+}
+159715 = {
+	name="Karhu"
+	religion="finnish_pagan"
+	culture="vepsian"
+	dynasty=1029144
+	trait="tough_soldier"
+	834.1.1={
+		birth = yes
+	}
+	925.1.1={
+		death = yes
+	}
+}
+160133 = {
+	
+          name="Kettu"
+	
+          religion="finnish_pagan"
+	
+	  culture="vepsian"	
+          dynasty=1029143
+	
+          father=6828
+	
+          856.1.1={
+		birth = yes
+	}
+	
+          915.1.1={
+		death = yes
+	}
+
+}
+160131 = {
+	
+         name="Ukko"
+	
+         religion="finnish_pagan"
+	
+	 culture="vepsian"	
+         dynasty=1029143
+	
+         father=6828
+	
+         855.1.1={
+		birth = yes
+	}
+	
+         920.1.1={
+		death = yes
+	}
+
+}
+194128 = {
+	name = "Aimo"
+	religion = finnish_pagan
+	culture = vepsian
+	733.1.1 = {
+		birth = yes
+	}
+	799.1.1 = {
+		death = yes
+	}
+}
+194129 = {
+	name = "Miemo"
+	religion = finnish_pagan
+	culture = vepsian
+	father = 194128
+	770.1.1 = {
+		birth = yes
+	}
+	822.1.1 = {
+		death = yes
+	}
+}
+194130 = {
+	name = "Asikko"
+	religion = finnish_pagan
+	culture = vepsian
+	father = 194129
+	810.1.1 = {
+		birth = yes
+	}
+	866.1.1 = {
+		death = yes
+	}
+}

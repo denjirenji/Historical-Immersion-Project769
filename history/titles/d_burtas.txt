@@ -1,0 +1,70 @@
+# -*- ck2.history.titles -*-
+
+750.1.1 = {
+	holder = 194147
+	liege = d_cheremisa
+}
+799.1.1 = {
+	holder = 194148
+}
+822.1.1 = {
+	holder = 194149
+}
+861.1.1 = {
+	holder = 1233620
+}
+903.1.1 = {
+	holder = 1233621
+}
+932.1.1 = {
+	liege = k_volga_bulgaria
+}
+952.1.1 = {
+	holder = 1233622
+}
+990.1.1 = {
+	holder = 1233623
+}
+1022.1.1 = {
+	holder = 1233624
+}
+1060.1.1 = {
+	holder = 1233625
+}
+1105.1.1 = {
+	holder = 1233626
+}
+1130.1.1 = {
+	holder = 1233627
+}
+1164.1.1 = {
+	holder = 1233628
+}
+1200.1.1 = {
+	holder = 1233629
+}
+1236.9.1 = {
+	liege = 0
+	set_tribute_suzerain = {
+		who = e_golden_horde
+		type = nomadic
+	}
+}
+1240.1.1 = {
+	holder = 1233630
+}
+1254.1.1 = {
+	holder = 1233631
+}
+1286.1.1 = {
+	holder = 1233632
+}
+1309.1.1 = {
+	holder = 1233633
+}
+1344.1.1 = {
+	holder = 1233634
+}
+1382.1.1 = {
+	holder = 0
+}
