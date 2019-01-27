@@ -1,0 +1,9 @@
+# -*- ck2.history.titles -*-
+
+# Ilmenians
+760.1.1 = {
+	holder = 194132
+}
+800.1.1 = {
+	holder = 0
+}

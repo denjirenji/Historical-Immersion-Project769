@@ -1,0 +1,85 @@
+# -*- ck2.history.titles -*-
+
+691.1.1 = {
+	liege = k_magyar
+	holder = 74005
+}
+709.1.1 = {
+	holder = 74006
+}
+745.1.1 = {
+	holder = 74011
+}
+777.1.1 = {
+	holder = 74013
+}
+810.1.1 = {
+	holder = 74014
+}
+825.1.1 = {
+	holder = 74015
+}
+830.1.1 = {
+	liege = k_magyar
+	holder = 1233320
+}
+895.1.1 = {
+	liege = d_tivertsi
+	holder = 1226964
+}
+915.1.1 = {
+	holder = 1226965
+}
+950.1.1 = {
+	holder = 1226968
+}
+991.1.1 = {
+	holder = 1226969
+}
+1035.1.1 = {
+	holder = 1226971
+}
+1055.1.1 = { # The Uzes besiege Kiev
+	liege = k_uzes
+	holder = 1231873
+}
+# Cumans arrive, Black hats formed
+1060.1.1 = {
+	liege = d_kiev
+	holder = 1231875 # Köteshk
+}
+1087.1.1 = {
+	holder = 1231877
+}
+1108.1.1 = {
+	holder = 1231879 # Satmaz
+}
+1156.1.1 = {
+	holder = 1231881 # Tudar
+}
+1172.1.1 = {
+	holder = 1231883 
+}
+1188.1.1 = {
+	holder = 1231885 # Çurnay
+}
+1240.1.1 = {
+	liege = e_golden_horde
+	holder = 125503
+}
+1241.12.11 = {
+	liege = d_moldau
+	holder = 125516
+}
+1260.1.2 = {
+	holder = 125517
+}
+1270.1.2 = {
+	holder = 125518
+}
+1299.1.2 = {
+	holder = 34830
+}
+1325.1.1 = {
+	holder = 34831
+}

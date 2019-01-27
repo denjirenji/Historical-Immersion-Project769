@@ -1,0 +1,13 @@
+# -*- ck2.landed_titles -*-
+
+##############
+# Tribal titles
+##############
+d_ilmen = { # Ilmenians
+	color = { 224 224 224 }
+	color2 = { 255 255 255 }
+	capital = 414 # Novgorod
+	culture = russian
+	#tribe = yes
+	allow = { always = no }
+}
