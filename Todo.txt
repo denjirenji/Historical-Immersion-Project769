@@ -19,6 +19,11 @@ Need to add:
 --General Culture Setup
 --Slavic territory in Arcadia
 --proper melting pots for cultures
+--Quick fixes:
+---Komarom: west slavic
+---Bacau: romanian
+---Bassarabia/southern wallachia: bolghar
+---East istria/dioclea/hvosno/niš/hadrianopolis: south slavic
 
 -Italian Penisula:
 
