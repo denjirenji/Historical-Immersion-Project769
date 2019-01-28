@@ -1,0 +1,101 @@
+# -*- ck2.history.titles -*-
+
+768.1.1={
+	holder=210031
+}
+768.1.1={	
+	liege = d_tunis
+}
+852.1.1 = {
+	liege = k_africa
+	holder = 1228232
+}
+866.1.1 = {
+	holder = 1228233
+}
+900.1.1 = {
+	liege = d_tripolitania
+	holder = 1228854
+}
+947.1.1 = {
+	holder = 1228855
+}
+976.1.1 = {
+	holder = 1228856
+}
+1001.1.1 = {
+	holder = 155123
+}
+1009.1.1 = {
+	holder = 155124
+}
+1010.1.1 = {
+	holder = 20934 #Muhammad b. al-Hasan
+}
+1016.1.1 = { #?
+	holder = 20935 #'Abd Allah b. al-Hasan
+}
+#Sometime after 1023, 'Abd Allah b. al-Hasan cedes Tripoli to the banu Khazrun
+1026.1.1 = { #recognized as governor of Tripolitania by the Fatimid caliph
+	holder = 155126
+}
+1028.1.1 = {
+	holder = 155127
+}
+1038.1.1 = {
+	holder = 155128
+}
+1039.1.1 = {
+	holder = 155130
+}
+1078.1.1 = {
+	holder = 155132
+}
+1090.1.1 = {
+	holder = 155133
+}
+1115.1.1 = {
+	holder = 155134
+}
+1146.1.1 = {
+	holder = 155136
+}
+#1160.1.22 = {
+#	holder = 33013
+#}
+1172.1.1 = {
+	holder = 155113
+}
+1195.1.1 = {
+	holder = 32977
+}
+1210.1.1 = {
+	holder = 33016
+}
+1223.1.1 = {
+	holder = 33018
+}
+1251.1.1 = {
+	holder = 33040
+}
+1270.1.1 = {
+	holder = 33041
+}
+1290.1.1 = {
+	holder = 33030
+}
+1300.1.1 = {
+	holder = 33032
+}
+1318.1.1 = {
+	holder = 33034
+}
+1324.1.1 = {
+	holder = 155237
+}
+1327.1.1 = {
+	holder = 155238
+}
+1348.1.1 = {
+	holder = 155239
+}

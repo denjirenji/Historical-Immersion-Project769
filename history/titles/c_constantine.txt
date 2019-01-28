@@ -1,0 +1,81 @@
+# -*- ck2.history.titles -*-
+
+768.1.1={	
+	holder = 210035
+}
+768.1.1={	
+	liege = d_tunis
+}
+864.1.1 = {
+	liege = d_kabylia
+	holder = 1236403
+}
+1014.1.1 = {
+	holder = 20936
+}
+1028.1.1 = {
+	holder = 45018
+}
+1054.1.1 = {
+	#historical_nomad = yes
+	liege = d_hilal
+	holder = 155173
+	#set_tribute_suzerain = {
+	#	who = d_kabylia
+	#	type = permanent
+	#}
+}
+1080.1.1 = {
+	holder = 155174
+}
+#1088.1.1 = {
+#	clear_tribute_suzerain = d_kabylia
+#}
+1095.1.1 = {
+	holder = 155175
+}
+1110.1.1 = {
+	holder = 155176
+}
+1125.1.1 = {
+	holder = 155177
+}
+1152.1.1 = {
+	liege = d_kabylia
+	holder = 155087
+}
+1190.1.1 = {
+	holder = 32985
+}
+1199.1.23 = {
+	holder = 155041
+}
+1200.1.1 = {
+	liege = d_tunis
+	holder = 32977
+}
+1207.1.1 = {
+	liege = d_kabylia
+	holder = 155041
+}
+1220.1.1 = {
+	holder = 155042
+}
+1223.1.1 = {
+	liege = k_maghreb
+}
+1229.1.1 = {
+	liege = d_kabylia
+}
+1270.1.1 = {
+	holder = 155043
+}
+1295.1.1 = {
+	holder = 155044
+}
+1305.1.1 = {
+	holder = 155046
+}
+1330.1.1 = {
+	holder = 155045
+}

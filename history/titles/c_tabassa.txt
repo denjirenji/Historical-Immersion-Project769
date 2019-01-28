@@ -1,0 +1,116 @@
+# -*- ck2.history.titles -*-
+
+768.1.1={	
+	holder = 210035
+}
+768.1.1={	
+	liege = d_tunis
+}
+864.1.1 = {
+	liege = k_africa
+	holder = 6882
+}
+909.1.1 = {
+	holder = 32900
+}
+934.1.1 = {
+	holder = 32901
+}
+946.5.17 = {
+	holder = 32902
+}
+953.3.19 = {
+	holder = 32903
+}
+973.1.1 = {
+	liege = d_tunis
+	holder = 20932
+}
+984.1.1 = {
+	holder = 20933
+}
+995.1.1 = {
+	holder = 20934
+}
+1016.1.1 = {
+	holder = 20935
+}
+1054.1.1 = {
+	liege = d_qamuda
+	holder = 155029
+}
+1090.1.1 = {
+	holder = 155030
+}
+1095.1.1 = {
+	liege = d_hilal
+	holder = 155175
+}
+1110.1.1 = {
+	holder = 155176
+}
+1125.1.1 = {
+	holder = 155177
+}
+1152.1.1 = {
+	liege = d_kabylia
+	holder = 155087
+}
+1185.1.1 = {
+	liege = d_mallorca
+	holder = 32977
+}
+1185.7.1 = {
+	liege = d_kabylia
+	holder = 155087
+}
+1190.1.1 = {
+	holder = 32985
+}
+1200.1.1 = {
+	liege = d_tunis
+	holder = 32977
+}
+1207.1.1 = {
+	liege = d_kabylia
+	holder = 32985
+}
+1223.1.1 = {
+	holder = 32977
+}
+1227.1.1 = {
+	holder = 32985
+}
+1229.1.1 = {
+	holder = 33021
+}
+1251.1.1 = {
+	holder = 33024
+}
+1276.1.1 = {
+	holder = 33026
+}
+1279.1.1 = {
+	holder = 33025
+}
+1284.1.1 = {
+	holder = 33017
+}
+1295.1.1 = {
+	holder = 33027
+}
+1309.1.1 = {
+	holder = 33028
+}
+1310.1.1 = {
+	holder = 33031
+}
+1311.1.1 = {
+	holder = 33042
+}
+1317.1.1 = {
+	holder = 33043
+}
+1318.1.1 = {
+	holder = 33032
+}
