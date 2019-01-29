@@ -7,7 +7,7 @@
 #Gottfredo Ottaviani(1062359), conti di Rieti, son of a Giuseppe di Palombara. became conte di marsi after Alberico(when?).
 
 571.1.1={
-	liege=k_italy
+	liege=d_benevento
 }
 571.1.1={
 	holder=190127 #Zotto

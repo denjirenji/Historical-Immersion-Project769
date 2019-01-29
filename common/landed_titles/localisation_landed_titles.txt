@@ -542,7 +542,7 @@ e_britannia = {
 } # end e_britannia
 
 k_hungary = {
-	avar = "Avariya"
+	avar = "Avarlar"
 }
 
 d_ungvar = { # Ungvar
@@ -550,4 +550,16 @@ d_ungvar = { # Ungvar
 	croatian = "Horvatska"
 	bosnian = "Horvatska"
 	proto_south_slavic = "Horvatska"
+}
+
+k_khazaria = { # Qazarstan
+	turkish = "Hazarlar"
+	turkmen = "Hazarlar"
+	uyghur = "Qasarslar"
+	karluk = "Qasarslar"
+	#khitan = "Ho-sastan"
+	mongol = "Xäzärlar"
+	kirghiz = "Xäzärlar"
+	kasogi = "Qazahrlar"
+	khazar = "Qasarslar"
 }

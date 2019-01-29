@@ -1,7 +1,7 @@
 # -*- ck2.history.titles -*-
 
 571.1.1={
-	liege=k_italy
+	liege=d_benevento
 }
 571.1.1={
 	holder=190127 #Zotto
