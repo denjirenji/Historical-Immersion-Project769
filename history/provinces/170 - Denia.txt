@@ -13,7 +13,7 @@ b_elche = temple
 b_benissa = city
 
 
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

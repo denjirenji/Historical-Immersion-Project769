@@ -16,7 +16,7 @@ b_duenyas = city
 
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

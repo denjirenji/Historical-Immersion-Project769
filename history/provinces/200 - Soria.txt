@@ -14,7 +14,7 @@ b_osma = temple
 #b_almazan = city
 #b_huerta = temple
 
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

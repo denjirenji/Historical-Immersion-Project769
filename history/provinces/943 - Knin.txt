@@ -15,11 +15,12 @@ b_cucevo = city
 
 # Misc
 culture = proto_south_slavic
-religion = catholic
+religion = slavic_pagan
 
 # History
 867.1.1 = { b_knin = castle }
-867.1.1= { culture = croatian } 
+867.1.1= { culture = croatian }
+867.1.1= { religion = catholic }
 1150.1.1 = {b_necven = castle }
 1200.1.1 = {b_cucevo = city }
 

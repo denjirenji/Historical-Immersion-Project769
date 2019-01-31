@@ -17,7 +17,7 @@ b_alacuas = castle
 #b_torrent = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

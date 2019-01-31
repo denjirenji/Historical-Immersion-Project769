@@ -1,0 +1,100 @@
+# -*- ck2.history.characters -*-
+
+#Balkans
+2000000 = {
+	name="Paval"
+	#placeholder
+	dynasty=9579
+	religion="tengri_pagan"
+	culture="avar"
+	722.1.1 = {
+		birth = 722.1.1
+	}
+	776.1.1 = {
+		death = 776.1.1
+	}
+}
+2000001 = {
+	name="Ratomir"
+	dynasty=1000103005
+	religion="slavic_pagan"
+	culture="proto_south_slavic"
+	731.1.1 = {
+		birth="731.1.1"
+	}
+	800.1.1 = {
+		death="800.1.1"
+	}
+}
+
+2000002 = {
+	name="Budimir"
+	dynasty=1000103005
+	religion="slavic_pagan"
+	culture="serbian"
+	father=2000001
+	760.1.1 = {
+		birth="760.1.1"
+	}
+	830.1.1 = {
+		death="830.1.1"
+	}
+}
+
+2000003 = {
+	name="Ratomir"
+	dynasty=1000103005
+	religion="slavic_pagan"
+	culture="proto_south_slavic"
+	father=2000002
+	795.1.1 = {
+		birth="795.1.1"
+	}
+	865.1.1 = {
+		death="865.1.1"
+	}
+}
+2000004 = {
+	name="Aguastin"
+	religion="catholic"
+	culture="dalmatian"
+	735.1.1 = {
+		birth="731.1.1"
+	}
+	805.1.1 = {
+		death="800.1.1"
+	}
+}
+2000005 = {
+	name="Belisare"
+	religion="catholic"
+	culture="dalmatian"
+	735.1.1 = {
+		birth="731.1.1"
+	}
+	805.1.1 = {
+		death="800.1.1"
+	}
+}
+2000006 = {
+	name="Dragomir"
+	religion="slavic_pagan"
+	culture="proto_south_slavic"
+	760.1.1 = {
+		birth="760.1.1"
+	}
+	830.1.1 = {
+		death="830.1.1"
+	}
+}
+
+#Fixes
+167855 = {
+	father=146006
+}
+167865 = {
+	father=146009
+}
+1232908 = {
+	father=2000003
+}

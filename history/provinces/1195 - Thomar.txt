@@ -17,7 +17,7 @@ b_abrantes = city
 
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

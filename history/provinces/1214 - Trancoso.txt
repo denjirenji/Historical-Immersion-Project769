@@ -22,7 +22,7 @@ b_trancoso = castle
 #b_vila_nova_de_foz_coa = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

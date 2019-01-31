@@ -14,7 +14,7 @@ b_valladolid = city
 #b_uruenya = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

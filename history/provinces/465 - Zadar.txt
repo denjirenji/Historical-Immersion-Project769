@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 465 - Zadar 
+
+# County Title
+title = c_zadar
+
+# Settlements
+max_settlements = 4
+
+b_obrovac = castle
+b_zadar = city
+b_nin = temple
+#b_pag = city
+
+
+# Misc
+culture = dalmatian
+religion = catholic
+
+# History
+
+769.1.1 = { capital = b_zadar } # Byzantines
+1000.1.1 = { capital = b_obrovac } # Venice
+1050.1.1 = { trade_post = b_de_guzzei }
+1150.1.1 = { culture = croatian }
+1244.1.1= { b_pag = city }

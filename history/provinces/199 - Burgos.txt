@@ -16,7 +16,7 @@ b_castrojeriz = castle
 #b_frias = castle
 #b_silos = temple
 
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

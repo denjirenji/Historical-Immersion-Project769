@@ -104,7 +104,48 @@ name="Voconti"
 	used_for_random = no
 }
 
+######################################
+#France
+######################################
+
+2000000100 = {
+	name="Zahumlje"
+	culture = proto_south_slavic
+}
+2000000101 = {
+	name="Nelipic"
+	culture = proto_south_slavic
+}
+2000000102 = {
+	name="Mogorovic"
+	culture = proto_south_slavic
+}
+2000000103 = {
+	name="Kukar"
+	culture = proto_south_slavic
+}
+2000000104 = {
+	name="Viševic"
+	culture = proto_south_slavic
+}
+2000000105 = {
+	name="Praska"
+	culture = proto_south_slavic
+}
+2000000106 = {
+	name="Bozetjehvic"
+	culture = proto_south_slavic
+}
+2000000107 = {
+	name="Ohmucevic"
+	culture = proto_south_slavic
+}
+2000000108 = {
+	name="Vojinovic"
+	culture = proto_south_slavic
+}
+
 12284 = {
 	name= "Horvat"
-	culture ="croatian"
+	culture ="proto_south_slavic"
 }

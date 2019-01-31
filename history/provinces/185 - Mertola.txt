@@ -16,7 +16,7 @@ b_moura = temple
 #b_barrancos = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

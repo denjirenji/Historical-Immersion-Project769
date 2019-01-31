@@ -8,7 +8,7 @@ title = c_veglia
 # Settlements
 max_settlements = 5
 
-b_krk = tribal
+b_krk = city
 #b_baska = temple
 #b_vrbnik_krk = city
 #b_dobrinj = city

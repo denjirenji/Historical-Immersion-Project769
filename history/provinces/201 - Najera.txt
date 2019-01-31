@@ -14,7 +14,7 @@ b_santodomingodelacalzada = temple
 #b_san_millan = temple
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

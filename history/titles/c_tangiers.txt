@@ -5,10 +5,10 @@
 	holder = 73980
 }
 690.1.1={
-	holder=73980 # Conde Don Julián
+	holder = 73980 # Conde Don Julián
 }
 745.1.1={
-	holder=2000012 # Balakayus Qutid
+	holder = 2000109 # Balakayus Qutid
 }
 788.1.1={
 	liege=k_mauretania

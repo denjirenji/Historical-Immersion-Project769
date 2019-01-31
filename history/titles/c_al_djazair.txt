@@ -1,7 +1,7 @@
 # -*- ck2.history.titles -*-
 
 767.1.1={
-	holder="2000003"
+	holder = 2000100
 }
 823.1.1 = {
 	liege = d_alger

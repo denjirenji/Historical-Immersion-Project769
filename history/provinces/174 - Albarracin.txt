@@ -16,7 +16,7 @@ b_bronchales = temple
 
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

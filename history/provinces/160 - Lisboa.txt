@@ -20,7 +20,7 @@ b_sintra = temple
 #b_azambuja = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

@@ -6,7 +6,7 @@
 	dynasty=1046025
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	718.1.1={
 		birth = yes
@@ -23,7 +23,7 @@
 	female=yes
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	723.1.1={
 		birth = yes
@@ -40,7 +40,7 @@
 	mother=200224
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	742.1.1={
 		birth = yes
@@ -58,7 +58,7 @@
 	mother=200257
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	665.1.1={
 		birth = yes
@@ -75,7 +75,7 @@
 	mother=200239
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	643.1.1={
 		birth = yes
@@ -95,7 +95,7 @@
 	father=200242
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	624.1.1={
 		birth = yes
@@ -128,7 +128,7 @@
 	dynasty=1046031
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	530.1.1={
 		birth = yes
@@ -144,7 +144,7 @@
 	father=200241
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	570.1.1={
 		birth = yes
@@ -161,7 +161,7 @@
 	mother=200246
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	650.1.1={
 		birth = yes
@@ -181,7 +181,7 @@
 	mother=200236
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	682.1.1={
 		birth = yes
@@ -197,7 +197,7 @@
 	father=200244
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	700.1.1={
 		birth = yes
@@ -214,7 +214,7 @@
 	father=200255
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	627.1.1={
 		birth = yes
@@ -227,7 +227,7 @@
 	name="Witiza"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	620.1.1={
 		birth = yes
@@ -246,7 +246,7 @@
 	father=200255
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	622.1.1={
 		birth = yes
@@ -262,7 +262,7 @@
 	father=200240
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	640.1.1={
 		birth = yes
@@ -278,7 +278,7 @@
 	father=200240
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	645.1.1={
 		birth = yes
@@ -294,7 +294,7 @@
 	father=200250
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	688.1.1={
 		birth = yes
@@ -310,7 +310,7 @@
 	name="Ardo"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	678.1.1={
 		birth = yes
@@ -324,7 +324,7 @@
 	dynasty=1046032
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	573.1.1={
 		birth = yes
@@ -340,7 +340,7 @@
 	father=200254
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	598.1.1={
 		birth = yes
@@ -356,7 +356,7 @@
 	father=200272
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	595.1.1={
 		birth = yes
@@ -377,7 +377,7 @@
 	mother=200260
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	633.1.1={
 		birth = yes
@@ -393,7 +393,7 @@
 	father=200259
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	600.1.1={
 		birth = yes
@@ -407,7 +407,7 @@
 	dynasty=1046034
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	568.1.1={
 		birth = yes
@@ -424,7 +424,7 @@
 	father=200259
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	605.1.1={
 		birth = yes
@@ -437,7 +437,7 @@
 	name="Gundemar"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	558.1.1={
 		birth = yes
@@ -450,7 +450,7 @@
 	name="Witerico"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	562.1.1={
 		birth = yes
@@ -466,7 +466,7 @@
 	father=200272
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	583.1.1={
 		birth = yes
@@ -482,7 +482,7 @@
 	father=200273
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	555.1.1={
 		birth = yes
@@ -498,7 +498,7 @@
 	father=200274
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	525.1.1={
 		birth = yes
@@ -512,7 +512,7 @@
 	dynasty=1046033
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	498.1.1={
 		birth = yes
@@ -528,7 +528,7 @@
 	father=200274
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	523.1.1={
 		birth = yes
@@ -541,7 +541,7 @@
 	name="Athanagildo"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	520.1.1={
 		birth = yes
@@ -554,7 +554,7 @@
 	name="Akhila"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	516.1.1={
 		birth = yes
@@ -567,7 +567,7 @@
 	name="Sesenando"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	605.1.1={
 		birth = yes
@@ -580,7 +580,7 @@
 	name="Theudisclo"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	500.1.1={
 		birth = yes
@@ -593,7 +593,7 @@
 	name="Theudis"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	498.1.1={
 		birth = yes
@@ -609,7 +609,7 @@
 	father=200283
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	500.1.1={
 		birth = yes
@@ -626,7 +626,7 @@
 	trait=bastard
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	489.1.1={
 		birth = yes
@@ -642,7 +642,7 @@
 	father=200284
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	463.1.1={
 		birth = yes
@@ -659,7 +659,7 @@
 	mother=200293
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	440.1.1={
 		birth = yes
@@ -676,7 +676,7 @@
 	mother=200293
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	428.1.1={
 		birth = yes
@@ -693,7 +693,7 @@
 	mother=200293
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	423.1.1={
 		birth = yes
@@ -709,7 +709,7 @@
 	father=200297
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	379.1.1={
 		birth = yes
@@ -728,7 +728,7 @@
 	father=200296
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	374.1.1={
 		birth = yes
@@ -741,7 +741,7 @@
 	name="Sygericco"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	370.1.1={
 		birth = yes
@@ -757,7 +757,7 @@
 	father=200296
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	372.1.1={
 		birth = yes
@@ -773,7 +773,7 @@
 	father=200292
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	370.1.1={
 		birth = yes
@@ -792,7 +792,7 @@
 	father=200295
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	341.1.1={
 		birth = yes
@@ -810,7 +810,7 @@
 	mother=200294
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	402.1.1={
 		birth = yes
@@ -827,7 +827,7 @@
 	father=200296
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	392.1.1={
 		birth = yes
@@ -841,7 +841,7 @@
 	dynasty=1046035
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	311.1.1={
 		birth = yes
@@ -857,7 +857,7 @@
 	father=200295
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	334.1.1={
 		birth = yes
@@ -873,7 +873,7 @@
 	father=200295
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	350.1.1={
 		birth = yes
@@ -1802,7 +1802,7 @@
 	father=73980
 
 	religion=sunni
-	culture=iberian
+	culture=hispanic
 
 	732.1.1={
 		birth = yes
@@ -1999,7 +1999,7 @@
 	female=yes
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	947.1.1={
 		birth = yes
@@ -2015,7 +2015,7 @@
 	father=70272
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	910.1.1={
 		birth = yes
@@ -2032,7 +2032,7 @@
 	female=yes
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	920.1.1={
 		birth = yes
@@ -2049,7 +2049,7 @@
 	mother=70279
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	950.1.1={
 		birth = yes
@@ -2066,7 +2066,7 @@
 	dynasty=100204
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	813.1.1={
 		birth = yes
@@ -2508,7 +2508,7 @@
 	female=yes
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	710.1.1={
 		birth = yes
@@ -2526,7 +2526,7 @@
 	mother=200056
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	729.1.1={
 		birth = yes
@@ -2540,7 +2540,7 @@
 	dynasty=1046017
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	715.1.1={
 		birth = yes
@@ -2557,7 +2557,7 @@
 	female=yes
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	745.1.1={
 		birth = yes
@@ -2573,7 +2573,7 @@
 	father=73901
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	698.1.1={
 		birth = yes
@@ -2589,7 +2589,7 @@
 	father=200069
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	913.1.1={
 		birth = yes
@@ -2605,7 +2605,7 @@
 	father=200073
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	870.1.1={
 		birth = yes
@@ -2625,7 +2625,7 @@
 	#father=1235002
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	885.1.1={
 		birth = yes
@@ -2639,7 +2639,7 @@
 	dynasty=1046018
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	847.1.1={
 		birth = yes
@@ -2655,7 +2655,7 @@
 	father=73765
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	875.1.1={
 		birth = yes
@@ -2670,7 +2670,7 @@
 	#dynasty=1000053267
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	881.1.1={
 		birth = yes
@@ -2684,7 +2684,7 @@
 	dynasty=8618
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	925.1.1={
 		birth = yes
@@ -2700,7 +2700,7 @@
 	father=200086
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	950.1.1={
 		birth = yes
@@ -2716,7 +2716,7 @@
 	father=200086
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	952.1.1={
 		birth = yes
@@ -2732,7 +2732,7 @@
 	father=200088
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	976.1.1={
 		birth = yes
@@ -2745,7 +2745,7 @@
 	name="Rostan"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	740.1.1={
 		birth = yes
@@ -2758,7 +2758,7 @@
 	name="Oddilon"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	756.1.1={
 		birth = yes
@@ -2771,7 +2771,7 @@
 	name="Ermenguer"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	758.1.1={
 		birth = yes
@@ -2784,7 +2784,7 @@
 	name="Suneario"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	799.1.1={
 		birth = yes
@@ -2798,7 +2798,7 @@
 	dynasty=1046019
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	747.1.1={
 		birth = yes
@@ -2815,7 +2815,7 @@
 	mother=70151
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	898.1.1={
 		birth = yes
@@ -2828,7 +2828,7 @@
 	name="Fredol"
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	768.1.1={
 		birth = yes
@@ -3675,7 +3675,7 @@
 	father=200074
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	898.1.1={
 		birth = yes
@@ -3691,7 +3691,7 @@
 	father=200067
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	800.1.1={
 		birth = yes
@@ -3708,7 +3708,7 @@
 	dynasty=1000053267
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	775.1.1={
 		birth = yes
@@ -3722,7 +3722,7 @@
 	female=yes
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	800.1.1={
 		birth = yes
@@ -3738,7 +3738,7 @@
 	father=1235002
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	884.1.1={
 		birth = yes
@@ -3827,7 +3827,7 @@
 	dynasty=405
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	856.1.1={
 		birth=yes
@@ -3844,7 +3844,7 @@
 	father=1065305
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	877.1.1={
 		birth=yes
@@ -3865,7 +3865,7 @@
 	mother=1235001
 
 	religion=catholic
-	culture=leonese
+	culture=hispanic
 
 	915.1.1={
 		birth=yes

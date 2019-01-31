@@ -15,7 +15,7 @@ b_cervera = city
 #b_granyena = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

@@ -17,7 +17,7 @@ b_reus = city
 #b_amposta = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

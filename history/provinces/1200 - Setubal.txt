@@ -17,7 +17,7 @@ b_salvaterra_de_magos = city
 
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

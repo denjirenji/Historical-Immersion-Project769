@@ -15,7 +15,7 @@ b_veruela = temple
 #b_tarazona = city
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

@@ -11,3 +11,27 @@ d_ilmen = { # Ilmenians
 	#tribe = yes
 	allow = { always = no }
 }
+d_croats = { # Hrvatska
+	color = { 162 53 53 }
+	color2 = { 255 255 255 }
+	capital = 467 # Cetina # Split(Cetina)
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_serbs = { # Srbija
+	color = { 168 135 57 }
+	color2 = { 255 255 255 }
+	capital = 502 # Rashka
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_zahumlje = { # Zahumlje
+	color = { 168 135 57 }
+	color2 = { 255 255 255 }
+	capital = 466 # Podgorje
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}

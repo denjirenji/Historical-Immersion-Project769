@@ -18,7 +18,7 @@ b_cantanhede = temple
 #b_arganil = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

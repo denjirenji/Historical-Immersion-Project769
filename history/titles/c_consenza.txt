@@ -1,13 +1,8 @@
 # -*- ck2.history.titles -*-
 
-536.1.1 = {
-	liege = d_calabria
-}
-757.1.1={
-	holder=145863
-}
 766.1.1 = {
 	holder = 190296 # Radulhin
+	liege=d_benevento
 }
 788.1.1 = {
 	holder = 190297 # Ermepert

@@ -1,7 +1,7 @@
 # -*- ck2.history.titles -*-
 
 765.1.1={
-	holder=2000008
+	holder = 2000105
 }
 850.1.1 = {
 	liege = d_lamtuna

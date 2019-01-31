@@ -17,7 +17,7 @@ b_alhamadearagon = city
 #b_cimballa = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

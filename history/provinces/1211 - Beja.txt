@@ -16,7 +16,7 @@ b_almodovar = temple
 
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

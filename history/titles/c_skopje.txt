@@ -1,7 +1,7 @@
 # -*- ck2.history.titles -*-
 
 640.1.1 = {
-	liege = d_rashka
+	liege = d_serbs
 }
 852.1.1 = {
 	liege = k_bulgaria

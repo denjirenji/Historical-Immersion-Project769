@@ -27,7 +27,7 @@ b_viseu = temple
 
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

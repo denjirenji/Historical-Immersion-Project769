@@ -17,7 +17,7 @@ b_lepe = temple
 #b_aljaraque = castle
 
 #Misc
-culture = iberian
+culture = hispanic
 religion = sunni
 
 # History

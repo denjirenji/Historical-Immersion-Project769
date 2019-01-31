@@ -39,7 +39,7 @@
 	liege = 0 # De facto
 	set_tribute_suzerain = {
 		who = e_arabia
-		percentage = 0.1
+		type = permanent
 	}
 	holder = 146024
 }

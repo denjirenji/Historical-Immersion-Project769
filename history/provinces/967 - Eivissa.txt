@@ -12,7 +12,7 @@ b_eivissa = castle
 #b_formentera = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = orthodox
 terrain = mountain
 

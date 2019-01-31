@@ -550,6 +550,8 @@ d_ungvar = { # Ungvar
 	croatian = "Horvatska"
 	bosnian = "Horvatska"
 	proto_south_slavic = "Horvatska"
+	proto_west_slavic = "Horvatska"
+	proto_slavic_group = "Horvatska"
 }
 
 k_khazaria = { # Qazarstan

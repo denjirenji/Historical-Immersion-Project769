@@ -17,7 +17,7 @@ b_pican = temple
 #b_posert = castle 
 
 # Misc
-culture = dalmatian
+culture = proto_west_slavic
 religion = catholic
 
 # History

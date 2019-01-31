@@ -19,7 +19,7 @@ b_madrid = city
 
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

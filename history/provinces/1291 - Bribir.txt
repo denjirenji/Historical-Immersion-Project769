@@ -15,9 +15,10 @@ b_biograd_na_moru = city
 
 # Misc
 culture = proto_south_slavic
-religion = catholic
+religion = slavic_pagan
 
 # History
 867.1.1 = { b_bribir = castle }
 867.1.1 = { culture = croatian }
+867.1.1= { religion = catholic }
 1050.1.1 = { trade_post = b_zamanjic }

@@ -13,7 +13,7 @@ b_portillo = castle
 
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

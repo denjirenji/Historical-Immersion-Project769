@@ -22,7 +22,7 @@ b_hellin = temple
 
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

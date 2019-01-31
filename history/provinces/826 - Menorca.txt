@@ -17,7 +17,7 @@ b_mahon = city
 #b_ferreries = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = orthodox
 terrain = hills
 

@@ -18,7 +18,7 @@ b_trujillo = castle
 #b_guadalupe = temple
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

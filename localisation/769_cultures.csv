@@ -2,8 +2,8 @@
 old_french;Franceis;;;;;;;;;;;;;x
 suebi;Suebisc;;;;;;;;;;;;;x
 old_saxon;Sahsisc;;;;;;;;;;;;;x
-iberian;Visigodo;;;;;;;;;;;;;x
-roman_group;Latin;;;;;;;;;;;;;x
+hispanic;Visigodo;;;;;;;;;;;;;x
+roman_group;Roman;;;;;;;;;;;;;x
 latin;Gallo-Romance;;;;;;;;;;;;;x
 occitan_group;Occitano-Romance;;;;;;;;;;;;;x
 basque_group;Vasconic;;;;;;;;;;;;;x
@@ -12,3 +12,4 @@ visigothic;Gothi;;;;;;;;;;;;;x
 proto_south_slavic;Južno Slovenski;;;;;;;;;;;;;x
 proto_west_slavic;Zapadno Slovenski;;;;;;;;;;;;;x
 afariqah;Afariqa;;;;;;;;;;;;;x
+proto_slavic;Proto Slavic;;;;;;;;;;;;;x

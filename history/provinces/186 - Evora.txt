@@ -30,7 +30,7 @@ b_avis = temple
 
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

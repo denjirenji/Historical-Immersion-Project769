@@ -16,7 +16,7 @@ b_cangasdeonis = temple
 #b_santamariadelnaranco = temple
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

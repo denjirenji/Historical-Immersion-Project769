@@ -2,6 +2,7 @@
 
 756.1.1 = {
 	holder = 145854
+	liege=d_sicily
 }
 839.1.1 = {
 	holder = 1167306 # Konstantinos, Hypatus of Gaeta

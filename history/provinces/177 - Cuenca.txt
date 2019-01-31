@@ -12,7 +12,7 @@ b_villanuevadelajara = city
 #b_quintanardelrey = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

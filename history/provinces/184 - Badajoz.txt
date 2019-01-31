@@ -15,7 +15,7 @@ b_zafra = castle
 #b_montijo = city
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

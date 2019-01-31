@@ -15,7 +15,7 @@ b_almudevar = temple
 #b_alquezar = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

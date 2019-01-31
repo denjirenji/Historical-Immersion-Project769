@@ -10,6 +10,7 @@
 726.1.1 = {
 	holder = 145910 # Orso Orseolo
 	law = succ_patrician_elective
+	liege = e_byzantium
 }
 737.1.1 = {
 	holder = 145911 # Teodato Orseolo
@@ -31,4 +32,5 @@
 }
 811.1.1 = {
 	holder = 0
+	liege = 0
 }

@@ -15,7 +15,7 @@ b_salamanca = castle
 #b_lapenya = temple
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

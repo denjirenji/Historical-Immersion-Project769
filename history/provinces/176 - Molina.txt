@@ -12,7 +12,7 @@ b_siguenza = temple
 #b_atienza = city
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

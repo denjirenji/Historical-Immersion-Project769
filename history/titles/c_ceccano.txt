@@ -1,38 +1,85 @@
 # -*- ck2.history.titles -*-
 
-756.1.1 = {
-	holder = 145854
+751.1.1={
+	holder=190146 #Liutprand
 }
-#Following Gaeta for now
-839.1.1 = {
-	holder = 1167306 # Konstantinos, Hypatus of Gaeta
+756.1.1={
+	holder=190147 #Arechis II
 }
-866.1.1 = {
-	holder = 1226700 # Docibilis I, Hypatus of Gaeta
+787.8.26={
+	holder=190150 #Grimoald III
 }
-906.1.1 = {
-	holder = 1226701 # John I, Hypatus of Gaeta
+806.1.1={
+	holder=190157 #Grimoald IV
 }
-930.1.1 = {
-	holder = 1226702 # Docibilis II, first duke of Gaeta
+817.10.1 = {
+	liege = d_benevento
 }
-954.1.1 = {
-	holder = 1226703 # John I, second duke of Gaeta
+854.1.1 = {
+	holder = 163071
 }
+878.5.1 = {
+	holder = 145218
+}
+881.1.1 = {
+	holder = 145219
+}
+884.10.1 = {
+	holder = 145220
+}
+890.1.1 = {
+	holder = 145221
+}
+891.1.1 = {
+	holder = 1702
+}
+895.1.1 = {
+	holder = 71911
+}
+898.1.1 = {
+	holder = 145219
+}
+# Lombard Princes
+900.1.1 = {
+	holder = 73331 # Atenolf I
+}
+912.1.1 = {
+	holder = 73330 # Landolf I
+}
+913.1.1 = {
+	holder = 73332 # Atenolf II
+}
+914.1.1 = {
+	holder = 73330 # Landolf I
+}
+933.1.1 = {
+	holder = 73329 # Atenolf III
+}
+934.1.1 = {
+	holder = 73330 # Landolf I
+}
+943.1.1 = {
+	holder = 73328 # Landolf II
+}
+961.1.1 = {
+	holder = 73325 # Landolf III
+}
+962.1.1 = {
+	holder = 73327 # Pandolf I
+}
+# Contea di Aquino
 963.1.1 = {
-	holder = 1226709 # Gregorio
+	liege = d_capua
+	holder = 1227521 # Atenulf II
 }
-966.1.1 = {
-	holder = 1226710 # Marino
+982.1.1 = {
+	holder = 1227522 # Guido
 }
-984.1.1 = {
-	holder = 1226712 # John II
+988.1.1 = {
+	holder = 1227524 # Siconulf
 }
-1008.1.1 = {
-	holder = 1226713 # John III
-}
-1012.1.1 = {
-	holder = 1226714 # John IV
+1006.1.1 = {
+	holder = 1227525 # Landenulf I
 }
 1032.1.1 = {
 	liege = d_capua

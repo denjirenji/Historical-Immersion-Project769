@@ -18,7 +18,7 @@ b_castelobranco = castle
 #b_vila_de_rei = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

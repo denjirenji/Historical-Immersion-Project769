@@ -52,7 +52,7 @@ roman_group = {
 		modifier = roman_culture_modifier
 	}
 	
-	iberian = {
+	hispanic = {
 		graphical_cultures = { southerngfx occitangfx }
 		color = { 0.4 0.6 0.5 }
 		used_for_random = no
@@ -403,7 +403,7 @@ iberian = {
 	}
 }
 
-south_slavic = {
+proto_slavic = {
 	graphical_cultures = { easterngfx }
 	
 	proto_south_slavic = {
@@ -511,8 +511,6 @@ north_african = {
 		modifier = berber_culture_modifier
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
-		male_patronym = "ibn "
-		female_patronym = "bint "
-		prefix = yes
+		from_dynasty_prefix = "di "
 	}
 }

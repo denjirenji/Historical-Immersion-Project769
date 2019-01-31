@@ -18,7 +18,7 @@ b_alcobaca = temple
 #b_porto_de_mos = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

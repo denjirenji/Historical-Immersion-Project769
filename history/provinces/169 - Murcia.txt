@@ -21,7 +21,7 @@ b_lorca = temple
 #b_albatera = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

@@ -1,0 +1,136 @@
+# -*- ck2.history.titles -*-
+
+# CJL78 - Dukes of Naples
+536.1.1={
+	liege=e_byzantium
+}
+661.1.1={
+	holder=145865
+}
+666.1.1={
+	holder=145866
+}
+670.1.1={
+	holder=145867
+}
+673.1.1={
+	holder=145868
+}
+677.1.1={
+	holder=145869
+}
+684.1.1={
+	holder=145870
+}
+687.1.1={
+	holder=145871
+}
+696.1.1={
+	holder=145872
+}
+706.1.1={
+	holder=145873
+}
+711.9.1={
+	holder=145874
+}
+719.1.1={
+	holder=145875
+}
+729.1.1={
+	holder=145876
+}
+739.1.1={
+	holder=145877
+}
+755.1.1={
+	holder=145878
+}
+767.1.1={
+	holder=145879
+}
+794.1.1={
+	holder=145880
+}
+801.1.1={
+	holder=145881
+}
+818.1.1={
+	holder=145882
+}
+821.1.1={
+	holder=145883
+}
+821.8.1={
+	holder=145884
+}
+832.6.1={
+	holder=145885
+}
+834.1.1={
+	holder=145886
+}
+834.9.1={
+	holder=145887
+}
+840.3.1={
+	liege=0
+	holder=163090
+}
+850.1.1 = {
+	holder = 163090 # Sergios I of Napoli
+}
+865.1.1 = {
+	holder = 1167301 # Sergios II of Napoli
+}
+878.1.1 = {
+	holder = 163088 # Athanasios I of Napoli
+}
+898.1.1 = {
+	holder = 163087 # Gregorios IV of Napoli
+}
+915.1.1 = {
+	holder = 163086 # Ioannes II of Napoli
+}
+919.1.1 = {
+	holder = 163085 # Marinos I of Napoli
+}
+928.1.1 = {
+	holder = 163084 # Ioannes III of Napoli
+}
+969.1.1 = {
+	holder = 163083 # Marinos II of Napoli
+}
+992.1.1 = {
+	holder = 163082 # Sergios III of Napoli
+}
+997.1.1 = {
+	holder = 163081 # Ioannes IV of Napoli
+}
+1002.1.1 = {
+	holder = 163080 # Sergios IV of Napoli
+}
+1036.1.1 = {
+	holder = 30820 # Ioannes V of Napoli
+}
+1053.4.1 = {
+	holder = 20498 # Sergios V of Napoli
+}
+1075.11.1 = {
+	holder = 20531 # Sergios VI of Napoli
+}
+1107.9.1 = {
+	holder = 30822 # Ioannes VI of Napoli
+}
+1123.4.1 = {
+	holder = 30824 # Sergios VII of Napoli
+}
+1130.12.25 = {
+	liege = k_sicily
+}
+1137.1.1 = {
+	holder = 127085 # Alphonse I de Hauteville
+}
+1144.2.26 = {
+	holder = 0
+}

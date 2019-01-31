@@ -15,7 +15,7 @@ b_villafrancadelbierzo = city
 #b_carracedo = temple
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

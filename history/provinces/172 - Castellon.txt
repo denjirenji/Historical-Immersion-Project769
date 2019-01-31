@@ -17,7 +17,7 @@ b_nules = temple
 #b_burriana = castle
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

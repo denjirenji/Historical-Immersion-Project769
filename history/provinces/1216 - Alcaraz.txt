@@ -12,7 +12,7 @@ b_barrax = city
 #b_munera = temple
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

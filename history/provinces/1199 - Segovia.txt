@@ -15,7 +15,7 @@ b_cuellar = castle
 #b_parraces = temple
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

@@ -16,7 +16,7 @@ b_caceres = city
 
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

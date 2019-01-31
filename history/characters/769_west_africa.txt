@@ -1,0 +1,176 @@
+#West Africa
+2000100 = {
+	name="Oqasha ibn Ayub"
+	dynasty=1048008
+	religion=ibadi
+	culture=zanata
+	728.1.1 = {
+		birth="728.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000101 = {
+	name="Abd al-Wahid" # fictitious
+	dynasty=2000000055
+	religion=zaydi
+	culture=zanata
+	732.1.1 = {
+		birth="732.1.1"
+	}
+	788.1.1 = {
+		death="788.1.1"
+	}
+}
+2000102 = {
+	name="Hamad" # fictitious
+	dynasty=1048010
+	father=2000108
+	religion=ibadi
+	culture=zanata
+	735.1.1 = {
+		birth="735.1.1"
+	}
+	798.1.1 = {
+		death="798.1.1"
+	}
+}
+2000103 = {
+	name="Masmud" # fictitious
+	dynasty=2000000052
+	religion=nabawiyya
+	culture=masmuda
+	father=2000013
+	733.1.1 = {
+		birth="733.1.1"
+	}
+	793.1.1 = {
+		death="793.1.1"
+	}
+}
+2000104 = {
+	name="T'ar'iq" # fictitious
+	dynasty=1000054004
+	religion="west_african_pagan"
+	culture="tagelmust"
+	728.1.1 = {
+		birth="728.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000105 = {
+	name="Watt'as" # fictitious
+	dynasty=1000054002
+	religion="ibadi"
+	culture="tagelmust"
+	730.1.1 = {
+		birth="730.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000106 = {
+	name="Amaz'uz'" # fictitious
+	dynasty=1000054005 #Gazzúla
+	religion="sunni"
+	culture="tagelmust"
+	729.1.1 = {
+		birth="729.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000107 = {
+	name="Bátin" # fictitious
+	dynasty=1000054003 #Lamta
+	religion="zaydi"
+	culture="tagelmust"
+	729.1.1 = {
+		birth="729.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000108 = {
+	name="Khalid ibn Hamid"
+	dynasty=1048010
+	religion="kharijite"
+	culture="zanata"
+	715.1.1 = {
+		birth="729.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000109 = {
+	name="Abd al-Allah"
+	dynasty=2000000051
+	religion="ibadi"
+	culture="sanhaja"
+	715.1.1 = {
+		birth="729.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+	add_trait="sympathy_christendom"
+}
+2000110 = {
+	name="Issam"
+	dynasty=2000000052
+	father = 2000111
+	culture="masmuda"
+	religion="nabawiyya"
+	695.1.1 = {
+		birth=yes
+	}
+	744.1.1 = {
+		death=yes
+	}
+}
+2000111 = {
+	name="Silah"
+	dynasty=2000000052
+	culture="masmuda"
+	religion="nabawiyya"
+	655.1.1 = {
+		birth=yes
+	}
+	715.1.1 = {
+		death=yes
+	}
+}
+168275 = {
+	father = 2000111
+}
+2000112 = {
+	name="Abd al-Allah"
+	dynasty=2000000051
+	religion="ibadi"
+	culture="sanhaja"
+	715.1.1 = {
+		birth="729.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}
+2000113 = {
+	name="Segguen"
+	dynasty=2000000053
+	culture="masmuda"
+	religion="kharijite"
+	728.1.1 = {
+		birth="728.1.1"
+	}
+	795.1.1 = {
+		death="795.1.1"
+	}
+}

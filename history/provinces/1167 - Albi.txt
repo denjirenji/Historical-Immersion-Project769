@@ -18,7 +18,7 @@ b_lombers = castle
 
 #Misc
 religion = catholic
-culture = iberian
+culture = hispanic
 
 # History
 790.1.1 = { culture = occitan }

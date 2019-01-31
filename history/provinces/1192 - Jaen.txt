@@ -15,7 +15,7 @@ b_jaen = temple
 #b_arjona = castle
 
 
-culture = iberian
+culture = hispanic
 religion = sunni
 
 # History

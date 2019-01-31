@@ -15,7 +15,7 @@ b_fabara = temple
 
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History

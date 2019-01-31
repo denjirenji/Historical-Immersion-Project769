@@ -16,7 +16,7 @@ b_azuaga = city
 #b_monesterio = temple
 
 # Misc
-culture = iberian
+culture = hispanic
 religion = catholic
 
 # History
