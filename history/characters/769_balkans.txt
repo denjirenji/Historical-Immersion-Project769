@@ -78,13 +78,14 @@
 }
 2000006 = {
 	name="Dragomir"
+	dynasty="2000000100"
 	religion="slavic_pagan"
 	culture="proto_south_slavic"
-	760.1.1 = {
-		birth="760.1.1"
+	735.1.1 = {
+		birth="731.1.1"
 	}
-	830.1.1 = {
-		death="830.1.1"
+	805.1.1 = {
+		death="800.1.1"
 	}
 }
 

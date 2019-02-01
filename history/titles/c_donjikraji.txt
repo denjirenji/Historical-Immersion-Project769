@@ -1,7 +1,7 @@
 # -*- ck2.history.titles -*-
 
 757.1.1={
-	liege = d_serbs
+	liege = k_hungary
 	holder=146008
 }
 792.1.1={
