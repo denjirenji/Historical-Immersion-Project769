@@ -4,10 +4,12 @@
 	liege = e_byzantium
 }
 768.1.1={
-	holder=145821
+	holder=2000024
+	liege = d_sagudates
 }
 865.1.1 = {
 	holder = 145198
+	liege = e_byzantium
 }
 1018.1.1 = {
 	liege = d_strymon

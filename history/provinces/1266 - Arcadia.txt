@@ -21,7 +21,6 @@ religion = slavic_pagan
 terrain = mountain
 
 # History
-867.1.1 = { b_nikli = castle }
 867.1.1 = { culture = bulgarian }
 980.1.1 = { b_nikli = castle }
 980.1.1 = { religion = orthodox }

@@ -86,7 +86,7 @@ d_drougoubitai = { # Dragovic
 d_dragoviti = { # Dragovic
 	color = { 122 103 58 }
 	color2 = { 255 255 255 }
-	capital = 472 # Epeiros
+	capital = 1266 # Arcadia
 	culture = proto_south_slavic
 	#tribe = yes
 	allow = { always = no }
@@ -111,7 +111,55 @@ d_ezeritai = { # Jezeric
 	color = { 249 254 214 }
 	color2 = { 255 255 255 }
 	capital = 478 # Lakonia
-	culture = bolghar
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_mesenija = { # Mesenija
+	color = { 196 35 140 }
+	color2 = { 255 255 255 }
+	capital = 477 # Messinia
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_belegezites = { # Velegezic
+	color = { 209 69 161 }
+	color2 = { 255 255 255 }
+	capital = 488 # Demetrias
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_rhynchinoi = { # Rinhinic
+	color = { 192 22 133 }
+	color2 = { 255 255 255 }
+	capital = 491 # Chalkidike
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_strymonites = { # Strumljanic
+	color = { 139 29 101 }
+	color2 = { 255 255 255 }
+	capital = 492 # Strymonos
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_sagudates = { # Sagudatic
+	color = { 119 80 71 }
+	color2 = { 255 255 255 }
+	capital = 940 # Mosynopolis
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_vlachorhynchinoi = { # Rhynchinoi
+	color = { 192 22 133 }
+	color2 = { 255 255 255 }
+	capital = 1526 # Strumica
+	culture = romanian
 	#tribe = yes
 	allow = { always = no }
 }

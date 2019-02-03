@@ -4,10 +4,12 @@
 	liege = d_thessalonika
 }
 756.1.1={
-	holder=145815
+	holder=2000022
+	liege = d_rhynchinoi
 }
 862.1.1 = {
 	holder = 1232117
+	liege = d_thessalonika
 }
 1014.1.1 = {
 	holder = 1500400 # David Arianites Strategos Autokrator of Bulgaria 1018-1022(25)

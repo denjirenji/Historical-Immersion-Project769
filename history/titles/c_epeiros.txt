@@ -4,8 +4,8 @@
 	liege = d_epirus
 }
 769.1.1 = {
-	liege = d_dragoviti
-	holder = 2000016
+	liege = d_baiounitai
+	holder = 2000007
 }
 865.1.1 = {
 	holder = 1232144

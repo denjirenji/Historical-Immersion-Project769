@@ -133,11 +133,11 @@ name="Voconti"
 	culture = proto_south_slavic
 }
 2000000106 = {
-	name="Bozetjehvic"
+	name="Mesenija"
 	culture = proto_south_slavic
 }
 2000000107 = {
-	name="Ohmucevic"
+	name="Rhynchinoi"
 	culture = proto_south_slavic
 }
 2000000108 = {

@@ -4,8 +4,8 @@
 	liege = e_byzantium
 }
 769.1.1 = {
-	liege = d_dragoviti
-	holder = 2000016
+	liege = d_baiounitai
+	holder = 2000007
 }
 866.1.1 = {
 	liege = d_neopatras

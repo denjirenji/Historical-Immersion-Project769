@@ -3,11 +3,13 @@
 330.1.1 = {
 	liege = d_neopatras
 }
-752.1.1={
-	holder=145806
+767.1.1={
+	holder=2000021
+	liege = d_belegezites
 }
 865.1.1 = {
 	holder = 1232112
+	liege = d_neopatras
 }
 1015.1.1 = {
 	holder = 1500306 # Nikephoros Kabasilas

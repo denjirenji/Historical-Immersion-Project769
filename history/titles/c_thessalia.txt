@@ -1,7 +1,7 @@
 # -*- ck2.history.titles -*-
 
 330.1.1 = {
-	liege = d_neopatras
+	liege = e_byzantium
 }
 751.1.1={
 	holder=145816

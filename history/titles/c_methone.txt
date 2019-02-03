@@ -3,11 +3,13 @@
 330.1.1 = {
 	liege = d_achaia
 }
-767.1.1={
-	holder=145810
+764.1.1={
+	holder=2000020
+	liege = d_mesenija
 }
 860.1.1 = {
 	holder = 1232903
+	liege = d_achaia
 }
 1003.1.1 = {
 	holder = 1500320
