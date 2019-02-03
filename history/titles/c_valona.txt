@@ -3,9 +3,9 @@
 330.1.1 = {
 	liege = d_dyrrachion
 }
-759.1.1=
-{
-holder=145817
+759.1.1 = {
+	holder = 2000017
+	liege = d_kutmichevitsa
 }
 852.1.1 = {
 	liege = k_bulgaria

@@ -2145,7 +2145,7 @@
 167858 = {
 	name="Vojislav"
 	dynasty=100502
-	religion="orthodox"
+	religion="slavic_pagan"
 	culture="proto_south_slavic"
 	735.1.1={
 		birth="735.1.1"
@@ -2161,7 +2161,7 @@
 167859 = {
 	name="Radoslav"
 	dynasty=100502
-	religion="orthodox"
+	religion="slavic_pagan"
 	culture="proto_south_slavic"
 	father=167858
 	755.1.1={

@@ -1,10 +1,11 @@
 # -*- ck2.history.titles -*-
 
 330.1.1 = {
-	liege = d_neopatras
+	liege = e_byzantium
 }
-752.1.1={
-	holder=145806
+769.1.1 = {
+	liege = d_dragoviti
+	holder = 2000016
 }
 866.1.1 = {
 	liege = d_neopatras

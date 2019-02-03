@@ -86,8 +86,32 @@ d_drougoubitai = { # Dragovic
 d_dragoviti = { # Dragovic
 	color = { 122 103 58 }
 	color2 = { 255 255 255 }
-	capital = 506 # Vidin
+	capital = 472 # Epeiros
 	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_kutmichevitsa = { # Kutmicevica
+	color = { 249 254 214 }
+	color2 = { 255 255 255 }
+	capital = 471 # Ohrid
+	culture = bolghar
+	#tribe = yes
+	allow = { always = no }
+}
+d_melingoi = { # Milinzic
+	color = { 198 37 142 }
+	color2 = { 255 255 255 }
+	capital = 1266 # Arkadia
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_ezeritai = { # Jezeric
+	color = { 249 254 214 }
+	color2 = { 255 255 255 }
+	capital = 478 # Lakonia
+	culture = bolghar
 	#tribe = yes
 	allow = { always = no }
 }

@@ -3,9 +3,6 @@
 330.1.1 = {
 	liege = e_byzantium
 }
-766.1.1={
-	holder=145799
-}
 865.1.1 = {
 	holder = 145184
 }

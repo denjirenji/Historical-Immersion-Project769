@@ -129,7 +129,7 @@ name="Voconti"
 	culture = proto_south_slavic
 }
 2000000105 = {
-	name="Praska"
+	name="Mauros"
 	culture = proto_south_slavic
 }
 2000000106 = {

@@ -4,10 +4,12 @@
 	liege = d_achaia
 }
 762.1.1={
-	holder=145809
+	liege = d_melingoi
+	holder=2000019
 }
 865.1.1 = {
 	holder = 1232905
+	liege = d_achaia
 }
 1003.1.1 = {
 	holder = 1500320
