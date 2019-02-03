@@ -3,9 +3,9 @@
 330.1.1 = {
 	liege = d_epirus
 }
-764.1.1={
-	holder=146011
-	liege = 0
+769.1.1 = {
+	liege = d_baiounitai
+	holder = 2000007
 }
 865.1.1 = {
 	holder = 1232144

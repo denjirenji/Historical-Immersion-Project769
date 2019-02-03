@@ -20,11 +20,10 @@ culture = dalmatian
 religion = catholic
 
 # History
-768.1.1 = { capital = b_ston }
-865.1.1 = { capital = b_ragusa }
 870.1.1 = {
 	religion = orthodox
 }
 1050.1.1 = { trade_post = b_cerva }
-1151.1.1 = {b_mljet = temple}
-1300.1.1 = {culture = croatian }
+1151.1.1 = { b_mljet = temple}
+1300.1.1 = { culture = croatian
+			 religion = catholic}

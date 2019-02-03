@@ -1,13 +1,8 @@
 # -*- ck2.history.titles -*-
 
-330.1.1={
-	liege="d_vidin"
-}
-681.1.1={
-	liege="e_byzantium"
-}
-759.1.1={
-	holder=145125
+768.1.1={
+	holder = 2000012
+	liege = d_moravsti
 }
 843.1.1={
 	liege = "k_bulgaria"

@@ -1,7 +1,8 @@
 # -*- ck2.history.titles -*-
 
 743.11.2 = {
-	holder = 167858
+	holder = 2000009
+	liege = e_byzantium
 }
 850.1.1 = {
 	liege = d_ragusa

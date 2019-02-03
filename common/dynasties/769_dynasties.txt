@@ -105,7 +105,7 @@ name="Voconti"
 }
 
 ######################################
-#France
+#South Slavs
 ######################################
 
 2000000100 = {
@@ -113,19 +113,19 @@ name="Voconti"
 	culture = proto_south_slavic
 }
 2000000101 = {
-	name="Nelipic"
+	name="Travunija"
 	culture = proto_south_slavic
 }
 2000000102 = {
-	name="Mogorovic"
+	name="Duklja"
 	culture = proto_south_slavic
 }
 2000000103 = {
-	name="Kukar"
+	name="Moravci"
 	culture = proto_south_slavic
 }
 2000000104 = {
-	name="Viševic"
+	name="Timochani"
 	culture = proto_south_slavic
 }
 2000000105 = {

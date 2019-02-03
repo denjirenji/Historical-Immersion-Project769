@@ -1,0 +1,66 @@
+# -*- ck2.dynasties -*-
+
+6670000 = {
+    name = "Vajunic" # Baiounitai Vajuniti
+    culture = proto_south_slavic
+}
+6670001 = {
+    name = "Velegezic" # Belegezites Velegeziti
+    culture = proto_south_slavic
+}
+6670002 = {
+    name = "Brsjat" # Berziti Brsjaci
+    culture = proto_south_slavic
+}
+6670003 = {
+    name = "Dragovic" # Drougoubitai Dragoviti
+    culture = proto_south_slavic
+}
+6670004 = {
+    name = "Jezeric" # Ezeritai Jezeriti
+    culture = proto_south_slavic
+}
+6670005 = {
+    name = "Milinzic" # Melingoi Milinzi
+    culture = proto_south_slavic
+}
+6670006 = {
+    name = "Bodric" # Praedenecenti Bodrici
+    culture = proto_south_slavic
+}
+6670007 = {
+    name = "Rinhinic" # Rhynchinoi Rinhini
+    culture = proto_south_slavic
+}
+6670008 = {
+    name = "Sagudatic" # Sagudates Sagudati
+    culture = proto_south_slavic
+}
+6670009 = {
+    name = "Smoljanic" # Smolyani Smoljani
+    culture = proto_south_slavic
+}
+6670010 = {
+    name = "Strumljanic" # Strymonites Strumljani
+    culture = proto_south_slavic
+}
+6670011 = {
+    name = "Pajonic" # Ahistorical proto_south_slavics Pajonci
+    culture = proto_south_slavic
+}
+6670012 = {
+    name = "Tracanin" # Ahistorical Thracians Tracani
+    culture = proto_south_slavic
+}
+6670013 = {
+    name = "Mezic" # Ahistorical Moesians Mezi
+    culture = proto_south_slavic
+}
+6670014 = {
+    name = "Makedonac" # Ahistorical Macedonians Makedonci
+    culture = proto_south_slavic
+}
+6670015 = {
+    name = "Vardarac" # Ahistorical Vardarians Vardarci
+    culture = proto_south_slavic
+}

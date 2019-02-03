@@ -58,22 +58,22 @@
 	name="Aguastin"
 	religion="catholic"
 	culture="dalmatian"
-	735.1.1 = {
+	731.1.1 = {
 		birth="731.1.1"
 	}
 	805.1.1 = {
-		death="800.1.1"
+		death="805.1.1"
 	}
 }
 2000005 = {
 	name="Belisare"
 	religion="catholic"
 	culture="dalmatian"
-	735.1.1 = {
+	731.1.1 = {
 		birth="731.1.1"
 	}
 	805.1.1 = {
-		death="800.1.1"
+		death="805.1.1"
 	}
 }
 2000006 = {
@@ -81,11 +81,130 @@
 	dynasty="2000000100"
 	religion="slavic_pagan"
 	culture="proto_south_slavic"
-	735.1.1 = {
+	731.1.1 = {
 		birth="731.1.1"
 	}
 	805.1.1 = {
-		death="800.1.1"
+		death="805.1.1"
+	}
+}
+2000007 = {
+	name="Kresimir"
+	dynasty="6670000"
+	religion="slavic_pagan"
+	culture="proto_south_slavic"
+	731.1.1 = {
+		birth="731.1.1"
+	}
+	805.1.1 = {
+		death="805.1.1"
+	}
+}
+2000008 = {
+	name="Hranislav"
+	dynasty="2000000101"
+	religion="slavic_pagan"
+	culture="proto_south_slavic"
+	731.1.1 = {
+		birth="731.1.1"
+	}
+	805.1.1 = {
+		death="805.1.1"
+	}
+}
+2000009 = {
+	name="Adráno"
+	religion="orthodox"
+	culture="dalmatian"
+	731.1.1 = {
+		birth="731.1.1"
+	}
+	805.1.1 = {
+		death="805.1.1"
+	}
+}
+2000010 = {
+	name="Tomislav"
+	religion="slavic_pagan"
+	dynasty="2000000102"
+	culture="proto_south_slavic"
+	731.1.1 = {
+		birth="731.1.1"
+	}
+	805.1.1 = {
+		death="805.1.1"
+	}
+}
+2000011 = {
+	name="Prohor"
+	religion="slavic_pagan"
+	dynasty="6670002"
+	culture="proto_south_slavic"
+	731.1.1 = {
+		birth="731.1.1"
+	}
+	805.1.1 = {
+		death="805.1.1"
+	}
+}
+2000012 = {
+	name="Dobromir"
+	religion="slavic_pagan"
+	dynasty="2000000103"
+	culture="proto_south_slavic"
+	731.1.1 = {
+		birth="731.1.1"
+	}
+	805.1.1 = {
+		death="805.1.1"
+	}
+}
+2000013 = {
+	name="Dobromir"
+	religion="slavic_pagan"
+	dynasty="2000000104"
+	culture="proto_south_slavic"
+	731.1.1 = {
+		birth="731.1.1"
+	}
+	805.1.1 = {
+		death="805.1.1"
+	}
+}
+2000014 = {
+	name="Vlaicu"
+	religion="slavic_pagan"
+	dynasty="6670003"
+	culture="proto_south_slavic"
+	680.1.1 = {
+		birth="680.1.1"
+	}
+	750.1.1 = {
+		death="750.1.1"
+	}
+}
+2000015 = {
+	name="Mutimir"
+	religion="slavic_pagan"
+	dynasty="6670003"
+	culture="proto_south_slavic"
+	731.1.1 = {
+		birth="731.1.1"
+	}
+	805.1.1 = {
+		death="805.1.1"
+	}
+}
+2000016 = {
+	name="Dragomir"
+	religion="slavic_pagan"
+	dynasty="6670003"
+	culture="proto_south_slavic"
+	731.1.1 = {
+		birth="731.1.1"
+	}
+	805.1.1 = {
+		death="805.1.1"
 	}
 }
 

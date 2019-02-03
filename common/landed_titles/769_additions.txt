@@ -35,3 +35,59 @@ d_zahumlje = { # Zahumlje
 	#tribe = yes
 	allow = { always = no }
 }
+d_travunija = { # Travunija
+	color = { 145 35 35 }
+	color2 = { 255 255 255 }
+	capital = 965 # Travunija
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_baiounitai = { # Vajunic
+	color = { 138 67 113 }
+	color2 = { 255 255 255 }
+	capital = 472 # Epeiros
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_berziti = { # Brsjat
+	color = { 154 139 61 }
+	color2 = { 255 255 255 }
+	capital = 1012 # Hvosno
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_moravsti = { # Moravci
+	color = { 126 107 62 }
+	color2 = { 255 255 255 }
+	capital = 501 # Niš
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_timochani = { # Timochani
+	color = { 122 103 58 }
+	color2 = { 255 255 255 }
+	capital = 506 # Vidin
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_drougoubitai = { # Dragovic
+	color = { 146 0 5 }
+	color2 = { 255 255 20 }
+	capital = 1527 # Kopsis
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}
+d_dragoviti = { # Dragovic
+	color = { 122 103 58 }
+	color2 = { 255 255 255 }
+	capital = 506 # Vidin
+	culture = proto_south_slavic
+	#tribe = yes
+	allow = { always = no }
+}

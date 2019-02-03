@@ -1,0 +1,8 @@
+# -*- ck2.history.titles -*-
+
+760.1.1 = {
+	liege = e_byzantium
+}
+864.1.1 = {
+	liege = c_mesembria
+}

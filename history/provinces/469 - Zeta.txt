@@ -16,8 +16,8 @@ b_dioclea = temple
 
 
 # Misc
-culture = arberian
-religion = orthodox
+culture = proto_south_slavic
+religion = slavic_pagan
 
 # History
 867.1.1 = { b_skadar = castle }

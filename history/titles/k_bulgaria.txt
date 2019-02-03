@@ -2,7 +2,6 @@
 
 632.1.1 = {
 	holder = 159117
-	historical_nomad = yes
 }
 665.1.1 = {
 	holder = 159127

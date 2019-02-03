@@ -1,19 +1,12 @@
 # -*- ck2.history.titles -*-
 
-330.1.1 = {
-	liege = d_adrianopolis
-}
-745.1.1={
-	holder=145795
-}
-790.1.1={
-	holder=145796
-}
-842.1.20 = {
-	holder = 70490
+768.1.1={
+	holder = 2000015
+	liege = d_drougoubitai
 }
 865.9.24 = {
 	holder = 1232146
+	liege = d_adrianopolis
 }
 1002.1.1 = {
 	holder = 1500408

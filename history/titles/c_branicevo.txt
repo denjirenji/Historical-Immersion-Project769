@@ -1,22 +1,8 @@
 # -*- ck2.history.titles -*-
 
-330.1.1 = {
-	liege = d_vidin
-}
-681.1.1 = {
-	holder = 159118
-}
-700.1.1 = {
-	holder = 145944
-}
-740.1.1 = {
-	holder = 145945
-}
-766.1.1 = {
-	holder = 145947
-}
-786.1.1 = {
-	holder = 145952
+768.1.1={
+	holder = 2000012
+	liege = d_moravsti
 }
 852.1.1 = {
 	liege = k_bulgaria

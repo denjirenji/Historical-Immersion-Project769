@@ -1,6 +1,6 @@
 # -*- ck2.history.titles -*-
 
-757.1.1={
+768.1.1={
 	liege = d_zahumlje
 	holder=2000006
 }

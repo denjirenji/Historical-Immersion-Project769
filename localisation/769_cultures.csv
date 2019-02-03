@@ -1,7 +1,9 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;
-old_french;Franceis;;;;;;;;;;;;;x
-suebi;Suebisc;;;;;;;;;;;;;x
-old_saxon;Sahsisc;;;;;;;;;;;;;x
+old_french;Romanz;;;;;;;;;;;;;x
+suebi;Alamannisk;;;;;;;;;;;;;x
+old_saxon;Sahsisk;;;;;;;;;;;;;x
+thuringian;Thoringisk;;;;;;;;;;;;;x
+franconian;Ost Frenkisk;;;;;;;;;;;;;x
 hispanic;Visigodo;;;;;;;;;;;;;x
 roman_group;Roman;;;;;;;;;;;;;x
 latin;Gallo-Romance;;;;;;;;;;;;;x
