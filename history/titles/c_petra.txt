@@ -1,0 +1,94 @@
+# -*- ck2.history.titles -*-
+
+762.1.1={
+	liege = d_damascus
+}
+762.1.1={
+	holder = 210027
+}
+855.1.1 = {
+	liege = d_damascus
+	holder = 1230178
+}
+870.1.1 = {
+	holder = 0
+}
+992.1.1 = {
+	liege = d_jerusalem
+	holder = 1500002 # Mufarrij ibn Daghfal returned to Palestine and resumed his tribe's dominant position upon the death of Ibn Killis
+}
+1013.1.1 = {
+	holder = 1500003
+}
+1022.1.1 = {
+	liege = d_damascus
+}
+1029.1.1 = {
+	holder = 1600006
+}
+1041.1.1 = {
+	holder = 1500003
+}
+1044.1.1 = {
+	holder = 1500006
+}
+1079.1.1 = {
+	holder = 1500008
+}
+1104.1.1 = {
+	holder = 1500011
+}
+1115.1.1 = {
+	liege = d_jerusalem
+	holder = 10073 # Badouin I de Boulogne
+}
+1118.4.2 = {
+	liege = d_oultrejourdain
+	holder = 93000
+}
+1126.1.1 = {
+	holder = 93003
+}
+1147.1.1 = {
+	holder = 93005
+}
+1161.1.1 = {
+	holder = 232700
+}
+1168.1.1 = {
+	holder = 223561
+}
+1173.1.1 = {
+	holder = 93009
+}
+1174.10.1 = {
+	holder = 223592
+}
+#1176.1.1 = {
+#	holder = 223590
+#}
+1187.7.4 = {
+	holder = 223560
+}
+1187.10.2 = {
+	liege = d_amiralarab
+	holder = 1500023
+}
+1219.1.1 = {
+	holder = 1500024
+}
+1255.1.1 = {
+	holder = 1500025
+}
+1282.1.1 = {
+	holder = 1500043
+}
+1325.1.1 = {
+	holder = 1500031
+}
+1330.1.1 = {
+	holder = 1500029
+}
+1335.1.1 = {
+	holder = 1500032
+}
