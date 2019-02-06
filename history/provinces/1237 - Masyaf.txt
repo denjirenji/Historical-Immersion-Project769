@@ -1,0 +1,25 @@
+# -*- ck2.history.provinces -*-
+
+# 1237 - Altair
+
+# County Title
+title = c_masyaf
+
+# Settlements
+max_settlements = 3
+
+b_masyaf = castle
+#b_alkahf = castle
+#b_alqadamus = city
+
+
+
+# Misc
+culture = assyrian
+religion = syriac
+
+# History
+
+850.1.1 = { culture = levantine_arabic }
+850.1.1 = { culture = ismaili }
+1120.1.1 = { b_alkahf = castle }

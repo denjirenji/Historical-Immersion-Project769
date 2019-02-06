@@ -1,0 +1,36 @@
+baqt = {
+	tributary_name = "Baqt"
+	tributary_plural = "Baqt"
+	tribute_name = TRIBUTARY_DEFAULT_TRIBUTE
+	breaks_at_suzerain_death = no
+	breaks_at_tributary_death = no
+	suzerain_must_defend = no
+	tributary_can_be_summoned = no
+	tributary_must_defend = no
+	tributaries_can_infight = yes
+	suzerain_can_join_infighting = yes
+	tributaries_can_unite = no
+	breaks_on_realm_change = no
+	icon = 7
+	cbs_against_suzerain = {
+		free_tributary_cb
+	}
+	income_tribute_percentage = {
+		value = 0
+	}
+	reinforce_tribute_percentage = {
+		value = 0.3
+	}
+	prestige_to_suzerain = {
+		value = 0
+	}
+	prestige_to_tributary = {
+		value = 0
+	}
+	piety_to_suzerain = {
+		value = 0
+	}
+	piety_to_tributary = {
+		value = 0
+	}
+}

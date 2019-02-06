@@ -1,0 +1,31 @@
+# -*- ck2.history.provinces -*-
+
+# 733 - Aleppo
+
+# County Title
+title = c_aleppo
+
+# Settlements
+max_settlements = 6
+
+b_aleppocastle = castle
+b_aleppo = city
+b_qinnasrin = city
+b_khanasir = temple
+#b_buzaa = city
+#b_alsafira = city
+#b_zardana = city
+
+
+# Misc
+culture = assyrian
+religion = syriac
+
+# History
+
+850.1.1 = { culture = levantine_arabic }
+850.1.1 = { culture = sunni }
+
+#1110.1.1 = { b_sarmin = castle } 
+
+

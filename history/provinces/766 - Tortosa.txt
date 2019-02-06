@@ -1,0 +1,28 @@
+# -*- ck2.history.provinces -*-
+
+# 766 - Tortosa
+
+# County Title
+title = c_tortosa
+
+# Settlements
+max_settlements = 4
+
+b_tortosa = castle
+b_maraclea = city
+b_valania = temple
+#b_margat = castle
+#b_alkhawabi = castle
+#b_ruad = castle
+
+# Misc
+culture = assyrian
+religion = syriac
+
+# History
+
+850.1.1 = { culture = levantine_arabic }
+850.1.1 = { culture = sunni }
+1109.1.1 = { b_margat = castle }
+
+1279.1.1 = { trade_post = b_faliero }

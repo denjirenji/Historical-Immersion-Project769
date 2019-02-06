@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 1260 - Caesarea
+
+# County Title
+title = c_caesarea
+
+# Settlements
+max_settlements = 4
+
+b_caymont = castle
+b_syrcaesarea = temple
+b_arsuf = castle
+#b_calansue = city
+
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History
+
+850.1.1 = { culture = levantine_arabic }
+850.1.1 = { religion = sunni }

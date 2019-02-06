@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 765 - Archa
+
+# County Title
+title = c_archa
+
+# Settlements
+max_settlements = 4
+b_bourzeycastle = castle
+b_famia = temple
+b_albarasyria = city 
+#b_treiz = castle
+#b_sarmeniasyria = city
+
+
+
+
+# Misc
+culture = assyrian
+religion = syriac
+
+# History
+
+850.1.1 = { culture = levantine_arabic }
+850.1.1 = { culture = sunni }

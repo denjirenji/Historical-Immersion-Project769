@@ -1,0 +1,33 @@
+# -*- ck2.history.provinces -*-
+
+# 773 - Tiberias
+
+# County Title
+title = c_tiberias
+
+# Settlements
+max_settlements = 5
+
+b_belvoir = castle
+b_tiberias = city
+b_sepphoria = castle
+b_nazareth = temple
+#b_forbelet = castle
+#b_cavedesueth = city
+
+
+#b_mnttabor = temple 
+#b_hattin = city
+
+
+
+
+# Misc
+culture = assyrian
+religion = orthodox
+
+# History
+
+850.1.1 = { culture = levantine_arabic }
+
+1270.1.1 = { religion = sunni }

@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 1243 - Kafrtab
+
+# County Title
+title = c_kafrtab
+
+# Settlements
+max_settlements = 4
+
+b_kafr_tab = castle
+#b_maaratannuman = city
+#b_bara = castle
+#b_serjilla = castle
+
+
+# Misc
+culture = assyrian
+religion = syriac
+
+# History
+
+850.1.1 = { culture = levantine_arabic }
+850.1.1 = { culture = sunni }
+
+

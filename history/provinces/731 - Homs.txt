@@ -1,0 +1,25 @@
+# -*- ck2.history.provinces -*-
+
+# 731 - Homs
+
+# County Title
+title = c_homs
+
+# Settlements
+max_settlements = 5
+b_citadelofhoms = castle
+b_homs = city
+b_sadad = temple
+#b_qusayr = city
+#b_monasteryofsaintmosestheabyssinian = temple
+#b_alnabk = city
+
+
+# Misc
+culture = assyrian
+religion = syriac
+
+# History
+
+850.1.1 = { culture = levantine_arabic }
+850.1.1 = { culture = sunni }

@@ -1,0 +1,26 @@
+# -*- ck2.history.provinces -*-
+
+# 779 - Beersheb #Nablus
+
+# County Title
+title = c_beersheb
+
+# Settlements
+max_settlements = 4
+
+b_bethsan = castle
+b_nablus = city
+b_jericho = temple
+#b_syrsebastia = temple
+#b_lafeve = castle
+#b_aynjalut = city
+
+
+# Misc
+culture = assyrian
+religion = samaritan
+
+# History
+
+850.1.1 = { culture = levantine_arabic }
+850.1.1 = { religion = sunni }
