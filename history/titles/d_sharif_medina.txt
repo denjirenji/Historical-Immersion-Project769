@@ -1,0 +1,92 @@
+# -*- ck2.history.titles -*-
+
+767.1.1={
+	holder=163125 # Hasan ibn Zayd ibn Hasan
+	liege = e_arabia
+}
+841.1.1 = {
+	holder = 1236115 # Tahir Banu Husayni (Placeholder duchy owner)
+}
+888.1.1 = {
+	holder = 1236114 # Ubayd-Allah Banu Husayni (Placeholder duchy owner)
+}
+920.1.1 = {
+	holder = 1236113 # al-Qasim Banu Husayni (Placeholder duchy owner)
+}
+953.1.1 = {
+	liege = k_egypt
+}
+954.1.1 = {
+	holder = 1236120 # Muslim Banu Husayni (Placeholder duchy owner)
+}
+967.1.1 = {
+	holder = 1236121 # Tahir Banu Husayni
+}
+992.1.1 = {
+	holder = 1236122 # al-Hasan Banu Husayni
+}
+1007.1.1 = {
+	holder = 1236112 # Daud Banu Husayni
+}
+1014.1.1 = {
+	holder = 1236111 # Hani Banu Husayni
+}
+1016.1.1 = {
+	holder = 1236123 # Muhanna Banu Husayni
+}
+1018.1.1 = {
+	holder = 1236110 # Ubayd-Allah Banu Husayni
+}
+1021.1.1 = {
+	holder = 1236125 # Hashim Banu Husayni
+}
+1040.1.1 = {
+	holder = 1236126 # al-Husayn Banu Husayni
+}
+1063.1.1 = {
+	liege = 0
+	set_tribute_suzerain = {
+		who = k_egypt
+		type = permanent
+	}
+}
+1078.1.1 = {
+	holder = 1236128 # Mansur Banu Husayni
+}
+1080.1.1 = {
+	liege = k_persia
+	clear_tribute_suzerain = k_egypt
+}
+1094.1.1 = {
+	liege = 0
+}
+1099.1.1 = {
+	liege = k_egypt
+}
+1103.1.1 = {
+	holder = 1236129 # Qasim Banu Husayni
+}
+1135.1.1 = {
+	holder = 1236108 # al-Husayn Banu Husayni
+}
+1149.1.1 = {
+	holder = 1236107 # Muhanna Banu Husayni
+}
+1170.1.1 = {
+	holder = 1236106 # Qasim Banu Husayni
+}
+1194.1.1 = {
+	holder = 1236130 # Salim Banu Husayni
+}
+1216.1.1 = {
+	holder = 1236133 # Qasim Banu Husayni
+}
+1226.1.1 = {
+	holder = 1236134 # Shiha Banu Husayni
+}
+1249.1.1 = {
+	holder = 1236135 # Isa Banu Husayni
+}
+1271.1.1 = {
+	holder = 0
+}

@@ -1,0 +1,84 @@
+# -*- ck2.history.titles -*-
+
+630.1.1 = {
+	liege = d_sharif_medina
+}
+767.1.1={
+	holder=188620
+}
+841.1.1 = {
+	holder = 1236115 # Tahir Banu Husayni
+}
+888.1.1 = {
+	holder = 1236114 # Ubayd-Allah Banu Husayni
+}
+920.1.1 = {
+	holder = 1236113 # al-Qasim Banu Husayni
+}
+954.1.1 = {
+	holder = 1236120 # Muslim Banu Husayni
+}
+967.1.1 = {
+	holder = 1236121 # Tahir Banu Husayni
+}
+992.1.1 = {
+	holder = 1236122 # al-Hasan Banu Husayni
+}
+1007.1.1 = {
+	holder = 1236112 # Daud Banu Husayni
+}
+1014.1.1 = {
+	holder = 1236111 # Hani Banu Husayni
+}
+1016.1.1 = {
+	holder = 1236123 # Muhanna Banu Husayni
+}
+1018.1.1 = {
+	holder = 1236110 # Ubayd-Allah Banu Husayni
+}
+1021.1.1 = {
+	holder = 1236125 # Hashim Banu Husayni
+}
+1040.1.1 = {
+	holder = 1236126 # al-Husayn Banu Husayni
+}
+1078.1.1 = {
+	holder = 1236128 # Mansur Banu Husayni
+}
+1103.1.1 = {
+	holder = 1236129 # Qasim Banu Husayni
+}
+1135.1.1 = {
+	holder = 1236108 # al-Husayn Banu Husayni
+}
+1149.1.1 = {
+	holder = 1236107 # Muhanna Banu Husayni
+}
+1170.1.1 = {
+	holder = 1236106 # Qasim Banu Husayni
+}
+1194.1.1 = {
+	holder = 1236130 # Salim Banu Husayni
+}
+1216.1.1 = {
+	holder = 1236133 # Qasim Banu Husayni
+}
+1226.1.1 = {
+	holder = 1236134 # Shiha Banu Husayni
+}
+1249.1.1 = {
+	holder = 1236135 # Isa Banu Husayni
+}
+1271.1.1 = {
+	liege = d_sharif_mecca
+	holder = 34056
+}
+1301.1.1 = {
+	holder = 34060
+}
+1302.1.1 = {
+	holder = 34062
+}
+1314.1.1 = {
+	holder = 34060
+}

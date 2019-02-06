@@ -1,39 +1,38 @@
 # -*- ck2.history.titles -*-
 
-690.1.1 = {
-	liege = d_damascus
-	holder = 146054
+630.1.1 = {
+	liege = d_sharif_medina
 }
-710.1.1 = {
-	holder = 146055
+767.1.1={
+	holder=188619
 }
-726.1.1 = {
-	holder = 146056
+841.1.1 = {
+	holder = 1236115 # Tahir Banu Husayni
 }
-744.1.1 = {
-	holder = 146057
+888.1.1 = {
+	holder = 1236114 # Ubayd-Allah Banu Husayni
 }
-750.1.1 = {
+920.1.1 = {
+	holder = 1236113 # al-Qasim Banu Husayni
 }
-752.1.1 = {
-	holder = 146058
+954.1.1 = {
+	holder = 1236120 # Muslim Banu Husayni
 }
-756.1.1 = {
-	holder = 146059
-}
-855.1.1 = {
-	holder = 1230178
-	liege = d_damascus
-}
-870.1.1 = {
-	holder = 0
+967.1.1 = {
+	holder = 1236121 # Tahir Banu Husayni
 }
 992.1.1 = {
-	liege = d_jerusalem
-	holder = 1500002 # Mufarrij ibn Daghfal returned to Palestine and resumed his tribe's dominant position upon the death of Ibn Killis
+	holder = 1236122 # al-Hasan Banu Husayni
+}
+1007.1.1 = {
+	holder = 1236112 # Daud Banu Husayni
 }
 1013.1.1 = {
+	liege = d_damascus
 	holder = 1500003
+}
+1018.1.1 = {
+	liege = d_jerusalem
 }
 1022.1.1 = {
 	liege = d_damascus
