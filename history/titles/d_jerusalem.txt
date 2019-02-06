@@ -1,7 +1,7 @@
 # -*- ck2.history.titles -*-
 
 690.1.1 = {
-	liege = e_arabia
+	liege = k_syria
 	holder = 146022
 }
 735.1.1 = {

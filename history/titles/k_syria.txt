@@ -1,0 +1,12 @@
+# -*- ck2.history.titles -*-
+
+750.1.1 = {
+	holder = 146061
+	set_tribute_suzerain = {
+		who = e_arabia
+		type = permanent
+	}
+}
+782.1.1 = {
+	holder = 0
+}

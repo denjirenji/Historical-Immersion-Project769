@@ -1,0 +1,93 @@
+# -*- ck2.history.titles -*-
+
+706.1.1 = {
+	liege = d_damascus
+}
+754.1.1 = {
+	holder = 146127
+}
+783.1.1 = {
+	holder = 146019
+}
+794.1.1 = {
+	holder = 146021
+}
+865.1.1 = {
+	holder = 1232475
+}
+921.1.1 = {
+	holder = 1234923
+	liege = d_tripoli
+}
+939.1.1 = {
+	holder = 1234921
+}
+961.1.1 = {
+	holder = 1234895
+}
+996.1.1 = {
+	holder = 1234896
+}
+1019.1.1 = {
+	holder = 1234898
+}
+1038.1.1 = {
+	holder = 1234903
+}
+1072.1.1 = {
+	holder = 1234906
+}
+1099.1.1 = {
+	holder = 144234
+}
+1099.7.15 = {
+	liege = 0
+}
+1109.7.12 = {
+	liege = d_tripoli
+	holder = 223671 # Bertrand
+}
+1112.1.1 = {
+	holder = 223670 # Pons
+}
+1137.3.1 = {
+	holder = 223660 # Raymond II
+}
+1152.1.1 = {
+	holder = 223650 # Raymond III
+}
+1187.9.1 = {
+	holder = 223651 # Raymond IV
+}
+1198.6.1 = {
+	holder = 223755 # Bohemond I
+}
+1233.3.1 = {
+	holder = 31024 # Bohemond II
+}
+1252.1.1 = {
+	holder = 31031 # Bohemond III
+}
+1275.1.1 = {
+	holder = 31034 # Bohemond IV
+}
+1287.10.19 = {
+	holder = 31036 # Lucia I
+}
+# Tortosa still has d_tripoli after c_tripoli falls
+1289.3.1 = {
+	liege = k_egypt
+	holder = 93447 # K_Egypt
+}
+1291.8.14 = {
+	liege = d_tripoli
+}
+1292.1.1 = {
+	holder = 93448
+}
+1310.1.1 = {
+	holder = 93449
+}
+1330.1.1 = {
+	holder = 93450
+}
