@@ -1,7 +1,8 @@
 baqt = {
 	tributary_name = "Baqt"
 	tributary_plural = "Baqt"
-	tribute_name = TRIBUTARY_DEFAULT_TRIBUTE
+	suzerain_name = "Baqt"
+	tribute_name = "Baqt"
 	breaks_at_suzerain_death = no
 	breaks_at_tributary_death = no
 	suzerain_must_defend = no
