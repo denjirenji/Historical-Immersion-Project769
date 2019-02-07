@@ -1,41 +1,44 @@
 # -*- ck2.history.titles -*-
 
-635.1.1 = {
-	liege = d_azerbaijan
-	holder = 159626
+765.1.1 = {
+	liege = e_arabia
+	holder = 188644 # Yahya Barmakid
 }
-660.1.1 = {
-	holder = 159967
+858.1.1 = {
+	holder = 146077
 }
-703.1.1 = {
-	holder = 159968
+866.1.1 = {
+	holder = 1234960
 }
-723.1.1 = {
-	holder = 159969
+889.1.1 = {
+	liege = 0
+	holder = 1230590
 }
-743.1.1 = {
-	holder = 159970
+901.1.1 = {
+	holder = 1230591
 }
-768.1.1 = {
-	holder = 159977
+928.1.1 = {
+	holder = 1230592
 }
-780.1.1 = {
-	liege = d_shirvan
-	holder = 146071
+929.1.1 = {
+	holder = 1231417
 }
-815.1.1 = {
-	holder = 1231425
+941.1.1 = {
+	holder = 180766
 }
-850.1.1 = {
-	holder = 1231426
+949.1.1 = {
+	holder = 1231417
 }
-881.1.1 = {
-	holder = 159148
+953.1.1 = {
+	holder = 180766
 }
-900.1.1 = {
-	holder = 159149
+957.1.1 = {
+	holder = 1231414
 }
-955.1.1 = {
+960.1.1 = {
+	holder = 1231415
+}
+979.1.1 = {
 	holder = 159150
 }
 988.1.1 = {
@@ -48,7 +51,11 @@
 	holder = 159153
 }
 1054.1.1 = {
+	liege = k_khorasan
 	holder = 20722
+}
+1055.1.1 = {
+	liege = e_persia
 }
 1071.1.1 = {
 	holder = 3040
@@ -61,6 +68,9 @@
 #1131-1143: Dawud 144048
 1093.9.1 = {
 	holder = 144014 # Muhammad Tapar
+}
+1117.1.1 = {
+	liege = k_persia
 }
 1118.4.18 = {
 	holder = 144049 #Mas'ud  b. Muhammad Tapar
@@ -75,30 +85,48 @@
 	holder = 1230225
 }
 1147.1.1 = {
-	liege = d_albania
-	holder = 144051
+	holder = 1230159
+}
+1174.1.1 = {
+	holder = 1230160
 }
 1175.1.1 = {
-	liege = d_azerbaijan
 	holder = 144052
 }
 1186.1.1 = {
 	holder = 225015
 }
+1190.1.1 = {
+	liege = 0 #Qizil Arslan removes the name of the Seljuk sultan from his coins
+}
 1191.1.1 = {
 	holder = 93296
 }
+#1194.3.1 = {
+#	liege = 0
+#}
 1210.1.1 = {
 	holder = 93297
+}
+1216.1.1 = {
+	liege = k_khwarezmia
 }
 1220.1.1 = {
 	holder = 93298
 }
+1221.1.1 = {
+	liege = 0
+}
 1225.1.1 = {
+	liege = k_khwarezmia
 	holder = 93053
 }
 1231.1.1 = {
+	liege = e_mongol_empire
 	holder = 93253
+}
+1234.2.10 = {
+	liege = e_china_west_governor
 }
 1242.1.1 = {
 	holder = 93254
@@ -111,6 +139,9 @@
 }
 1259.1.1 = {
 	holder = 478011
+}
+1259.8.11 = {
+	liege = e_il-khanate
 }
 1265.2.8 = {
 	holder = 478010
@@ -140,6 +171,8 @@
 	holder = 125528
 }
 1336.4.10 = {
-	liege = d_artsakh
-	holder = 478031
+	holder = 478000
+}
+1336.7.24 = {
+	holder = 478030
 }

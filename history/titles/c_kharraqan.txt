@@ -1,59 +1,75 @@
 # -*- ck2.history.titles -*-
 
-635.1.1 = {
-	liege = d_azerbaijan
-	holder = 159626
-}
-660.1.1 = {
-	holder = 159967
-}
-703.1.1 = {
-	holder = 159968
-}
-723.1.1 = {
-	holder = 159969
-}
-743.1.1 = {
-	holder = 159970
-}
 768.1.1 = {
-	holder = 159977
+	liege = d_gilan
+	holder = 180750 # Justan I
 }
-780.1.1 = {
-	liege = d_shirvan
-	holder = 146071
+791.1.1 = {
+	liege = 0
 }
-815.1.1 = {
-	holder = 1231425
-}
-850.1.1 = {
-	holder = 1231426
-}
-881.1.1 = {
-	holder = 159148
+#805.1.1 = {
+#	holder = 180751 # Marzoban Justanid
+#}
+#835.1.1 = {
+#	holder = 180752 # Justan II
+#}
+#856.1.1 = {
+#	holder = 41605 # Wahsudan Justanid
+#}
+865.1.1 = {
+	liege = d_tabarestan
+	holder = 45108
 }
 900.1.1 = {
-	holder = 159149
+	liege = 0
+	holder = 180755 # Justan III
 }
-955.1.1 = {
-	holder = 159150
+916.1.1 = {
+	holder = 180758 # Khosrow Firuz Justanid
 }
-988.1.1 = {
-	holder = 159151
+920.1.1 = {
+	holder = 180759 # Mahdi Justanid
 }
-1001.1.1 = {
-	holder = 159152
+928.1.1 = {
+	holder = 180760 # Justan IV
 }
-1019.1.1 = {
-	holder = 159153
+940.1.1 = {
+	holder = 180761 # Manadhar Justanid
 }
-1054.1.1 = {
-	holder = 20722
+942.1.1 = {
+	holder = 180767 # Wahsudan Sallarid
 }
-1071.1.1 = {
-	holder = 3040
+950.1.1 = {
+	liege = k_persia #?
 }
+966.1.1 = {
+	holder = 1231085
+}
+997.1.1 = {
+	holder = 1231086
+}
+1032.1.1 = {
+	holder = 1231087
+}
+1044.1.1 = {
+	liege = k_khorasan
+}
+1050.1.1 = {
+	holder = 1231088
+}
+1055.1.1 = {
+	liege = e_persia
+}
+1062.1.1 = {
+	liege = d_gilan
+	holder = 93160 #Yaquti b. Chagri
+}
+#1071.1.1 = {
+#	liege = e_persia
+#	holder = 3040
+#}
 1072.11.1 = {
+	liege = d_azerbaijan
 	holder = 1229949 # Isma'îl b.Yaquti
 }
 #1093?-1118?: Muhammad Tapar 144014
@@ -83,6 +99,7 @@
 	holder = 144052
 }
 1186.1.1 = {
+	liege = d_azerbaijan
 	holder = 225015
 }
 1191.1.1 = {
@@ -95,7 +112,7 @@
 	holder = 93298
 }
 1225.1.1 = {
-	holder = 93053
+	holder = 93299
 }
 1231.1.1 = {
 	holder = 93253
@@ -111,6 +128,9 @@
 }
 1259.1.1 = {
 	holder = 478011
+}
+1259.8.11 = {
+	liege = e_il-khanate
 }
 1265.2.8 = {
 	holder = 478010
@@ -137,9 +157,12 @@
 	holder = 478006
 }
 1335.12.1 = {
+	liege = e_il-khanate
 	holder = 125528
 }
 1336.4.10 = {
-	liege = d_artsakh
-	holder = 478031
+	holder = 478000
+}
+1336.7.24 = {
+	holder = 478030
 }

@@ -1,0 +1,119 @@
+# -*- ck2.history.titles -*-
+
+660.1.1={
+	holder = 216023 # Dabuya
+}
+712.1.1={
+	holder = 216021 # Farrukhan the Great
+}
+728.1.1={
+	holder = 216020 # Dadhburzmihr Dabuyid
+}
+740.1.1={
+	holder = 216013 # Khurshid Dabuyid
+}
+768.1.1={
+	liege = e_arabia
+	holder = 160290 # Surkhab Bavand II
+}
+862.1.1 = {
+	holder = 163161
+	liege = 0
+}
+864.1.1 = {
+	holder = 45108 # Hasan ibn Zayd
+}
+#ca 1030-1037 Ghaznavid vassal
+1063.9.4 = {
+	liege = e_persia
+	holder = 3040
+}
+# SWMH history
+1066.1.1 = {
+	holder = 1229909
+}
+# vanilla again
+1074.1.1 = {
+	liege = k_persia
+	holder = 3042
+}
+1090.1.1 = {
+	holder = 41606
+}
+1114.1.1 = {
+	holder = 93162
+}
+1117.1.1 = {
+	holder = 93163
+}
+#1118?-1137: Toghrul 144050, Caspian provinces and northern Jebal
+1118.1.1 = {
+	holder = 93164
+}
+1120.1.1 = {
+	liege = e_persia
+}
+1142.1.1 = {
+	holder = 93165
+}
+1156.1.1 = {
+	liege = 0
+}
+1165.1.1 = {
+	holder = 93166
+}
+1173.1.1 = {
+	holder = 93167
+}
+1206.1.1 = {
+	holder = 93168
+}
+1210.1.1 = {
+	liege = k_khwarezmia
+	holder = 1230173
+}
+1221.1.1 = {
+	liege = 0
+	holder = 93054
+}
+1223.1.1 = {
+	liege = k_khwarezmia
+}
+1229.1.1 = {
+	holder = 93053
+}
+1231.1.1 = {
+	liege = 0
+	holder = 0
+}
+1238.1.1 = {
+	liege = e_china_west_governor
+	holder = 93169
+}
+1249.1.1 = {
+	holder = 93170
+}
+1259.8.11 = {
+	liege = e_il-khanate
+}
+1267.1.1 = {
+	holder = 93171
+}
+1271.1.1 = {
+	holder = 93172
+}
+1300.1.1 = {
+	holder = 93173
+}
+1310.1.1 = {
+	holder = 93174
+}
+1328.1.1 = {
+	holder = 93175
+}
+1334.1.1 = {
+	holder = 93176
+}
+1336.4.10 = {
+	liege = k_daylam
+}

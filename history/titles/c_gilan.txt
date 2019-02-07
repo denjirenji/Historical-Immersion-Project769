@@ -1,0 +1,124 @@
+# -*- ck2.history.titles -*-
+
+755.1.1 = {
+	liege = d_tabarestan
+	holder = 160290 # Surkhab Bavand II
+}
+856.1.1 = {
+	holder = 1231094
+}
+901.1.1 = {
+	holder = 166987
+}
+931.1.1 = {
+	holder = 166989
+}
+935.1.19 = {
+	holder = 166990
+}
+940.1.1 = {
+	liege = k_persia #?
+	holder = 180761 # Manadhar Justanid
+}
+970.1.1 = {
+	holder = 180762 # Khosrow Justanid
+}
+#Ideally Alid imams
+1006.1.1 = {
+	holder = 1231091
+}
+1010.1.1 = {
+	holder = 1231092
+}
+1043.1.1 = {
+	liege = k_khorasan
+}
+1044.1.1 = {
+	holder = 1231093
+}
+1055.1.1 = {
+	liege = e_persia
+}
+1062.1.1 = {
+	liege = d_gilan
+	holder = 93160 #Yaquti b. Chagri
+}
+1072.11.1 = {
+	liege = e_persia
+	holder = 3042
+}
+1074.1.1 = {
+	liege = d_tabarestan
+	holder = 41606
+}
+1114.1.1 = {
+	holder = 93162
+}
+1117.1.1 = {
+	holder = 93163
+}
+1118.1.1 = {
+	holder = 93164
+}
+1142.1.1 = {
+	holder = 93165
+}
+1165.1.1 = {
+	holder = 93166
+}
+1173.1.1 = {
+	holder = 93167
+}
+1206.1.1 = {
+	holder = 93168
+}
+1210.1.1 = {
+	holder = 1230173
+}
+1221.1.1 = {
+	holder = 93054
+}
+1229.1.1 = {
+	holder = 93053
+}
+1231.1.1 = {
+	liege = d_azerbaijan
+	holder = 93253
+}
+1238.1.1 = {
+	liege = e_china_west_governor
+	holder=93187
+}
+1259.8.11 = {
+	liege = e_il-khanate
+}
+1272.1.1=
+{
+	holder=93188
+}
+1302.1.1=
+{
+	holder=93189
+}
+1312.1.1=
+{
+	holder=93190
+}
+1318.1.1=
+{
+	holder=93191
+}
+1325.1.1=
+{
+	holder=93192
+}
+1334.1.1=
+{
+	holder=93193
+}
+1336.4.10 = {
+	liege = k_daylam
+}
+1337.1.1 = {
+	liege = d_gilan
+}

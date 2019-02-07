@@ -1,0 +1,22 @@
+# -*- ck2.history.titles -*-
+
+768.1.1 = {
+	holder = 180750 # Justan I
+	liege = e_arabia
+}
+805.1.1 = {
+	liege = 0
+	holer = 0
+}
+1062.1.1 = {
+	liege = e_persia
+	holder = 93160 #Yaquti b. Chagri
+}
+1072.11.1 = {
+	liege = 0
+	holder = 0
+}
+1337.1.1 = {
+	liege = k_daylam
+	holder = 93193
+}

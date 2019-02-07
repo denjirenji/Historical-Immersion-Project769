@@ -1,0 +1,131 @@
+# -*- ck2.history.titles -*-
+
+660.1.1={
+	liege = d_tabarestan
+	holder = 216023 # Dabuya
+}
+712.1.1={
+	holder = 216021 # Farrukhan the Great
+}
+728.1.1={
+	holder = 216020 # Dadhburzmihr Dabuyid
+}
+740.1.1={
+	holder = 216013 # Khurshid Dabuyid
+}
+755.1.1 = {
+	liege = d_tabarestan
+	holder = 160290 # Surkhab Bavand II
+}
+862.1.1 = {
+	liege = d_tabarestan
+	holder = 163161
+}
+867.1.1 = {
+	holder = 45108
+}
+931.1.1 = {
+	liege = d_gurgan
+	holder = 166989
+}
+935.1.19 = {
+	holder = 166990
+}
+967.1.1 = {
+	holder = 166992
+}
+977.8.6 = {
+	holder = 166993
+}
+1012.6.11 = {
+	holder = 166994
+}
+1029.1.2 = {
+	holder = 166995
+}
+1050.1.1 = {
+	holder = 20703
+}
+1057.1.1 = {
+	liege = e_persia
+	holder = 20704
+}
+# SWMH history
+1066.1.1 = {
+	liege = d_tabarestan
+	holder = 1229909
+}
+# vanilla again
+1074.1.1 = {
+	holder = 41606
+}
+
+1109.1.1=
+{
+	holder=93180
+}
+1168.1.1=
+{
+	holder=93181
+}
+1184.1.1=
+{
+	holder=93182
+}
+1210.1.1=
+{
+	holder=93183
+}
+1213.1.1=
+{
+	holder=93184
+}
+1223.1.1=
+{
+	holder=93185
+}
+1230.1.1=
+{
+	holder=93186
+}
+1231.1.1 = {
+	liege = d_rayy
+}
+1236.1.1=
+{
+	liege = e_china_west_governor
+	holder=93187
+}
+1259.8.11 = {
+	liege = e_il-khanate
+}
+1272.1.1=
+{
+	holder=93188
+}
+1302.1.1=
+{
+	holder=93189
+}
+1312.1.1=
+{
+	holder=93190
+}
+1318.1.1=
+{
+	holder=93191
+}
+1325.1.1=
+{
+	holder=93192
+}
+1334.1.1=
+{
+	holder=93193
+}
+1336.4.10 = {
+	liege = k_daylam
+}
+1337.1.1 = {
+	liege = d_gilan
+}
