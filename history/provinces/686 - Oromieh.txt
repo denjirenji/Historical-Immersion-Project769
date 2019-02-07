@@ -1,0 +1,25 @@
+# -*- ck2.history.provinces -*-
+
+# 686 - Oromieh
+
+# County Title
+title = c_oromieh
+
+# Settlements
+max_settlements = 5
+b_oroumieh = castle
+b_khoy = city
+b_osnuye = city
+b_salmas = temple
+
+#b_avajiq = castle
+#b_chaldiran = castle
+#b_charekelisa = temple
+#b_mahabad = city
+
+#Misc
+culture = kurdish
+religion = zoroastrian
+
+# History
+867.1.1 = { religion = sunni }

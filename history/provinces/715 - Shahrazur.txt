@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 715 - Shahrazur
+
+# County Title
+title = c_shahrazur
+
+# Settlements
+max_settlements = 3
+
+b_shahrazur = castle
+b_tiranshah = castle
+#b_sine = city
+
+
+#Misc
+culture = kurdish
+religion = zoroastrian
+
+# History
+867.1.1 = { religion = kharijite }
+910.1.1 = {
+	religion = sunni
+}
