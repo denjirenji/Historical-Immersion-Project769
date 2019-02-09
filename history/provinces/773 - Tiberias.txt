@@ -23,11 +23,9 @@ b_nazareth = temple
 
 
 # Misc
-culture = assyrian
+culture = levantine_arabic
 religion = orthodox
 
 # History
-
-850.1.1 = { culture = levantine_arabic }
 
 1270.1.1 = { religion = sunni }

@@ -18,10 +18,8 @@ b_banyas = castle
  
 
 # Misc
-culture = assyrian
-religion = maronite
+culture = levantine_arabic
+religion = sunni
 
 # History
 
-867.1.1 = { culture = levantine_arabic }
-867.1.1 = { religion = sunni }

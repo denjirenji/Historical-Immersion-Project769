@@ -14,13 +14,12 @@ b_salamiyah = city
 
 
 # Misc
-culture = assyrian
-religion = syriac
+culture = levantine_arabic
+religion = ismaili
 
 
 # History
 867.1.1 = { 
-	culture = levantine_arabic 
 	religion = ismaili
 }
 1282.1.1 = { b_shmemiscastle = tribal culture = bedouin_arabic } #Tribalisation/Nomadization of Palmyra and Salamiyya

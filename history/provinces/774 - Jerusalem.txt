@@ -19,12 +19,11 @@ b_blanchegarde = castle
 
 
 # Misc
-culture = assyrian
+culture = levantine_arabic
 religion = orthodox
 
 # History
 
-850.1.1 = { culture = levantine_arabic }
 850.1.1 = { religion = sunni }
 867.1.1 = { 
 	b_towerofdavid = ca_keep_1

@@ -18,12 +18,11 @@ b_tyrus = temple
 
 
 # Misc
-culture = assyrian
+culture = levantine_arabic
 religion = orthodox
 
 # History
 
-850.1.1 = { culture = levantine_arabic }
 850.1.1 = { religion = sunni }
 867.1.1 = { 
 	b_acre = ct_wall_1

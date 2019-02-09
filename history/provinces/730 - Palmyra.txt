@@ -20,14 +20,10 @@ b_palmyra = temple
 
 
 # Misc
-culture = assyrian
-religion = syriac
-
+culture = levantine_arabic
+religion = sunni
 
 # History
-867.1.1 = { 
-	culture = levantine_arabic 
-	religion = sunni
-}
+
 1282.1.1 = { remove_settlement = b_arak culture = bedouin_arabic } #Tribalisation/Nomadization of Palmyra and Salamiyya
 1282.1.1 = { b_baalshamin = tribal } #Tribalisation/Nomadization of Palmyra and Salamiyya

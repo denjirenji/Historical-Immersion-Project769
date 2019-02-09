@@ -14,10 +14,7 @@ b_bethgibelin = castle
 #b_syrsebbe = temple
 
 # Misc
-culture = assyrian
-religion = orthodox
+culture = levantine_arabic
+religion = sunni
 
 # History
-
-850.1.1 = { culture = levantine_arabic }
-850.1.1 = { religion = sunni }
