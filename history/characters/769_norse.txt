@@ -1,0 +1,54 @@
+2000200 = {
+	name="Asa"
+	dynasty=836
+	religion="norse_pagan"
+	culture="norse"
+	female=yes
+	715.1.1={
+		birth = yes
+	}
+	775.1.1={
+		death = yes
+	}
+}
+2000201 = {
+	name="Eirikr"
+	dynasty=1045013
+	religion="norse_pagan"
+	culture="norse"
+	715.1.1={
+		birth = yes
+	}
+	765.1.1={
+		death = yes
+	}
+}
+2000202 = {
+	name="Hild"
+	dynasty=1045013
+	father=2000201
+	religion="norse_pagan"
+	culture="norse"
+	female=yes
+	750.1.1={
+		birth = yes
+	}
+	765.1.1 = {
+		add_spouse = 168317
+	}
+	825.1.1={
+		death = yes
+	}
+}
+2000203 = {
+	name="Olaf"
+	dynasty=2000000150
+	religion="norse_pagan"
+	culture="norse"
+	705.1.1={
+		birth="705.1.1"
+	}
+	755.1.1={
+		death="755.1.1"
+	}
+}

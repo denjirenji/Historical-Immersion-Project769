@@ -1,0 +1,72 @@
+# -*- ck2.history.titles -*-
+
+644.1.1 = {
+	liege = e_arabia
+}
+765.1.1 = {
+	holder = 188605
+}
+866.1.1 = {
+	holder = 178018
+}
+899.1.1 = {
+	holder = 1230951
+}
+#908.1.1 = {
+#	liege = k_sistan
+#}
+940.1.1 = {
+	holder = 1230952
+}
+978.1.1 = {
+	set_tribute_suzerain = {
+		who = k_kafarestan
+		type = permanent
+	}
+}
+980.1.1 = {
+	holder = 188544
+}
+1010.1.1 = {
+	set_tribute_suzerain = {
+		who = k_kafarestan
+		type = permanent
+	}
+}
+1026.1.1 = {
+	holder = 188545
+}
+1029.1.1 = {
+	clear_tribute_suzerain = k_kafarestan # Isa's rebellion
+	holder = 188546
+}
+1031.1.1 = {
+	set_tribute_suzerain = {
+		who = k_kafarestan
+		type = permanent
+	}
+}
+1059.1.1 = {
+	holder = 188547
+}
+1085.1.1 = {
+	holder = 188548 # ? Ma'danid
+}
+1105.1.1 = {
+	holder = 188549 # ? Ma'danid
+}
+1130.1.1 = {
+	holder = 188550 # ? Ma'danid
+}
+1150.1.1 = {
+	holder = 1230972
+}
+1153.1.1 = {
+	clear_tribute_suzerain = k_kafarestan
+}
+1183.1.1 = {
+	holder = 1230973
+}
+1187.1.1 = {
+	holder = 0
+}

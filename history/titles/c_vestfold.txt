@@ -1,11 +1,21 @@
 # -*- ck2.history.titles -*-
 
 764.1.1 = {
-	holder = 194014
+	holder = 168317
+	liege = d_ostlandet
 }
-850.1.1 = {
-	liege = d_opplandene
-	holder = 161301 # Eystein Glumra king or jarl of Oppland
+790.1.1 = {
+	liege = d_ostlandet
+	holder = 168319
+}
+833.1.1 = {
+	holder = 168320
+}
+865.1.1 = {
+	holder = 168323
+}
+866.1.1 = {
+	holder = 144000
 }
 872.1.1 = {
 	liege = k_norway
@@ -27,9 +37,6 @@
 }
 1064.1.1 = {
 	liege = k_norway
-	holder = 144248
-}
-1066.1.1 = {
 	holder = 102534
 }
 1093.1.1 = {
@@ -58,7 +65,7 @@
 	holder = 202021
 }
 1187.1.1 = {
-	holder = 202006
+	holder = 202004
 }
 1200.1.1 = {
 	holder = 202500 # Sverre Sigurdsson
@@ -86,8 +93,4 @@
 }
 1319.5.8 = {
 	holder = 450500 # Magnus Eriksson (Bjälbo)
-}
-1337.1.1 = {
-	liege = k_norway
-	holder = 450670
 }

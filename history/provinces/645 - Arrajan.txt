@@ -1,0 +1,24 @@
+# -*- ck2.history.provinces -*-
+
+# 645 - Arraján
+
+# County Title
+title = c_arrajan
+
+# Settlements
+max_settlements = 5
+b_arrajan = castle
+b_ganava = temple
+b_kazarun = city
+b_khubdhan = castle
+
+#b_siniz = city
+#b_tavvadj = castle
+
+# Misc
+culture = persian
+religion = zoroastrian
+
+# History
+947.1.1 = { religion = sunni }
+950.1.1 = { b_siniz = city }

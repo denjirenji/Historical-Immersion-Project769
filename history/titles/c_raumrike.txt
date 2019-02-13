@@ -1,7 +1,8 @@
 # -*- ck2.history.titles -*-
 
-730.1.1 = {
-	holder = 194009
+764.1.1 = {
+	holder = 168317
+	liege = d_ostlandet
 }
 833.1.1 = {
 	liege = d_ostlandet

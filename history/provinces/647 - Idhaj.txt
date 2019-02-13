@@ -1,0 +1,21 @@
+# -*- ck2.history.provinces -*-
+
+# 647 - Idháj
+
+# County Title
+title = c_idhaj
+
+# Settlements
+max_settlements = 5
+b_ramhurmuz = castle
+b_idhadj = city
+b_askar-mukram = temple
+#b_tustar = castle
+#b_sus-khuzestani = temple
+
+#Misc
+culture = persian
+religion = mazdaki
+
+# History
+867.1.1 = { religion = sunni }

@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 894 - Mashkél
+
+# County Title
+title = c_mashkel
+
+# Settlements
+max_settlements = 3
+b_saravan = castle
+b_djalk = city
+b_dizak = temple
+
+
+# Misc
+culture = brahui
+religion = zoroastrian
+
+# History
+867.1.1 = { religion = kharijite }
+1050.1.1 = {	religion = sunni }
+1090.1.1 = {	culture = baloch }

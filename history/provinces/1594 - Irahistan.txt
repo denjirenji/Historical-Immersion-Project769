@@ -1,0 +1,30 @@
+# -*- ck2.history.provinces -*-
+
+# 1594 - Irahistan
+
+# County Title
+title = c_siraf
+
+# Settlements
+max_settlements = 4
+b_naband = castle
+b_siraf = city
+b_kuran = temple
+b_lawan = city
+
+# Misc
+culture = pahlavi
+religion = zoroastrian
+
+# History
+870.1.1 = { culture = persian }
+870.1.1 = { culture = sunni }
+#1030.1.1 = { b_siraf = city }
+#1062.1.1 = { b_naband = tribal }
+1065.1.1 = { #977 earthquake, 1060s-1070s occupation by Kish
+      remove_settlement = b_siraf
+      }
+1100.10.10 = {
+      remove_settlement = b_lawan
+      }
+#1150.1.1 = { b_naband = castle }

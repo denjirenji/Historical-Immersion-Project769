@@ -5326,6 +5326,7 @@
 	religion="norse_pagan"
 	culture="norse"
 	father=168316
+	mother=2000200
 	740.1.1={
 		birth="740.1.1"
 	}
@@ -6260,6 +6261,7 @@
 168648 = {
 	name="Sigurðr" 
 	dynasty=9613
+	father=194011
 	religion="norse_pagan"
 	culture="norse"
 	800.1.1={
@@ -6426,8 +6428,9 @@
 	}
 }
 194011 = {
-	name = "Haukr"
-	dynasty = 1045019
+	name = "Guðröðr"
+	dynasty = 2000000150
+	father = 2000203
 	religion = norse_pagan
 	culture = norse
 	741.1.1 = {

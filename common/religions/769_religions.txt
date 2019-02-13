@@ -33,3 +33,62 @@ christian = {
 		religious_clothing_priest = 2
 	}
 }
+
+zoroastrian_group = {
+	qurramite = {
+		graphical_culture = persiangfx
+		secondary_event_pictures = sunni
+
+		icon = 10
+		heresy_icon = 12
+
+		color = { 0.3 0.65 0.25 }
+
+		parent = zoroastrian
+
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_GREAT_SECRET
+		high_god_name = GOD_AHURA_MAZDA
+		god_names = {
+			GOD_ZURVAN GOD_AHURA_MAZDA GOD_MANAH PROPHET_MAZDAK
+		}
+
+		unit_home_modifier = {
+			land_morale = 0.3
+			light_infantry_defensive = 0.3
+			heavy_infantry_defensive = 0.3
+			pikemen_defensive = 0.3
+			light_cavalry_defensive = 0.3
+			knights_defensive = 0.3
+			archers_defensive = 0.3
+			horse_archers_defensive = 0.3
+			camel_cavalry_defensive = 0.3
+			war_elephants_defensive = 0.3
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		character_modifier = {
+			castle_tax_modifier = -0.25
+			city_tax_modifier = -0.25
+			temple_tax_modifier = -0.25
+		}
+
+		can_grant_divorce = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+		can_grant_invasion_cb = invasion
+		religious_clothing_head = 5
+		religious_clothing_priest = 5
+		divine_blood = no
+		pc_marriage = yes
+		bs_marriage = no
+		feminist = yes
+		female_temple_holders = yes
+		matrilineal_marriages = yes
+		aggression = 0.6 # AI aggression factor
+		intermarry = muslim
+		intermarry = christian
+		intermarry = pagan_group
+		intermarry = jewish_group
+		intermarry = indian_group
+	}
+}

@@ -7,41 +7,55 @@
 # Dulafids or Ejlids
 840.10.10 = {
 	liege = d_jebal
-	holder = 1230537
+	holder = 163098
 }
-866.1.1 = {
-	liege = d_kermanshah
-	holder = 163132
+870.10.10 = {
+	holder = 163151
 }
-868.10.10 = {
-	liege = d_jebal
-	holder = 1230541
+930.1.1 = {
+	holder = 1231062
 }
-961.1.1 = {
-	liege = d_kurdistan
+949.12.12 = {
+	holder = 1231063
 }
-961.1.1 = {
-	holder = 1231401
+976.9.9 = {
+	holder = 1231068
 }
-979.1.1 = {
-	holder = 1231402
+984.1.1 = {
+	holder = 1231066
 }
-1011.1.1 = {
-	holder = 159198
+997.10.10 = {
+	holder = 1231081
 }
-1046.1.1 = {
-	holder = 159199
+1021.1.1 = {
+	holder = 1231082
+}
+1023.1.1 = {
+	holder = 1231052
+}
+1042.1.1 = {
+	holder = 1231054
 }
 1050.1.1 = {
-	liege = d_jebal
 	holder = 3038
 }
-1055.1.1 = {
-	liege = d_kermanshah
-	holder = 1231099
+1063.1.1 = {
+	liege = e_persia
+}
+1063.9.4 = {
+	liege = d_jebal
+	holder = 3040
+}
+1066.1.1 = {
+	holder = 3042
+}
+#1072.11.1 = {
+#	holder = 3042
+#}
+1092.11.1 = {
+	holder = 144012
 }
 1094.1.1 = {
-	liege = d_jebal
 	holder = 144013
 }
 1105.3.1 = {
@@ -68,19 +82,34 @@
 1134.6.1 = {
 	holder = 144049
 }
-1148.1.1 = {
-	liege = e_persia
-	holder = 144058
+1152.10.2 = {
+	holder = 144053
 }
-1155.1.1 = {
-	liege = d_ahwaz
-	holder = 1232021
+1153.1.1 = {
+	holder = 144054
 }
-1185.1.1 = {
-	liege = 0
-	holder = 1235934
+1157.5.8 = {
+	liege = d_albania
+	holder = 144051
 }
-1224.1.1 = {
+1175.1.1 = {
+	liege = d_azerbaijan
+	holder = 93297
+}
+1216.1.1 = {
+	liege = d_rayy
+	holder = 1230172
+}
+1218.1.1 = {
+	liege = d_jebal
+}
+1221.1.1 = {
+	holder = 93054
+}
+1223.1.1 = {
+	holder = 93053
+}
+1231.1.1 = {
 	liege = d_kermanshah
 	holder = 1235937
 }
@@ -109,9 +138,6 @@
 	holder = 1235948
 }
 1296.1.1 = {
-	holder = 1235951
-}
-1312.1.1 = {
 	holder = 1235949
 }
 1316.1.1 = {

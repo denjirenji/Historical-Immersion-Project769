@@ -1,0 +1,33 @@
+# -*- ck2.history.provinces -*-
+
+# 658 - Hamadan
+
+# County Title
+title = c_hamadan
+
+# Settlements
+max_settlements = 5
+b_hamadan = castle
+b_bahar = temple
+b_asadabad = city
+b_karadj = castle
+
+#b_saruk = castle
+
+# Misc
+culture = persian
+religion = qurramite
+
+# History
+
+867.1.1 = { 
+	b_hamadan = ca_keep_1
+	b_hamadan = ca_training_grounds_1
+	b_hamadan = ca_keep_2
+	b_hamadan = ca_stable_1
+	b_hamadan = ca_barracks_1
+	b_hamadan = ca_militia_barracks_1
+	b_hamadan = ca_wall_1
+	b_hamadan = ca_wall_2
+	religion = sunni
+}

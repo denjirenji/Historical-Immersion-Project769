@@ -1,0 +1,29 @@
+# -*- ck2.history.provinces -*-
+
+# 689 - Igharayn
+
+# County Title
+title = c_igharayn
+
+# Settlements
+max_settlements = 6
+b_nihavand = castle
+b_khurramabad = city
+b_burujerd = temple
+b_dorood = city
+
+#b_alashtar = castle
+#b_aligoodarz = castle
+
+#b_burdj = castle
+#b_lishtar = temple
+
+#Misc
+culture = persian
+religion = zoroastrian
+
+# History
+867.1.1 = { religion = sunni }
+#1066.1.1 = {
+#	b_alashtar = castle
+#}

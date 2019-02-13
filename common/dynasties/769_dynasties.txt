@@ -149,3 +149,12 @@ name="Voconti"
 	name= "Horvat"
 	culture ="proto_south_slavic"
 }
+
+######################################
+#Norse
+######################################
+
+2000000150 = {
+	name="Dögling"
+	culture = norse
+}

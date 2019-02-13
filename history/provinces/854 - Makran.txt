@@ -1,0 +1,34 @@
+# -*- ck2.history.provinces -*-
+
+# 854 - Makrán
+
+# County Title
+title = c_makran
+
+# Settlements
+max_settlements = 5
+
+b_bampur = tribal
+#b_fahraj = castle
+b_tiz = city
+#b_khwash = castle
+#b_rask = temple
+
+#b_iskaf = temple
+#b_bih = city
+#b_kasr-i-kand = castle
+#b_bint = castle
+
+# Misc
+culture = qufs
+religion = zoroastrian
+
+# History
+867.1.1 = { religion = kharijite }
+1090.1.1 = {	culture = baloch }
+1090.1.1 = { religion = sunni }
+1209.1.1 = {
+	b_bampur = castle
+	b_fahraj = castle
+	b_rask = temple
+}

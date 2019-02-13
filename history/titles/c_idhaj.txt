@@ -1,0 +1,120 @@
+# -*- ck2.history.titles -*-
+
+764.1.1 = {
+	liege = e_arabia
+	holder = 188649 # Jabir b Tubah al-Kibani
+}
+# Dulafids or Ejlids
+840.10.10 = {
+	liege = d_jebal
+	holder = 163098
+}
+860.10.10 = {
+	holder = 163151
+}
+864.1.1 = {
+	liege = d_ahwaz
+	holder = 1234931
+}
+868.10.10 = {
+	liege = d_jebal
+	holder = 1230541
+}
+945.1.1 = {
+	liege = d_tigris
+	holder = 1231064
+}
+967.4.8 = {
+	holder = 1231067
+}
+978.1.1 = {
+	holder = 1231065
+}
+983.6.9 = {
+	holder = 1231071
+}
+989.6.9 = {
+	holder = 1231072
+}
+1001.1.1 = {
+	holder = 1231121 # Ibn Ustadh-Hormuz, Governor of Iraq
+}
+1011.1.1 = {
+	holder = 1231072
+}
+1012.12.22 = {
+	holder = 1231073
+}
+1021.1.1 = {
+	holder = 1231074
+}
+1044.3.3 = {
+	liege = d_samarra
+	holder = 1231078
+}
+1048.10.10 = {
+	holder = 1231079
+}
+1050.1.1 = {
+	liege = d_ahwaz
+	holder = 1231054
+}
+1052.1.1 = {
+	holder = 1230552
+}
+1055.1.1 = {
+	liege = d_ahwaz
+}
+1070.1.1 = {
+	liege = d_jebal
+	holder = 3042
+}
+1092.11.1 = {
+	holder = 144012
+}
+1094.1.1 = {
+	holder = 144013
+}
+1105.3.1 = {
+	holder = 144014
+}
+1118.4.18 = {
+	liege = d_ahwaz
+	holder = 1229951
+}
+1138.1.1 = {
+	liege = d_jebal
+	holder = 144049
+}
+1148.1.1 = {
+	liege = e_persia
+	holder = 1232021
+}
+1155.1.1 = {
+	liege = d_ahwaz
+}
+1185.1.1 = {
+	liege = d_ahwaz
+	holder = 93200
+}
+1203.1.1 = {
+	holder = 93201
+}
+1230.1.1 = {
+	holder = 93202
+}
+1259.1.1 = {
+	holder = 93203
+}
+1274.1.1 = {
+	holder = 93204
+}
+1288.1.1 = {
+	holder = 93205
+}
+1296.1.1 = {
+	holder = 93206
+}
+1333.1.1 = {
+	holder = 93207
+}
